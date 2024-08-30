@@ -161,7 +161,7 @@ alt="Modules batch subscreen" />
     the changes. A message **"Batch process completed successfully."**
     will show.
 
-## Quick Tips
+## Tips
 
 - Joomla websites require at least 1
 - Other Module Types (for example
