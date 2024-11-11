@@ -1,58 +1,37 @@
-<!-- Filename: Help4.x:Extensions:_Languages / Display title: Extensions: Languages -->
+<!-- Filename: Help4.x:Extensions:_Languages / Display title: Расширения: Языки -->
 
 ## Описание
 
-This screen allows you to install languages. It shows all available
-languages and the actual version.
+Эта страница позволяет устанавливать языки. Она показывает все доступные языки и доступные версии языков, которые могут не совпадать с версиями Joomla. Это может привести к появлению английских текстовых меток на страницах, не являющихся английскими.
 
-## Как открыть
+### Общие элементы
 
-- Select **System → Install Panel → Languages** from the
-  Administrator menu.
+Некоторые элементы этой страницы описаны в отдельных статьях справки:
+
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Фильтры списка](jdocmanual?article=help/common-elements/list-filters).
+* [Заголовки колонок списка](jdocmanual?article=help/common-elements/list-column-headers).
+* [Порядок элементов списка](jdocmanual?article=help/common-elements/list-ordering).
+* [Пагинация списка](jdocmanual?article=help/common-elements/list-pagination).
+
+## Как получить доступ
+
+- Либо: выберите **Система → Установка → Установить языки** в
+  меню администратора.
+- Или: выберите **Система → Управление → Языки** в
+  меню администратора, а затем:
+  - Нажмите кнопку *Установить языки* на панели инструментов.
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/a/ac/Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="402"
-width="800" height="402"
-alt="Extensions Extension Manager InstallLanguages screen" />
+![Установить языки расширений](../../../ru/images/extensions/languages-install.png)
 
-## Column Headers
+## Заголовки столбцов
 
-\***Language.** Name of Language, sometimes with a national variation
-such as German AT or German DE. \***Language Tag.** This is a
-combination of two-character ISO language codes and country codes.
-\***Version.** The version of the Language package available.
-\***Details URL.** URL of the Language package.
+- **Язык** Название языка, иногда с указанием национального варианта, например, немецкий AT или немецкий DE.
+- **Языковой тег** Это комбинация двухсимвольных ISO-кодов языка и страны.
+- **Версия** Версия доступного языкового пакета.
+- **URL-адрес с подробной информацией** URL-адрес языкового пакета.
 
-## List Filters
+*Переведено openai.com*
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the Screenshot above.
-
-- **Search by Text**. Enter part of the search term and click the Search
-  icon. *Hover* to see a *Tooltip* indicating which fields will be
-  searched.To 'Search by ID' enter "id:x", where "x" is the ID number
-  (for example, "id:19").
-- **Filter Options**. Click to display the additional filters.
-- **Clear**. Click to clear the Filter field and restore the list to its
-  unfiltered state.
-- **Ordering**. Shows the current list ordering field. 2 ways to change
-  the order:
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- **Number to Display**. Shows the number of items in a list. Select
-  from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the Global Configuration.
-
-## Панель инструментов
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.

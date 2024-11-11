@@ -1,407 +1,240 @@
-<!-- Filename: Help4.x:Articles:_Edit / Display title: Материалы: Создание материала -->
+<!-- Filename: Help4.x:Articles:_Edit / Display title: Статьи: Редактирование -->
 
 ## Описание
 
-This screen is used to add a new or edit a existing Article, usually
-using a Wysiwyg editor. The default editor is TinyMCE but if other
-editors are installed the default editor may be set to something else
-for the site as a whole or for individual users.
+Эта страница используется для добавления новой статьи или редактирования существующей статьи, обычно с использованием редактора Wysiwyg. Редактор по умолчанию — это TinyMCE, но если установлены другие редакторы, редактор по умолчанию может быть изменен на что-то другое для всего сайта или для отдельных пользователей.
 
-Most parameters have suitable defaults but you might wish to set a
-specific Category or provide article-specific Metadata.
+### Общие элементы
 
-## Tutorials
+Некоторые аспекты этой страницы освещены в отдельных статьях справки:
 
-[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Вкладка "Схема"](jdocmanual?article=help/common-elements/edit-schema).
+* [Вкладка "Публикация"](jdocmanual?article=help/common-elements/edit-publishing).
+* [Вкладка "Ассоциации"](jdocmanual?article=help/common-elements/edit-associations).
+* [Вкладка "Разрешения"](jdocmanual?article=help/common-elements/edit-permissions).
+* [Всплывающее окно истории версий](jdocmanual?article=help/common-elements/edit-version-history).
 
-## Как открыть
-Выбирать **Контент → Материалы**
+И в пользовательских статьях:
 
-To add a Article:
+* [Добавление изображения в статью](jdocmanual?article=user/articles/adding-an-image-to-an-article)
 
-- click the **New** toolbar button
+## Как получить доступ
 
-To edit a Article:
+* Выберите **Контент → Статьи** в меню администратора. Или...
+* Выберите **Статьи** на главной панели управления. Затем...
+  * Выберите **Название** существующей статьи в списке, чтобы отредактировать ее. Или...
+  * Нажмите кнопку **Новый** на панели инструментов, чтобы создать новую статью. 
 
-- select a **Title** from the list
+Вы также можете создать новую статью, выбрав значок **+** в меню или на главной панели управления.
 
 ## Скриншот
 
-![Articles edit screenshot](../../../ru/images/articles/articles-edit-content-tab.png)
+![Скриншот редактирования статей](../../../ru/images/articles/articles-edit-content-tab.png)
 
-## Form Fields
+## Поля формы
 
-- **Заголовок**. The Title for this article.
-- **Алиас**. The internal name of this article. Normally, you can leave
-  this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces.
+- **Заголовок** Заголовок для этой статьи.
+- **Псевдоним** Внутреннее название этой статьи. Обычно вы можете оставить это поле пустым, и Joomla заполнит его значением по умолчанию, основанным на заголовке, но в нижнем регистре и с дефисами вместо пробелов.
 
-### Материал
+### Вкладка "Содержание"
 
-#### Left Panel
+#### Левая панель
 
-- **Текст материала**. This is where you enter the contents of the
-  article. Joomla includes 3 editors, the default Editor - TinyMCE
-  is shown here.
+- **Текст статьи** Здесь вы вводите содержимое статьи.
+  Joomla включает 3 редактора, стандартный редактор — TinyMCE
+  показан выше.
 
-  The CMS Content dropdown list provides for access to link to an Article,
-  Contact, Field, Media, Menu, or Module.
-- **Выключить редактор**. A Toggle Editor button show below the edit
-  window. This button allows you to toggle between TinyMCE and Editor - None.
+  Выпадающий список CMS Content предоставляет возможность ссылаться на статью,
+  контакт, поле, изображение медиа, меню, модуль, разрыв страницы или разрыв "Читать далее".
 
-#### Right Panel
+  Символ многоточия (<span class="icon-ellipsis-h"></span>) переключает видимость
+  дополнительных инструментов.
+- **Переключить редактор** Кнопка под окном редактирования позволяет переключаться
+  между редактором TinyMCE и отсутствием редактора. Это позволяет увидеть и
+  иногда исправить HTML-код.
 
-- **Состояние**. The published status of this article.
-  - Опубликовано: Article is visible in the Frontend of the site.
-  - Не опубликовано: Article is will not be visible to guests in the
-    Frontend of the site. It may be visible to logged in users who have
-    edit state permission for the article.
-  - В архиве: Article will no longer show on menu items
-    or Category
-    List.
-  - В корзине: Article is deleted from the site but still in the
-    database.
-- **Категория**. Select the Category for this article.
-- **Избранный**. Select Yes if article will be shown in the Featured menu item
-- **Доступ**. Select the viewing access level for this article. The
-  access levels depend on what has been set up in Users: Access Levels.
-- **Язык**. Select the language for this article. Keep the default of
-  'All' if you are not using the multi-language feature.
-- **Теги**. Assign tags to this article. You may select a tag from a
-  pre-defined list or
-  enter a new tag by typing the name in the field and pressing enter.
-- **Примечание**. This is normally for the administrator's use (for
-  example, to document information about this article) and does not show
-  in the Frontend.
-- **Примечание версии**. Optional field to identify the version of this
-  article in the article's Version History.
+#### Правая панель
 
-### Изображения и ссылки
+- **Статус** Опубликованный статус этой статьи.
+  - *Опубликовано* Статья видна на фронтенде сайта.
+  - *Неопубликовано* Статья не будет видна гостям на
+    фронтенде сайта. Она может быть видимой для пользователей, которые
+    вошли в систему и имеют разрешения на редактирование состояния статьи.
+  - *Архив* Статья больше не будет отображаться в пунктах меню или списке категории.
+  - *Удалена* Статья удалена с сайта, но все еще находится в базе данных.
+- **Категория** Выберите категорию для этой статьи.
+- **Избранная** Выберите "Да", если статья будет показана в пункте меню "Избранное".
+- **Доступ** Выберите уровень доступа для этой статьи. Уровни доступа
+  зависят от того, что настроено в разделе "Пользователи: Уровни доступа".
+- **Язык** Выберите язык для этой статьи. Оставьте значение по умолчанию
+  "Все", если вы не используете многоязычную функцию.
+- **Теги** Присвойте теги этой статье. Вы можете выбрать тег из
+  предустановленного списка или ввести новый тег, набрав его название в поле и нажав Enter.
+- **Заметка** Обычно используется администратором (например,
+  для документирования информации об этой статье) и не отображается на
+  фронтенде.
+- **Заметка о версии** Необязательное поле для идентификации версии этой
+  статьи в истории версий статьи.
 
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options.
-This section lets you display images and links in your articles using
-standardised layouts.
+### Вкладка "Изображения и ссылки"
 
-![Articles edit images and links tab](../../../ru/images/articles/articles-edit-images-tab.png "Articles edit images and links tab")
+**Примечание:** Эта вкладка может быть скрыта в *Статья: Параметры* пользователем с
+правами администратора. Она позволяет отображать изображения и ссылки в статьях, используя
+стандартизированные макеты.
 
-#### Изображение вводного текста
+![Вкладка "Изображения и ссылки" редактирования статей](../../../ru/images/articles/articles-edit-images-tab.png)
 
-- **Изображение вводного текста**. Click the Select button to select an
-  image to be displayed in a fixed location in the Intro Text of this
-  article. This will open a window that allows you to select an image
-  from your images folder.
-- **Описание**. Set the alt attribute for this image. A few descriptive
-  words for screen readers.
-- **Без описания**. Check in the rare instance of a purely decorative
-  image. Note that if the Image Description is empty and the No
-  Description checkbox is unchecked then the image will fail to meet
-  accessibility criteria. If an image description is present this
-  checkbox has no effect.
-- **CSS-класс**. Введите CSS-класс изображения для стилизации. Например,
-  для позиционирования изображения вы можете использовать классы \$1,
-  \$2.
+#### Вводное изображение
 
-- **Подпись**. Create a caption for this image.
+- **Вводное изображение** Нажмите кнопку "Выбрать", чтобы выбрать изображение,
+  которое будет отображаться в фиксированном месте во вводном тексте этой статьи.
+  Откроется окно, которое позволит выбрать изображение из папки изображений.
+- **Описание изображения (альтернативный текст)** Установите атрибут alt для этого
+  изображения. Несколько описательных слов для экранных читалок.
+- **Нет описания** Отметьте в редком случае чисто декоративного изображения.
+  Обратите внимание, что если поле для описания изображения пустое и флажок "Нет
+  описания" не установлен, то изображение не будет соответствовать критериям доступности.
+  Если описание изображения присутствует, этот флажок не оказывает эффекта.
+- **Класс изображения** Добавьте любой CSS-класс для пользовательского стилевого оформления.
+  Например, для позиционирования изображения используйте float-start или float-end.
+- **Подпись** Создайте подпись для этого изображения.
 
-#### Изображение полного текста
+#### Полное изображение статьи
 
-- **Изображение полного текста**. Click the Select button to select an
-  image to be displayed in a fixed location in the Full Text of this
-  article. This will open a window that allows you to select an image
-  from your images folder.
-- **Описание**. Set the alt attribute for this image. A few descriptive
-  words for screen readers.
-- **Без описания**. Check in the rare instance of a purely decorative
-  image. Note that if the Image Description is empty and the No
-  Description checkbox is unchecked then the image will fail to meet
-  accessibility criteria. If an image description is present this
-  checkbox has no effect.
-- **CSS-класс**. Введите CSS-класс изображения для стилизации. Например,
-  для позиционирования изображения вы можете использовать классы \$1,
-  \$2.
+- **Полное изображение статьи** Нажмите кнопку "Выбрать", чтобы выбрать изображение,
+  которое будет отображаться в фиксированном месте в полном тексте этой статьи.
+  Откроется окно, которое позволит выбрать изображение из папки изображений.
+- **Описание изображения (альтернативный текст)** Установите атрибут alt для этого
+  изображения. Несколько описательных слов для экранных читалок.
+- **Нет описания** Отметьте в редком случае чисто декоративного изображения.
+  Обратите внимание, что если поле для описания изображения пустое и флажок "Нет
+  описания" не установлен, то изображение не будет соответствовать критериям доступности.
+  Если описание изображения присутствует, этот флажок не оказывает эффекта.
+- **Класс изображения** Добавьте любой CSS-класс для пользовательского стилевого оформления.
+  Например, для позиционирования изображения используйте float-start или float-end.
+- **Подпись** Введите необязательную подпись для этого изображения.
 
-- **Подпись**. Enter an optional caption for this image.
+#### Ссылка A
 
-#### URL ссылки A
+- **Ссылка A** URL для первой ссылки, которая будет отображаться в фиксированном
+  месте в тексте статьи. Это должен быть полный URL, а не относительный.
+  Например, он обычно начинается с `https:`.
+- **Текст ссылки A** Текст, используемый для ссылки A. Если оставить пустым, будет
+  отображаться URL.
+- **Целевое окно URL** Установите значение по умолчанию для целевого окна первой
+  ссылки в этой статье. Варианты:
+  - *Открыть в основном окне* Откроет в основном окне браузера,
+    заменив текущую статью Joomla.
+  - *Открыть в новом окне* Откроет ссылку в новом окне браузера.
+  - *Открыть во всплывающем окне* Откроет ссылку во всплывающем окне браузера
+    (без полноценных элементов управления навигацией).
+  - *Modal* Откроет ссылку в модальном всплывающем окне.
 
-- **URL ссылки A**. The URL for the first link to be displayed in a
-  fixed location in the article text. This must be a full URL, not
-  relative. For example, it normally would start with `https:`.
-- **Заголовок ссылки A**. The text used for Link A. If blank, the URL
-  will be displayed.
-- **Окно браузера**. Sets the default value for the target for the first
-  Link in this article. Choices are:
-  - Родительское окно: Opens the in the main browser window, replacing
-    the current Joomla article.
-  - Новое окно: Opens the link in a new browser window.
-  - Всплывающее окно: Opens the link in a pop-up browser window (without
-    full navigation controls).
-  - Модальное окно: Opens the link in a modal pop-up window.
+#### Ссылка B, Ссылка C
 
-**URL ссылки B**, **URL ссылки C**: Same options as Link A.
+- Та же концепция, что и для ссылки A.
 
-### Отображение
+### Вкладка "Опции"
 
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options.
-This is a set of options you can use to control how this article will
-show in the Frontend.
+**Примечание**: Эта вкладка может быть скрыта пользователем с правами администратора в
+разделе "Статья: Параметры". Она представляет собой набор параметров, используемых для
+управления тем, как эта статья будет отображаться на фронтенде.
 
-![Options tab](../../../ru/images/articles/articles-edit-options-tab.png "Options Tab")
+![Вкладка "Опции"](../../../ru/images/articles/articles-edit-options-tab.png)
 
 #### Макет
 
-- **Макет**. Use a layout from the supplied article view or overrides in the templates.
-- **Заголовок**. Show the Article's Title.
-- **Заголовок как ссылка**. Show the title as a link to the article.
-- **Теги**. Enter tags for this article. Select existing tags by
-  entering in the first few letters or create new tags by entering them
-  here.
-- **Вводный текст**.
-  - Показать: The Intro Text of the article will show when you drill
-    down to the article.
-  - Скрыть: Only the part of the article after the Read More break will
-    show.
-- **Позиция информации о материале**.
-  - Сверху: Puts the article information block above the text.
-  - Снизу: Puts the article information block below the text.
-  - Разделить: Splits the article information block into 2 separate
-    blocks. One block is above and the other is below the text.
-- **Заголовок информации о материале**. Displays 'Details' on top of the
-  article information block.
+- **Макет** Используйте макет из предоставленного вида статьи или переопределений в шаблонах.
+- **Заголовок** Показать заголовок статьи.
+- **Связанные заголовки** Показать заголовок как ссылку на статью.
+- **Теги** Введите теги для этой статьи. Выберите существующие теги, введя
+  первые несколько букв, или создайте новые теги, введя их здесь.
+- **Вводный текст**
+  - *Показать* Вводный текст статьи будет показан на странице, где
+    отображается полная статья.
+  - *Скрыть* Только часть статьи после разрыва "Читать далее" будет
+    показана на странице, где отображается полная статья.
+- **Позиция информации о статье**
+  - *Выше* Расположить блок информации о статье над текстом.
+  - *Ниже* Расположить блок информации о статье под текстом.
+  - *Разделить* Разделить блок информации о статье на 2 отдельных блока.
+    Один блок находится над текстом, другой под текстом.
+- **Заголовок информации о статье** Отображает "Детали" над блоком информации о статье.
 
 #### Категория
 
-- **Категория**. Show the Article's Category Title.
-- **Категория как ссылка**. Show the title as a link to that Category.
-- **Заголовок родительской категории**. Show the Article's Parent
-  Category Title.
-- **Родительская категория как ссылка**. Show the title as a link to
-  that Category.
+- **Категория** Показать заголовок категории статьи.
+- **Связанный заголовок категории** Показать заголовок как ссылку на эту категорию.
+- **Родительская категория** Показать заголовок родительской категории статьи.
+- **Связанный заголовок родительской категории** Показать заголовок как ссылку на эту категорию.
 
-#### Связи
+#### Ассоциации
 
-- **Языковые связи**. Show the associated flags or Language Code.
-  Multilingual only.
+- **Ассоциации** Показать ассоциации флагов или код языка.
+  Только для мультиязычный.
 
 #### Автор
 
-- **Автор**. Show the author of the Article.
-- **Автор как ссылка**. Show it as a link to a Contact layout for that
-  author.Note: The author must be set up as a Contact.
+- **Автор** Показать автора статьи.
+- **Ссылка на страницу контакта автора** Показать как ссылку на
+  макет контакта для этого автора. Примечание: автор должен быть настроен в качестве контакта.
 
 #### Дата
 
-- **Дата создания**. Show the Article's create date.
-- **Дата изменения**. Show the Article's modify date.
-- **Дата публикации**. Show the Article's start publishing date.
+- **Дата создания** Показать дату создания статьи.
+- **Дата изменения** Показать дату изменения статьи.
+- **Дата публикации** Показать дату начала публикации статьи.
 
-#### Параметры
+#### Опции
 
-- **Ссылки "Назад/Вперед"**. Show a navigation link 'Prev' or 'Next'
-  when you drill down to the article.
-- **Количество просмотров**. Show the number of times the article has
-  been displayed by a user.
-- **Неавторизованные ссылки**. If Yes, the Intro Text for restricted
-  articles will show. Clicking on the Read more link will require users
-  to log in to view the full article content.
-- **Позиция ссылок.**
-  - Сверху: Links are shown above the content.
-  - Снизу: Links are shown below the content.
-- **Текст вместо "Подробнее"**. Customise the text that shows for the
-  default wording 'Read more'.
-- **Заголовок страницы в браузере**. Text for the Browser page title to
-  be used when the article is viewed with a non-article menu item. If
-  blank, the article's title is used instead.
+- **Навигация** Показать ссылки навигации, *Назад* и/или *Вперед*, при
+  отображении страницы с полной статьей.
+- **Просмотры** Показать количество раз, сколько статья была отображена пользователю.
+- **Несанкционированные ссылки** Если Да, вводный текст для ограниченных статей
+  будет показан. Нажатие на ссылку "Читать далее" потребует от пользователей авторизации
+  для просмотра полного содержимого статьи.
+- **Позиционирование ссылок**
+  - *Выше* Ссылки показаны над содержимым.
+  - *Ниже* Ссылки показаны под содержимым.
+- **Текст "Читать далее"** Настройка текста, который отображается вместо
+  стандартного "Читать далее".
+- **Заголовок страницы в браузере** Текст для заголовка страницы в браузере, который будет
+  использоваться, когда статья просматривается с элементом меню, который не является статьей.
+  Если поле пустое, будет использоваться заголовок статьи.
 
-### Поля
+### Вкладка "Поля"
 
-This section shows the custom fields
-which are defined for this article.
+Этот раздел показывает пользовательские поля, которые определены для этой статьи. Это
+поля, которые не назначены группе полей. Каждая группа полей, если определена,
+будет отображаться как отдельная вкладка.
 
-![Fields tab](../../../ru/images/articles/articles-edit-fields-tab.png "Filds Tab")
+![Вкладка "Поля"](../../../ru/images/articles/articles-edit-fields-tab.png)
 
-### Schema tab
+### Вкладка "Настроить экран редактирования"
 
-![Schema tab](../../../ru/images/articles/articles-edit-schema-tab.png "Schema Tab")
+**Примечание:** Это может быть скрыто пользователем с правами администратора в
+разделе "Статья: Параметры".
 
-The schema mechanism allows you to enter metadata for individual articles,
-choosing from the following schema types:
+![Вкладка "Настроить экран редактирования"](../../../ru/images/articles/articles-edit-editor-tab.png)
 
-* None
-* Article
-* BlogPosting
-* Book
-* Event
-* JobPosting
-* Organisation
-* Person
-* Recipe
-* Custom
+- **Опции публикации** Если скрыто, вкладка опций публикации
+  не будет показана в бэкенде. Это означает, что пользователи бэкенда не смогут
+  редактировать поля на этой вкладке. Эти поля всегда будут
+  установлены на значения по умолчанию.
+- **Опции статьи** Если скрыто, вкладка опций статьи
+  не будет показана в бэкенде. Это означает, что пользователи бэкенда не смогут
+  редактировать поля на этой вкладке. Эти поля всегда будут
+  установлены на значения по умолчанию.
+- **Изображения и ссылки администратора** Если Да, вкладка "Изображения и ссылки"
+  будет показана.
+- **Изображения и ссылки на фронтенде** Если Да, вкладка "Изображения и ссылки" будет
+  показана в редакторе статей на фронтенде.
 
-Each is a plugin which can disable or enable as required. More schmema types
-my be added later or available from third party sources.
+## Советы
 
-### Публикация
+- Существует 2 метода вставки изображения в статью с использованием редактора TinyMCE.
+  1. Выпадающий список *CMS Content* дает доступ к экрану мультимедиа.
+  2. Выпадающий список *Insert* представляет собой простую форму, для которой требуется URL изображения. Он используется для внешних изображений.
+- Вставка *Read More* экономит место на любой странице со списком Рекомендуемых или Блогов, показывая только первую часть статьи. Вставки *Page Break* обеспечивают навигацию по страницам для длинных статей. Оба могут быть использованы в одной статье, если это потребуется. Например, разрыв *Read More* можно разместить после первого абзаца, а разрывы *Page Break* можно разместить после следующих групп абзацев, чтобы создать многостраничную статью. На странице Рекомендуемых или Блогов навигация по страницам не будет отображаться до тех пор, пока пользователь не выберет ссылку Прочитать дальше. В это время будет отображаться содержание статьи с ссылками на каждую страницу.
 
-This section allows you to enter parameters and Metadata for this Article.
-
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options.
-
-![Publishing tab](../../../ru/images/articles/articles-edit-publishing-tab.png "Publishing Tab")
-
-#### Публикация
-
-- **Начало публикации**. Date and time to start publishing. Enter
-  article ahead of time and then have it published automatically at a
-  future time.
-- **Завершение публикации**. Date and time to finish publishing. The
-  article is automatically changed to Unpublished state at a future
-  time.
-- **Начало избранного**. Date and time to start featured state. Enter
-  article ahead of time and then have it featured automatically at a
-  future time.
-- **Завершение избранного**. Date and time to finish featured state. The
-  article is automatically changed to Unfeatured state at a future time.
-- **Дата создания**. The current time when the Article was created.
-  Enter in a different date and time or click on the calendar icon to
-  find the desired date.
-- **Автор**. Name of the User who created this Article. This will
-  default to the currently logged-in user. If you want to change this to
-  a different user, click the Select User button.
-- **Псевдоним автора**. Enter in an alias for the Author of this
-  Article. This allows you to display a different Author name.
-- **Дата изменения**. Date of last modification.
-- **Изменил**. Username who performed the last modification.
-- **Версия**. Number of revisions to this Article.
-- **Кол-во просмотров**. The number of times this Article has been
-  viewed.
-- **ID**. A unique identification number for this Article, you cannot
-  change this number. When creating a new Article, this field displays
-  "0" until you save the new entry.
-
-#### Метаданные
-
-- **Метатег Description**. An paragraph to be used as the description of
-  the page.
-- **Ключевые слова**. Entry for keywords.
-- **Метатег Robots**. The instructions for web 'robots' that browse to
-  this page. Set 'Use Global' in Global Configuration.
-- **Автор**. Entry for an Author name within the metadata.
-- **Метатег Rights**. Describe what rights others have to use this
-  content.
-
-### Связи
-
-Tab is shown on Multilingual Sites only.
-
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options.
-
-![Associations tab](../../../ru/images/articles/articles-edit-associations-tab.png "Associations Tab")
-
-### Форма
-
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options.
-
-![Configure edit screen tab](../../../ru/images/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
-
-- **Публикация**. If Hide, the Publishing Options tab
-  will not show in the Backend. This means that Backend users will not
-  be able to edit the fields in this tab. These fields will always be
-  set to their default values.
-- **Отображение**. If Hide, the Article Options tab
-  will not show in the Backend. This means that Backend users will not
-  be able to edit the fields in this tab. These fields will always be
-  set to their default values.
-- **Изображения и ссылки (панель управления)**. If Yes, the [Images and
-  Links
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#imagesandlinks "Help4.x:Articles: Edit/en")
-  will show.
-- **Изображения и ссылки (сайт)**. If Yes, the Images and Links tab will
-  show in the Frontend article editor screen.
-
-### Права доступа
-
-This is where you can enter permissions for this article.
-
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options.
-
-![Permissions tab](../../../ru/images/articles/articles-edit-permissions-tab.png "Permissions Tab")
-
-To change the permissions for this article, do the following.
-
-1.  Select the **Group** by clicking its title located on the left.
-2.  Find the desired **Action**.
-    - **Удалить**. Users can delete this article.
-    - **Редактировать**. Users can edit this article.
-    - **Изменить состояние**. User can change the published state and
-      related information for this article.
-3.  Select the desired permission for the action you wish to change.
-    - **Унаследовано**. Inherited for users in this Group from the
-      Global Configuration,
-      Articles Options,
-      or Articles Category.
-    - **Разрешено**. Allowed for users in this Group.Note: If this
-      action is Denied at one of the higher levels, the Allowed
-      permission here will not take effect. A Denied setting cannot be
-      overridden.
-    - **Запрещено**. Denied for users in this Group.
-4.  Click **Save** in **Toolbar** at top. When the screen refreshes, the
-    Calculated Setting column will show the effective permission for
-    this Group and Action.
-
-## Панель инструментов
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Сохранить**. Saves the article and stays in the current screen.
-- **Сохранить и закрыть**. Saves the article and closes the current
-  screen.
-  - **Сохранить и создать**. Saves the article and keeps the editing
-    screen open and ready to create another article.
-  - **Сохранить в меню**. Saves the article to a menu item and opens the
-    menu item screen.
-  - **Сохранить как копию**. Saves your changes to a copy of the current
-    article. Does not affect the current article.
-- **Закрыть**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Версии**. Opens the Article Version History window to show any prior
-  versions of this article. This allows you to view older versions of
-  this article and, if desired, restore from an older version.
-- **Просмотреть**. Opens a modal dialog showing a site view of this
-  article. Requires shared sessions
-  or being logged in into the Frontend.
-- **Проверить доступность**. Opens a window showing accessibility check
-  results of the article.
-- **Связать элемент**. With a specific language set for an article,
-  allows side by side editing in another language. This icon is shown on
-  Multilingual Sites
-  only.
-- **Подсказки**. Show help text below some options.
-- **Справка**. Opens this help screen.
-
-## Быстрые советы
-
-- There are 2 methods to insert an image into article using the TinyMCE
-  editor.
-  1.  The CMS Content
-      dropdown list provides access to the Media screen
-      that lets you browse image files and upload images.
-  2.  The 'Insert' dropdown list is a simple form for which you need to
-      know the image url. It is used for external images.
-- **Read more**
-  breaks allow you to save space on the Front Page or on any blog layout
-  page by showing just the first portion of an Article. Page break
-  allow you to provide multi-page navigation for long Articles. You can
-  use both on one Article, if desired.For example, you could put a Read
-  more break after the first paragraph of a multi-page article, and have
-  Page breaks after each page. No page navigation would display on the
-  Front Page until the User selects the Read more link. At that time,
-  the Article's table of contents would display showing links to every
-  page.

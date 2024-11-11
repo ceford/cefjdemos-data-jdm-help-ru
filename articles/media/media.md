@@ -1,103 +1,81 @@
-<!-- Filename: Help4.x:Media / Display title: Медиа-менеджер -->
+<!-- Filename: Help4.x:Media / Display title: Медиа   -->
 
 ## Описание
 
-The Media Manager is a tool for managing files in the
-\[joomlaroot\]https://docs.joomla.org/images/ folder and other user
-defined local folders. Tools available include:
+Компонент Media — это инструмент для управления файлами в папке с изображениями и других пользовательских локальных папках. Доступные действия включают:
 
-- upload a new image (or document)
-- delete an existing image
-- rename an image
-- edit an image
-- get an image link
-- create a new folder.
+- Загрузить новое изображение (или документ)
+- Удалить существующее изображение
+- Переименовать изображение
+- Редактировать изображение
+- Получить ссылку на изображение
+- Создать новую папку
 
-## Как открыть
+### Общие элементы
 
-- **Панель управления → Site → Медиа-менеджер**
+Некоторые аспекты этой страницы освещены в отдельных статьях Справки:
+
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+
+## Как получить доступ
+
+- **Главная панель → Сайт → Медиа**.
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/2/2f/Help-4x-Media-screen-ru.png/800px-Help-4x-Media-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/2f/Help-4x-Media-screen-ru.png/1200px-Help-4x-Media-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/2/2f/Help-4x-Media-screen-ru.png/1600px-Help-4x-Media-screen-ru.png 2x"
-data-file-width="2240" data-file-height="1400" width="800" height="500"
-alt="Media screen" />
+![Медиа](../../../ru/images/media/media.png)
 
-## Image Display Area
+## Область отображения изображений
 
-### Локальный
+### Локально
 
-This area shows the structure of the local folders of your site, by
-default the **images** folder.
+Эта область показывает структуру локальных папок сайта, по умолчанию 
+папку *images*.
 
-[Быстрые советы](#quicktips)
+Текущая выбранная папка отображается в *Хлебных крошках* выше области отображения изображений.
 
-The currently selected folder is also shown in the **Breadcrumbs** above
-the image display area.
+### Верхняя панель
 
-### Top Bar
+- **Чекбокс** Выбрать или отменить выбор всех изображений. После выбора отдельные изображения
+  могут быть сняты с выбора.
+- **Хлебные крошки** Выберите элемент хлебных крошек для возврата по иерархии папок.
+- **Поиск**. Введите часть имени изображения в поле поиска. Фильтр работает прогрессивно - например, введя букву `k` в
+  поле поиска, вы сразу сократите отображаемые изображения до тех, которые содержат букву `k`.
+- **Иконки увеличения** Уменьшить или увеличить видимый размер
+  эскизов изображений.
+- **Иконки просмотра в виде списка или миниатюр** Переключение между видами миниатюр и списков - иконка меняется соответственно.
+- **Иконка информации** Отображает информацию о выбранном объекте. Если
+  изображение выбрано, оно покажет имя файла, путь к папке, размер и
+  различные другие свойства. Выберите, чтобы открыть или закрыть панель информации.
 
-- **Checkbox**. Select/Deselect All Images. After selection you can
-  deselect individual images.
-- **Breadcrumbs**. Select a breadcrumb item to go back in the folder
-  hierarchy.
-- **Поиск...**. Type some part of an image name in the search box. The
-  filter works progressively - for example, entering the letter "k" in
-  the search box will instantly reduce the displayed images to those
-  containing a letter "k".
-- **Magnifier Icons**. Decrease/Increase the visible size of the
-  thumbnail images.
-- **List View/Thumbnail View Icons**. Toggles between Thumbnail and List
-  views - the icon changes accordingly.
-- **Information Icon**. Displays information on whatever is selected. If
-  an image is selected it will show the file name, folder path, size and
-  various other properties. Select to open or close the Information
-  panel.
+### Действия
 
-### Actions
+Наведите курсор на изображение и выберите кнопку меню, обозначенную троеточием (...).
+Появятся шесть иконок, предлагающих следующие действия:
 
-Hover over an image and select the menu button labelled with 3 dots. 6
-icons appear offering the following actions:
+1.  **Предпросмотр** Выберите иконку увеличительного стекла - изображение будет показано в полном размере в диалоге.
+2.  **Редактировать** Выберите иконку карандаша, чтобы открыть окно редактирования медиа. Это позволяет обрезать, изменить размер или повернуть изображение.
+3.  **Скачать** Выберите иконку скачивания - ваш компьютер отреагирует,
+    спросив, что вы хотите сделать со скачиванием. Или может просто
+    сохранить его или открыть в приложении для отображения изображений.
+4.  **Получить ссылку для обмена** Выберите иконку ссылки, чтобы получить ссылку на
+    изображение для использования в обмене. Диалог позволяет скопировать
+    ссылку в буфер обмена для вставки в электронное письмо или документ.
+5.  **Переименовать** Выберите иконку переименования, чтобы открыть диалог, который позволяет переименовать изображение.
+6.  **Удалить** Выберите иконку корзины для удаления изображения. Вам будет
+    предложено подтвердить. После удаления оно исчезает навсегда! Можно также использовать
+    для удаления папки.
 
-1.  **Preview**. Select the magnifier icon - the image is shown full
-    size in a dialog.
-2.  **Edit**. Select the pencil icon to open the Media Edit window. It
-    allows you to crop, resize or rotate the image.
-3.  **Download**. Select the download icon - your computer will respond
-    by asking you what you want to do with the download. Or it may just
-    save it or open it in an image display application.
-4.  **Get a shareable link**. Select the link icon to get a link to the
-    image that you can use for sharing. A dialog allows you to copy the
-    link to your clipboard for pasting into an email or document.
-5.  **Rename**. Select the rename icon to open a dialog that allows you
-    to rename the image.
-6.  **Delete**. Select the waste bin icon to delete the image. You will
-    be prompted to confirm. Once deleted it is gone forever! May be used
-    also to delete a folder.
+## Советы
 
-## Панель инструментов
+- Если вы хотите хранить изображения и документы в отдельных локальных папках:
+  1. создайте папку в корне вашего сайта, например, **files**.
+  2. перейдите в плагин Filesystem - Local и добавьте **files**
+      в разделе **Выбрать директории**.
+  3. Вернувшись в компонент Media, вы увидите *images* и *files*
+      как отдельные элементы в панели Local.
+- Максимальный размер загрузки в Media можно изменить на значение, отличное от `10 MB`, в параметрах Media Options.
+- Вы можете загрузить или удалить несколько файлов одновременно.
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
+*Переведено с помощью openai.com*
 
-- **Загрузить**. Opens window for uploading images.
-- **Создать каталог**. Opens a dialog to prompt for a new folder name.
-  The new folder is created in the currently selected folder.
-- **Удалить**. Deletes the selected images.
-- **Настройки**. Opens Media Options.
-- **Справка**. Opens this help screen.
-
-## Быстрые советы
-
-- If you wish to keep images and documents in separate local folders:
-  1.  create a folder in the root of your site, say **files**
-  2.  go to the Filesystem - Local
-      plugin and add **files** under **Select directories**.
-  3.  Back in the Media component you will see *images* and *files* as
-      separate items in the Local panel.
-- The Media's maximum upload size can be changed to an amount other than
-  "10 MB" in the Media Options.
-- You can upload or delete multiple files at the same time.

@@ -1,423 +1,211 @@
-<!-- Filename: Help4.x:Site_Global_Configuration / Display title: Общие настройки -->
+<!-- Filename: Help4.x:Site_Global_Configuration / Display title: Глобальная конфигурация  -->
 
 ## Описание
 
-The Global Configuration screen allows you to configure the Joomla site
-with your personal settings. Settings made in this screen apply to the
-whole site.
+Экран глобальной конфигурации позволяет настроить сайт Joomla с помощью ваших личных настроек. Настройки, сделанные на этом экране, применяются ко всему сайту.
 
-## Как открыть
+### Общие элементы
 
-- **Система → Настройки → Общие настройки**
+Некоторые аспекты этой страницы рассматриваются в отдельных справочных статьях:
+
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Вкладка «Разрешения»](jdocmanual?article=help/common-elements/edit-permissions).
+
+## Как получить доступ
+
+- Выберите **Системная панель → Глобальная конфигурация** на домашней панели. Или...
+- Выберите **Система → Панель настройки → Глобальная конфигурация** в меню администратора.
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/3/3e/Help-4x-global-configuration-screen-ru.png/750px-Help-4x-global-configuration-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/3e/Help-4x-global-configuration-screen-ru.png/1125px-Help-4x-global-configuration-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/3/3e/Help-4x-global-configuration-screen-ru.png/1500px-Help-4x-global-configuration-screen-ru.png 2x"
-data-file-width="2720" data-file-height="1700" width="750" height="469"
-alt="global configuration screen" />
+![вкладка глобальной конфигурации сайта](../../../ru/images/site/global-configuration-site-tab.png)
 
-## Form Fields
+## Поля формы
 
-### Cайт
+### Вкладка "Сайт"
 
-Complete
-screenshot.
+#### Панель "Сайт"
 
-#### Параметры сайта
+- **Название сайта** Введите название веб-сайта. Оно будет использоваться в различных местах (например, в заголовке браузера Backend и на страницах, когда сайт оффлайн).
+- **Сайт оффлайн** Выберите, доступен ли Frontend.
+- **Сообщение о временной недоступности**
+    - *Скрыть*
+    - *Использовать пользовательское сообщение* Сообщение использует значение, определённое в поле *Пользовательское сообщение*.
+    - *Использовать сообщение по умолчанию на языке сайта* Сообщение использует значение, определённое в языковом файле сайта.
+- **Изображение для режима оффлайн** Выберите изображение для отображения на странице оффлайн. Убедитесь, что изображение имеет ширину менее 400 пикселей.
+- **Редактирование на Frontend** Выберите редактирование для модулей и пунктов меню.
+- **Редактор по умолчанию** Выберите текстовый редактор по умолчанию. Зарегистрированные пользователи смогут изменять своё предпочтение в своих личных данных.
+- **Капча по умолчанию** Выберите капчу по умолчанию для вашего сайта. Возможно, потребуется ввести необходимую информацию в плагине капчи.
+- **Уровень доступа по умолчанию** Выберите уровень доступа по умолчанию для новых элементов.
+- **Предел списка по умолчанию** Устанавливает стандартную длину списков в Backend для всех пользователей.
+- **Предел ленты по умолчанию** Выберите количество элементов контента для отображения в лентах.
+- **Адрес электронной почты для новостных лент** RSS и Atom новостные ленты включают адрес электронной почты автора.
+  - *Электронная почта автора* Включить адрес электронной почты автора статьи из профиля пользователя в новостную ленту.
+  - *Электронная почта сайта* Включить адрес *Отправитель Email* для каждого сообщения.
 
-- **Site Name**. Enter the name of the website. This will be used in
-  various locations (for example the Backend browser title bar and Site
-  Offline pages).
-- **Site Offline**. Select whether access to the Frontend is available.
+#### Панель метаданных
 
-  - **Сообщение при выключенном сайте**.
-    - Пользовательское сообщение The message uses the value defined in
-      the 'Custom Message' field.
-    - По умолчанию (из языкового файла) The message uses the value
-      defined in the site language ini file.
-  - **Offline Image**. Select an image to be displayed on the offline
-    page. Make sure the image is less than 400px wide.
-- **Frontend Editing**. Select editing for modules and menu items.
-- **Default Editor**. Select the default text editor. Registered Users
-  will be able to change their preference in their personal details.
-- **Default Captcha**. Select the default captcha for your site. You may
-  need to enter required information in the captcha plugin.
-- **Default Access Level**. Select the default access level for new
-  items.
-- **Default List Limit**. Sets the default length of lists in the
-  Backend for all users.
-- **Default Feed Limit**. Select the number of content items to show in
-  the feeds.
-- **Feed Email Address**. The RSS and Atom newsfeeds include the
-  author's email address.
-  - E-mail автора: Use each author's email from
-  User Profile
-    in the news feed.
-  - E-mail сайта: Include the site [From Email](#fromemail) address for
-    each article.
+- **Описание сайта** Введите описание всего веб-сайта, которое будет использоваться поисковыми системами.
+- **Роботы** Инструкции для роботов.
+  - *index, follow* Индексировать эту страницу и следовать за ссылками на этой странице.
+  - *noindex, follow* Не индексировать эту страницу, но следовать за ссылками на странице. Например, вы можете сделать это для страницы с картой сайта, где вы хотите, чтобы ссылки были проиндексированы, но не хотите, чтобы эта страница отображалась в поисковых системах.
+  - *index, nofollow* Индексировать эту страницу, но не следовать за ссылками на странице. Например, вы можете сделать это для календаря событий, где вы хотите, чтобы страница отображалась в поисковых системах, но не хотите индексировать каждое событие.
+  - *noindex, nofollow* Не индексировать эту страницу и не следовать за ссылками на странице.
+- **Права на контент** Описывает, какие права имеют другие на использование этого контента. Это передаётся поисковым системам с помощью мета-тега `rights` в заголовке HTML.
+- **Мета-тег автора** Отображает мета-тег автора при просмотре статей.
+- **Версия Joomla** Управляет тем, включается ли точная версия Joomla в мета-тег `generator` в заголовке HTML документа на Frontend и в Atom лентах. Рекомендуется скрывать это по соображениям безопасности.
 
-#### Параметры метаданных
+#### Панель SEO
 
-- **Site Meta Description**. Enter a description of the overall website
-  that is to be used by search engines.
-- **Robots**. Robots instructions.
-  - index, follow: Index this page and follow the links on this page.
-  - noindex, follow: Do not index this page, but still follow the links
-    on the page. For example, you might do this for a site map page
-    where you want the links to be indexed but you don't want this page
-    to show in search engines.
-  - index, nofollow: Index this page, but do not follow any links on the
-    page. For example, you might want to do this for an events calendar,
-    where you want the page to show in search engines but you do not
-    want to index each event.
-  - noindex, nofollow: Do not index this page or follow any links on the
-    page.
-- **Метатег Rights**. Describe what rights others have to use this
-  content. This is conveyed to search engines using the 'rights' meta
-  tag in the HTML head.
-- **Author Meta Tag**. Show the author meta tag when viewing articles.
-- **Метатег Generator**. Показывать или скрывать метатег 'generator' в
-  HTML-разметке страницы сайта с информацией об используемой версии
-  Joomla.
+- **Дружественные URL для поисковых систем** Выберите, оптимизируются ли URL для поисковых систем.
+- **Использовать переписывание URL**
+  - *Apache и Litespeed* Переименуйте `htaccess.txt` в `.htaccess`.
+  - *IIS* Переименуйте `web.config.txt` в `web.config`.
+  - *NginX* вы должны настроить ваш сервер.
+  - *Другие* Если не уверены, пожалуйста, обратитесь в свою хостинг-компанию.
+- **Добавить суффикс к URL** Если да, система добавит суффикс к URL на основе типа документа.
+- **Юникодные алиасы** Выберите между транслитерацией и юникодными алиасами. По умолчанию используется транслитерация.
+- **Название сайта в заголовках страниц** Начинайте или заканчивайте все заголовки страниц с названием сайта (например, *Моё название сайта - Моё название статьи*).
 
-#### Параметры SEO
+#### Панель cookie
 
-- **Search Engine Friendly URLs**. Select if the URLs are optimised for
-  Search Engines.
-- **Перенаправлять URL**.
-  - Apache и Litespeed - переименуйте файл 'htaccess.txt' в '.htaccess'
-    <a href="https://httpd.apache.org/docs/2.4/howto/htaccess.html"
-    class="external text" target="_blank"
-    rel="nofollow noreferrer noopener">Learn more.</a>
-  - IIS: переименуйте файл 'web.config.txt' в 'web.config'
-  - NginX: настройте сервер согласно
-    инструкции
-  - Other servers or if unsure: please consult your hosting company
-- **Add Suffix to URL**. If yes, the system will add a suffix to the URL
-  based on the document type.
-- **Unicode Aliases**. Choose between transliteration and unicode
-  aliases. Transliteration is the default.
-- **Site Name in Page Titles**. Begin or end all Page Titles with the
-  site name (for example, "My Site Name - My Article Name").
+- **Домен cookies** Домен, который будет использоваться при установке session cookies. Поставьте '.' перед доменом, если cookie должна быть действительна для всех поддоменов.
+- **Путь cookies** Путь, для которого cookie должна быть действительна.
 
-#### Параметры Cookie
+### Вкладка "Система"
 
-- **Cookie Domain**. Domain to use when setting session cookies. Precede
-  domain with '.' if cookie should be valid for all subdomains.
-- **Cookie Path**. Path the cookie should be valid for.
+![вкладка системы глобальной конфигурации](../../../ru/images/site/global-configuration-system-tab.png)
 
-### Система
+#### Панель отладки
 
-Complete
-screenshot.
+- **Отладка системы** Если включено, диагностическая информация, языковой перевод и ошибки SQL (если они есть) будут отображаться. Информация будет отображаться внизу каждой страницы, которую вы смотрите в Backend и Frontend Joomla. Не рекомендуется оставлять режим отладки включенным при запуске сайта.
+- **Отладка языка** Включите, чтобы видеть индикаторы отладки `**...**` или `??...??` в выводе страницы, где файлы перевода языка Joomla используются для перевода строковых ключей в их значения. Первый формат указывает на то, что строка была успешно переведена. Второй указывает на то, что текст введён на простом языке и не может быть переведён.
+  - **Отображение языка** Выберите, следует ли отображать языковую константу или языковое значение при отладке языковых строк.
 
-#### Параметры отладки
+#### Панель кеша
 
-- **Debug System**. If enabled, diagnostic information, language
-  translation, and SQL errors (if present) will be displayed. The
-  information will be displayed at the foot of every page you view
-  within the Joomla Backend and Frontend. It is not advisable to leave
-  the debug mode activated when running a live website.
-- **Debug Language**. Select if the debugging indicators \*\*...\*\*
-  or ??...?? for the Joomla Language files will be displayed. Debug
-  Language will work without Debug System being activated, but you will
-  not get the additional detailed references that will help you correct
-  any errors.
-  - **Режим отображения**. Выберите режим отображения языка при отладке.
+- **Системный кеш** Включить кеширование и установить уровень кеширования.
+  - *Консервативный уровень* маленький системный кеш.
+  - *Прогрессивный уровень* быстрее, больше системного кеша, включает кеширование модулей отрисовки. Неподходит для чрезвычайно больших сайтов.
+  - **Обработчик кеша**
+    - *Файл* Родной механизм кеширования основан на файлах. Пожалуйста, убедитесь, что папки кеша записываемы.
+  - **Кеширование, специфичное для платформы** Включите, когда HTML-вывод на мобильных устройствах отличается от других устройств.
+  - **Время кеша (минуты)** Максимальная длина времени в минутах для хранения кеша, после чего файл обновляется.
+  - **Путь до папки кеша** Укажите записываемую папку для хранения кеш-файлов, если вы не хотите использовать папку по умолчанию.
 
-#### Параметры кэша
+#### Панель сессий
 
-- **System Cache**. Enable caching and set caching level.
-  - Conservative level: smaller system cache.
-  - Progressive level: faster, bigger system cache, includes module
-    renderers cache. Not appropriate for extremely large sites.
-  - **Обработчик кэша**.
-    - File: Native caching mechanism is file-based. Please make sure the
-      cache folders are writable.
-  - **Platform Specific Caching**. Enable when HTML output on mobile
-    differs from other devices.
-  - **Cache Time (minutes)**. The maximum length of time in minutes for
-    a cache file to be stored before it is refreshed.
-  - **Path to Cache Folder**. Specify a writable folder to store cache
-    files if you do not wish to use the default folder.
+- **Обработчик сессий** Механизм, с помощью которого Joomla идентифицирует пользователя, подключившегося к веб-сайту, используя не постоянные cookies.
+  - *База данных* Обработчик сессий базы данных является обработчиком по умолчанию, потому что это единственное, что Joomla может полностью настроить и контролировать самостоятельно.
+  - *Файловая система* Обработчик файловой системы будет немного более производительным, чем обработчик базы данных, но он требует правильной настройки PHP, в противном случае он сломается, и Joomla станет совершенно неработоспособна.
+    - *Путь сохранения сессии* Введите полный путь файловой системы. Убедитесь, что у пути есть соответствующие разрешения для PHP чтобы читать и записывать файлы, и если `session garbage collection` включена, чтобы удалять файлы из неё. Если этот путь не установлен, Joomla будет полагаться на PHP конфигурацию `session.save_path INI` или обратно на временную системную директорию (как определено функцией sys_get_temp_dir() PHP). Если ни один из этих путей не настроен или разрешения неправильные, то это провал. Для восстановления, отредактируйте файл configuration.php и установите `$session_handler = 'database'`.
+  - *Другие обработчики* APCu, Memcached, Redis и WinCache все зависят от опциональных PHP-расширений и могут быть доступны, если ваша система их поддерживает. APCu или WinCache могут быть не лучше, чем *простая* файловая система. Обработчики Memcached и Redis являются избыточными для Joomla в типичной среде совместного хостинга. Эти типы обработчиков успешны, если вы развертываете Joomla в загруженной среде, где участвуют несколько серверов, и вам необходимо, чтобы данные сессии для приложения были доступны на всех серверах.
+- **Время жизни сессии (минуты)** Автоматически выходить из учетной записи пользователя после его бездействия в течение указанного времени. Не устанавливайте слишком высокий показатель.
+- **Общая сессия** Когда включено, сессия пользователя делится между разделами Frontend и Backend сайта. Обратите внимание, что изменение этого значения аннулирует все существующие сессии на сайте. Это недоступно, когда опция [Force HTTPS](#forcehttps) установлена для *только для администраторов*.
+- **Отслеживание метаданных сессии**
+  - *Да* Дополнительные метаданные о сессии пользователя (включая их имя пользователя, ID пользователя и в какое приложение они вошли в систему) будут записаны в таблицу базы данных сессий.
+  - *Нет* Функции, зависящие от этих данных, будут недоступны.
 
-#### Параметры сессии
+### Вкладка "Сервер"
 
-- **Session Handler**. The mechanism by which Joomla identifies a User
-  once they are connected to the website using non-persistent cookies.
-  - Database: The database session handler is the default handler
-    because it is the only one that Joomla can fully configure and
-    control on its own.
-  - Filesystem: The filesystem handler will be slightly more performant
-    than the database handler, but it requires PHP to be configured
-    properly otherwise it will crash and Joomla will be totally
-    unusable.
-    - **Путь к каталогу файлов сессии**. Enter a full filesystem path.
-      Ensure the path has appropriate permissions for PHP to read and
-      write files, and if 'session garbage collection' is enabled to
-      delete files from it.If this path is not set, Joomla will rely on
-      the PHP session.save_path INI configuration or fallback to the
-      system temporary directory (as defined by the sys_get_temp_dir()
-      PHP function).If neither of those paths are configured or the
-      permissions are wrong then it's game over. To recover, edit the
-      configuration.php file and set \$session_handler = 'database'.
-  - Other handlers (APCu, Memcached, Redis, and WinCache) all rely on
-    optional PHP extensions and may be available if your system supports
-    them. APCu or WinCache may be no better than the "plain" filesystem
-    option. The Memcached and Redis handlers are overkill for Joomla in
-    a typical shared hosting environment. Those types of handlers
-    succeed if you are deploying Joomla in a load balanced environment
-    where multiple servers are involved and you need the session data
-    for the application to be available across all servers.
-- **Session Lifetime (minutes)**. Auto log out a User after they have
-  been inactive for the entered number of minutes. Do not set too high.
-- **Shared Sessions**. When enabled, a user's session is shared between
-  the Frontend and Backend sections of the site. Note that changing this
-  value will invalidate all existing sessions on the site.This is not
-  available when the [Force HTTPS](#forcehttps) option is set to
-  'Administrator Only'.
-- **Отслеживать метаданные сессии**.
-  - Да: Если установлено Да, метаданные сессии (включая имя
-    пользователя, его ID и расширение, в котором выполняется действие)
-    будут регистрироваться в таблице базы данных.
-  - Нет: Если установлено Нет, функции, которые зависят от метаданных,
-    будут недоступны.
+![вкладка сервера глобальной конфигурации](../../../ru/images/site/global-configuration-server-tab.png)
 
-### Сервер
+#### Панель сервера
 
-Complete
-screenshot.
+- **Путь до временной папки** Укажите записываемую папку для хранения временных файлов.
+- **Gzip сжатие страниц**
+  - *Да* Автоматически сжимает сгенерированные HTML страницы с помощью Gzip, делая их меньше и увеличивая скорость вашего сайта.
+  - *Нет* Если ваш сервер уже делает это за вас или если это конфликтует с расширениями сторонних разработчиков.
+- **Отчёт об ошибках** Этот параметр устанавливает уровень отчетности об ошибках, который будет использоваться PHP на сайте Joomla.
+  - *Настройки системы по умолчанию* Оставляет уровень отчетности об ошибках, установленный на сервере.
+  - *Нет* Выключает отчетность об ошибках.
+  - *Простой* Переопределяет настройку сервера для предоставления базового уровня отчетности.
+  - *Максимальный* Переопределяет настройку сервера, чтобы позволить отчетность обо всех ошибках. Если ваш сайт Joomla выйдет из строя до такой степени, что невозможно использовать страницу администратора для активации отчета об ошибках, вы можете включить полную отчетность об ошибках, отредактировав файл `configuration.php`. Установка `$error_reporting = 'maximum'` эквивалентна установке *Отчёт об ошибках* на *Максимальный*.
+- **Принудительное HTTPS** Заставить доступ к сайту в выбранных областях происходить только с использованием HTTPS (шифрованные HTTP-соединения с префиксом https://) и также заставить использование безопасных cookies. Обратите внимание, что для использования этой опции на вашем сервере должен быть включён HTTPS.
 
-#### Параметры Сервер
+#### Панель расположения
 
-- **Path to Temp Folder**. Please specify a writable folder to store
-  temporary files.
-- **Gzip-сжатие страниц**.
-  - Yes: Automatically compress the generated HTML pages with Gzip,
-    making them smaller and increasing your site's speed score.
-  - No: If your server is already doing that for you or if it conflicts
-    with third party extensions.
-- **Error Reporting**. This parameter sets the level of error reporting
-  to be used by PHP on the Joomla site.
-  - По умолчанию для системы: Leaves the level of error reporting to
-    that set up in the server.
-  - Нет: Switches off error reporting.
-  - Упрощенные: Override the server setting to give a basic level of
-    reporting.
-  - Максимальные: Override the server setting to reporting of all
-    errors.Should your Joomla site fail to the extent that it is not
-    possible to use the administrator page to activate error reporting,
-    you can switch on full error reporting by editing the
-    'configuration.php' file. Changing the '\$error_reporting' parameter
-    in that file to a value of 'maximum' is the equivalent to setting
-    Error Reporting to 'Maximum'.
-- **Force HTTPS**. Force site access in the selected areas to occur only
-  with HTTPS (encrypted HTTP connections with the https:// protocol
-  prefix) and also force the use of secure cookies. Note, you must have
-  HTTPS enabled on your server to utilise this option.
+- **Часовой пояс сайта** Выберите город из списка для настройки даты и времени для отображения.
 
-#### Параметры местоположения
+#### Панель веб-сервисов
 
-- **Website Time Zone**. Choose a city in the list to configure the date
-  and time for display.
+- **Включить CORS** Общий доступ к ресурсам между источниками или [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) позволяет скриптам, работающим в браузере, взаимодействовать с ресурсами с другого источника.
+  - **Access-Control-Allow-Origin** Указывает источник, которому разрешён доступ к веб-сервисам на этом сайте, отправляется в ответ на предварительные запросы. По умолчанию: `*` (=для всех).
+  - **Access-Control-Allow-Headers** Указывает заголовки, отправляемые в ответ на предварительные запросы. По умолчанию: `Content-Type,X-Joomla-Token`.
+  - **Access-Control-Allow-Methods** Указывает разрешённые методы веб-сервиса на этом сайте, отправляются в ответ на предварительные запросы. По умолчанию: все доступные методы для запрашиваемого маршрута.
 
-#### Параметры веб-служб
+#### Панель прокси
 
-- **Включить CORS**. Включить или отключить использование дополнительных
-  заголовков Cross-Origin Resource Sharing
-  (<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">CORS</a>), которые позволяют
-  запущенным в браузере скриптам взаимодействовать с ресурсами другого
-  источника.
-  - **Access-Control-Allow-Origin**. Введите адреса источников,
-    отправляемые обратно в ответ на предварительный запрос (по умолчанию
-    \*).
-  - **Access-Control-Allow-Headers**. Введите заголовки, отправляемые
-    обратно в ответ на предварительный запрос (по умолчанию
-    Content-Type,X-Joomla-Token).
-  - **Access-Control-Allow-Methods**. Введите заголовки методов,
-    отправляемые обратно в ответ на предварительный запрос (по умолчанию
-    пусто).
+- **За балансировщиком нагрузки** Если ваш сайт находится за балансировщиком нагрузки или обратным прокси, включите эту настройку, чтобы IP-адреса и другие конфигурации в Joomla автоматически учитывали это.
+- **Включить исходящий прокси** Некоторые хосты не разрешают какой-либо сетевой доступ с вашего сайта во внешний мир по умолчанию и требуют, чтобы вы вручную настроили исходящий прокси.
+  - **Хост исходящего прокси** Имя (домен) хоста или IP-адрес.
+  - **Порт исходящего прокси**
+  - **Имя пользователя исходящего прокси** Оставьте пустым, если ваш исходящий прокси не требует аутентификации.
+  - **Пароль исходящего прокси**
 
-#### Параметры прокси-сервера
+#### Панель базы данных
 
-- **Балансировщик нагрузки**. Включить или отключить использование
-  балансировщика нагрузки, если сайт находится за балансировщиком
-  нагрузки или обратным прокси-сервером. Использование параметра
-  позволяет получать реальный IP-адрес пользователя сайта, который может
-  регистрироваться в логе действий пользователей.
-- **Исходящий прокси-сервер**. Включить или отключить использование
-  исходящего прокси-сервера для доступа к ресурсам в сети.
-  - **Имя хоста прокси-сервера**. Введите имя хоста или IP-адрес
-    прокси-сервера.
-  - **Порт прокси-сервера**.
-  - **Логин прокси-сервера**. Введите логин прокси-сервера, если
-    используется аутентификация.
-  - **Пароль прокси-сервера**.
-
-#### Параметры базы данных
-
-- **Database Type**. The type of database in use, selected during the
-  installation process.Не изменяйте значение параметра без необходимости
-  (может потребоваться в случае переноса сайта на другой сервер).
-- **Host**. The hostname for your database entered during the
-  installation process.Не изменяйте значение параметра без необходимости
-  (может потребоваться в случае переноса сайта на другой сервер).
-- **Database Username**. The username for access to your database
-  entered during the installation process.Не изменяйте значение
-  параметра без необходимости (может потребоваться в случае переноса
-  сайта на другой сервер).
-- **Database Password**. The password to be used to access the
-  database.Не изменяйте значение параметра без необходимости (может
-  потребоваться в случае переноса сайта на другой сервер).
-- **Database Name**. The name for your database entered during the
-  installation process.Не изменяйте значение параметра без необходимости
-  (может потребоваться в случае переноса сайта на другой сервер).
-- **Database Tables Prefix**. The prefix used for your database tables,
-  created during the installation process.Не изменяйте значение
-  параметра без необходимости (может потребоваться в случае переноса
-  сайта на другой сервер).
-- **Шифрование соединения**.
-  - По умолчанию (контролируется сервером)
+- **Тип базы данных** Тип базы данных, используемый, выбранный в процессе установки. Не редактируйте это поле, если это не абсолютно необходимо (например, передача базы данных новому поставщику хостинга).
+- **Хост** Имя хоста для вашей базы данных, введенное в процессе установки. Не редактируйте это поле, если это не абсолютно необходимо (например, передача базы данных новому поставщику хостинга).
+- **Имя пользователя базы данных** Имя пользователя для доступа в вашу базу данных, введенное в процессе установки. Не редактируйте это поле, если это не абсолютно необходимо (например, передача базы данных новому поставщику хостинга).
+- **Пароль базы данных** Пароль для доступа к базе данных. Не редактируйте это поле, если это не абсолютно необходимо (например, передача базы данных новому поставщику хостинга).
+- **Имя базы данных** Имя для вашей базы данных, введенное в процессе установки. Не редактируйте это поле, если это не абсолютно необходимо (например, передача базы данных новому поставщику хостинга).
+- **Префикс таблиц базы данных** Префикс, используемый для ваших таблиц базы данных, созданный в процессе установки. Не редактируйте это поле, если это не абсолютно необходимо (например, передача базы данных новому поставщику хостинга).
+- **Шифрование подключения**
+  - По умолчанию (управляется сервером)
   - Односторонняя аутентификация
-    - **Проверять сертификат сервера**.
-      - **Path to CA File**. File system path.
+    - **Проверка сертификата сервера**
+      - **Путь к CA файлу** Путь к файлу в файловой системе.
   - Двусторонняя аутентификация
-    - **Path to Private Key File**. File system location.
-    - **Path to Certificate File**. File system location.
-    - **Проверять сертификат сервера**.
-      - **Path to CA File**. File system path.
-    - **Supported Cipher Suite (optional)**. No entry required (only
-      recommended for experienced users) – for more details, see the
-      documentation of your database.
+    - **Путь к файлу приватного ключа** Расположение в файловой системе.
+    - **Путь к файлу сертификата** Расположение в файловой системе.
+    - **Проверка сертификата сервера**
+      - **Путь к CA файлу** Путь в файловой системе.
+    - **Поддерживаемый набор шифров (опционально)** Ввод не требуется (рекомендуется только для опытных пользователей). За более подробной информацией обращайтесь к документации вашей базы данных.
 
-#### Параметры почты
+#### Панель почты
 
-- **Отправка почты**.
-  - Yes: Turn on mail sending.
-  - No: Turn off mail sending. It is recommended to put the site offline
-    when disabling the mail function.
-- **Отключить рассылку**.
-  - Yes: Disable the Mass Mail Users function.
-  - No: Make the Mass Mail Users function active.
-- **From Email**. The email address that will be used to send site
-  email.
-- **From Name**. Text displayed in the header "From:" field when sending
-  a site email. Usually the site name.
-- **Reply To Email**. The email address that will be used to receive end
-  user(s) reply.
-- **Reply To Name**. Text displayed in the header "To:" field when end
-  user(s) replying to received email.
-- **Mailer**. Select which mailer for the delivery of site email.
+- **Отправлять почту**
+  - *Да* Включите отправку почты.
+  - *Нет* Выключите отправку почты. Рекомендуется отключить сайт при отключении функции почты.
+- **Отключить массовую почту**
+  - *Да* Отключить функцию массовой почты.
+  - *Нет* Сделать функцию массовой почты активной.
+- **Электронная почта отправителя** Адрес электронной почты, который будет использоваться для отправки электронной почты сайта.
+- **Имя отправителя** Текст, отображаемый в заголовке *Отправитель:* при отправке электронной почты сайта. Обычно это имя сайта.
+- **Электронная почта для ответа** Адрес электронной почты, который будет использоваться для получения ответа от пользователей.
+- **Имя для ответа** Текст, отображаемый в заголовке *Получатель:* при ответе пользователей на полученную электронную почту.
+- **Почтовый сервис** Выберите почтовый сервис для доставки электронной почты сайта.
 
-### Логирование
+### Вкладка "Логирование"
 
-Complete
-screenshot.
+![вкладка логирования глобальной конфигурации](../../../ru/images/site/global-configuration-logging-tab.png)
 
-#### Параметры логирования
+#### Панель логирования
 
-- **Путь к каталогу логов**. Введите путь к каталогу для хранения файлов
-  логов. Рекомендуется не использовать общесистемные каталоги из
-  соображений безопасности (например, '/tmp').
-- **Логировать все**. Включить или отключить функцию логирования событий
-  по всем категориям, за исключением устаревшего API.
-- **Log Deprecated API**. Logs deprecated APIs.
+- **Путь до папки логов** Joomla может опционально вести лог-файл о своих и действиях расширений сторонних разработчиков. Укажите абсолютный путь к папке, которая доступна для записи PHP; если ее нет или она недоступна для записи, Joomla не загрузится. По соображениям безопасности вы не должны использовать папку с общим доступом, такую как `/tmp`.
+- **Логировать почти всё** Логирование всего, за исключением устаревших API.
+- **Логировать устаревший API** Логировать устаревшие API.
 
-#### Дополнительные параметры
+#### Панель произвольного логирования
 
-- **Log Priorities**. Can be used to manage custom logging. Select the
-  events you want to see in the log file. Default is 'All'. The item(s)
-  can be selected/deselected by clicking the dropdown list.
-- Введите заголовки категорий для логирования ('например', 'database',
-  'databasequery', 'database-error', 'deprecated', 'jerror', 'update',
-  'updater'). Если поле оставить пустым, пользовательское логирование
-  будет отключено.
-- **Log Category Mode**. Sets the mode for the list of log categories
-  above.
+- **Приоритеты логирования** Может использоваться для управления индивидуальным логированием. Выберите события, которые хотите видеть в лог-файле. По умолчанию *Все*. Элементы можно выбрать или отключить, нажав раскрывающееся меню.
+- **Категории логирования** Список категорий логов, которые нужно включить или исключить, разделенный запятыми. Общие категории логов включают, но не ограничиваются: `database`, `databasequery`, `database-error`, `deprecated` и `jerror`. Если пусто, индивидуальное логирование будет отключено.
+- **Режим категории логов** Устанавливает режим для списка категорий логов выше.
 
-### Фильтры текста
+### Вкладка "Текстовые фильтры"
 
-Complete
-screenshot.
+![вкладка текстовых фильтров глобальной конфигурации](../../../ru/images/site/global-configuration-text-filters-tab.png)
 
-Параметры фильтров применяются ко всем полям текстового редактора для
-выбранных групп пользователей.
+Эти настройки текстового фильтра будут применяться ко всем полям текстовых редакторов, отправленным пользователями в выбранных группах.
 
-С помощью фильтров текста вы можете обеспечить необходимый уровень
-контроля над HTML-кодом страниц, которые создают пользователи. Вы можете
-установить строгий или, например, более свободный уровень контроля. Как
-правило, значения по умолчанию обеспечивают качественную защиту от
-потенциальных атак.
+Эти опции фильтрации дают больше контроля над HTML, который ваши создатели контента отправляют. Вы можете быть настолько строгими или либеральными, насколько необходимо, чтобы удовлетворить потребности вашего сайта. Фильтрация будет включена по умолчанию, и стандартные настройки обеспечивают хорошую защиту от разметки, часто ассоциирующейся с атаками на веб-сайты.
 
-### Права доступа
+## Советы
 
-Complete
-screenshot.
+- Большинство из этих настроек можно установить один раз и оставить без изменений.
+- Если необходимо вносить значительные изменения, рассмотрите возможность отключения сайта, чтобы протестировать его и убедиться, что все работает должным образом.
+- Настройки сохраняются в файле `configuration.php` в корневой директории сайта. Разрешения этого файла устанавливаются только для чтения (444) после внесения изменений через страницу глобальной конфигурации, и необходимо предоставить разрешение на запись владельцу (644) перед редактированием с помощью текстового редактора.
 
-Manage the permission settings for user groups.
+*Переведено с помощью openai.com*
 
-- **Site Login**. Site Login for users in the selected group.
-- **Administrator Login**. Administrator Login for users in the selected
-  group.
-- **Web Services Login**. Web Services Login for users in the selected
-  group.
-- **Offline Access**. Allows users in the selected group to access to
-  the Frontend site when site is offline.
-- **Super User**. Allows users in the selected selected group to perform
-  any action over the whole site regardless of any other permission
-  settings.
-- **Configure Options Only**. Allows users in the group to edit the
-  options except the permissions of any extension.
-- **Access Administration Interface**. Allows users in the selected
-  group to access all of the administration interface except Global
-  Configuration.
-- **Create**. Allows users in the selected group to create any content
-  in any extension.
-- **Delete**. Allows users in the selected group to delete any content
-  in any extension.
-- **Edit**. Allows users in the selected group to edit any content in
-  any extension.
-- **Edit State**. Allows users in the selected group to edit the state
-  of any content in any extension.
-- **Edit Own**. Allows users in the selected group to edit any content
-  they own in any extension.
-- **Edit Custom Field Value**. Allows users in the selected group to
-  edit any value of custom fields submitted in any extension.
-
-Изменения значений действий применяются для данной и дочерних групп
-пользователей, компонентов и всего содержимого сайта.
-
-- **Запрещено** переопределяет любое унаследованное значение, а также
-  значения во всех дочерних группах, компонентах и содержимом. В случае
-  противоречия в значениях, **Запрещено** будет иметь приоритет.
-- Суммарное значение действия, для которого выбрано **Не определено**,
-  будет трактоваться как **Запрещено**, но его можно будет
-  переопределить для дочерних групп, компонентов, категорий и элементов.
-
-## Панель инструментов
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Сохранить**. Сохраняет данный пункт меню и оставляет данный экран
-  открытым.
-- **Сохранить и закрыть**. Сохраняет данный пункт меню и закрывает
-  данный экран.
-- **Закрыть**. Закрывает текущий экран и возвращает к предыдущему
-  экрану, без сохранения внесенных изменений.
-- **Toggle Inline Help**. Show help text below some options.
-- **Справка**. Открывает экран помощи.
-
-## Быстрые советы
-
-- Most of these settings can be set once and then left alone.
-- If major modifications need to be made, then consider taking the site
-  offline to test it and to make sure everything is in working order.
-- The settings are saved in '\[Joomla\]/configuration.php'. You have to
-  either activate the FTP-layer or make the 'configuration.php' file
-  writable to save your changes.

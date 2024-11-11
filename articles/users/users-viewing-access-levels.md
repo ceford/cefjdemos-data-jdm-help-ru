@@ -1,76 +1,34 @@
-<!-- Filename: Help4.x:Users:_Viewing_Access_Levels / Display title: Пользователи: Уровни доступа -->
+<!-- Filename: Help4.x:Users:_Viewing_Access_Levels / Display title: Пользователи: Уровни доступа для просмотра  -->
 
 ## Описание
 
-This screen shows a list of User Access Levels.
+Уровни доступа контролируют, какие пользователи могут просматривать какие ресурсы на сайте. Ресурсы включают пункты меню, модули, категории и элементы компонентов (статьи, контакты и так далее). Каждый объект на сайте назначается определенному уровню доступа. Группы пользователей также назначаются каждому уровню доступа.
 
-## Как открыть
+Если пользователь является членом группы, которая имеет разрешение на определенный уровень доступа, то этот пользователь может просматривать все ресурсы, назначенные этому уровню доступа. Важно понимать, что группы пользователей могут быть организованы в иерархию типа родитель-ребенок. Если это так, то дочерняя группа имеет доступ ко всем уровням доступа, к которым имеет доступ родительская группа. Таким образом, нет необходимости назначать дочерней группе доступ к уровням, к которым у родительской группы уже есть доступ.
 
-Select **Users → Access Levels** from the Administrator menu.
+Страница *Пользователи: Уровни доступа для просмотра* показывает список уровней доступа пользователей.
+
+### Общие элементы
+
+Некоторые элементы этой страницы обсуждаются в отдельных статьях справки:
+
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Фильтры списка](jdocmanual?article=help/common-elements/list-filters).
+* [Заголовки столбцов списка](jdocmanual?article=help/common-elements/list-column-headers).
+* [Пагинация списка](jdocmanual?article=help/common-elements/list-pagination).
+
+## Как получить доступ
+
+Выберите **Пользователи → Уровни доступа** в меню администратора.
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b2/Help-4x-users-user-manager-viewing-access-levels-en.png/800px-Help-4x-users-user-manager-viewing-access-levels-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/b/b2/Help-4x-users-user-manager-viewing-access-levels-en.png 1.5x"
-data-file-width="1007" data-file-height="583" width="800" height="463"
-alt="users user manager viewing access levels" />
+![пользователи, просматривающие уровни доступа](../../../ru/images/users/users-viewing-access-levels.png)
 
-## Column Headers
+## Подсказки
 
-In the table containing the Access Levels from your Joomla! site, you
-will see different columns. Here you can read what they mean and what is
-displayed in that column.
+- Нажмите на название уровня доступа, чтобы его отредактировать.
+- Нажмите на заголовки столбцов, чтобы отсортировать пользователей по этому столбцу в порядке возрастания или убывания.
 
-- **Checkbox**. Check this box to select one or more items. To select
-  all items, check the box in the column heading. After one or more
-  boxes are checked, click a toolbar button to take an action on the
-  selected item or items. Many toolbar actions, such as Publish and
-  Unpublish, can work with multiple items. Others, such as Edit, only
-  work on one item at a time. If multiple items are checked and you
-  press Edit, the first item will be opened for editing.
-- **Ordering:** (default). The column in which to sort displayed items
-  in the table. The values are the same as the column heading names.
-- **Level Name**. The name of the access level.
-- **User Groups Having Viewing Access**. The groups that have viewing
-  access.
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
+*Переведено с помощью openai.com*
 
-## List Filters
-
-At the top you will see the filter bar shown in the Screenshot above.
-The functions are:
-
-\***Search**. Enter part of the level's name and press the Search icon
-to find matching names. Press 'Clear' to clear the search field and
-restore the list of levels.
-
-## Панель инструментов
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **New**. Opens the editing screen to create a new access level.
-- **Edit**. Opens the editing screen for the selected access level. If
-  more than one access level is selected (where applicable), only the
-  first access level will be opened. The editing screen can also be
-  opened by clicking on the Name of the access level.
-- **Delete:** Deletes the selected access levels. Works with one or
-  multiple access levels selected. Note that you cannot delete an access
-  level that is currently being used. If you try to delete an access
-  level that is assigned, a message showing where it is assigned will be
-  displayed.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
-
-## Быстрые советы
-
-- Click on the name of an access level to edit it.
-- Click on the Column
-Headers to sort the users by that column, ascending or descending.

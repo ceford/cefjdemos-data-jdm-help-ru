@@ -1,159 +1,80 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Article / Display title: Меню: Создать материал -->
+<!-- Filename: Help4.x:Menu_Item:_Create_Article / Display title: Создать статью -->
 
 ## Описание
 
-The Create Article menu item allows users to submit an article via the
-Site interface. Normally this is available only to users who have logged
-in to the Frontend of the site.
+Пункт меню *Создать статью* позволяет пользователям отправить статью через интерфейс сайта. Обычно эта возможность доступна только пользователям, которые вошли в систему на фронтенде сайта. Пользователи должны иметь разрешение на создание статей.
 
-Users must have permission to create articles. When the Create Article
-page is shown in the Frontend, the screen shows as examples in the
-Frontend Screenshot section below.
+### Общие элементы
 
-## Как открыть
+Некоторые аспекты этой страницы рассмотрены в отдельных статьях Справки:
 
-Select **Menus → \[name of the menu\]** from the Administrator menu.
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Вкладка «Детали»](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [Вкладка «Тип ссылки»](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [Вкладка «Отображение страницы»](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [Вкладка «Метаданные»](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [Вкладка «Ассоциации»](jdocmanual?article=help/common-elements/edit-associations).
+* [Вкладка «Назначение модуля»](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
-To add a Menu Item:
+## Как получить доступ
 
-1.  click the **New** toolbar button.
-2.  click the Menu Item Type **Select** button.
-3.  select the **Articles** item.
-4.  select the **Create Article** item.
+Выберите **Меню → \[название меню\]** из меню администратора.
 
-To edit a Menu Item:
+Чтобы добавить элемент меню:
 
-- select a **Title** from the list
+1. Нажмите кнопку **Создать** на панели инструментов.
+2. Нажмите кнопку **Выбрать** в разделе *Тип элемента меню*.
+3. Выберите элемент **Статьи** во всплывающем диалоговом окне.
+4. Выберите элемент **Создать статью**.
+
+Чтобы отредактировать элемент меню:
+
+- Выберите **Заголовок** из списка
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/9/9a/Help-4x-Menus-Item-Articles-Create-Article-screen-ru.png/800px-Help-4x-Menus-Item-Articles-Create-Article-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/9a/Help-4x-Menus-Item-Articles-Create-Article-screen-ru.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/9/9a/Help-4x-Menus-Item-Articles-Create-Article-screen-ru.png/1600px-Help-4x-Menus-Item-Articles-Create-Article-screen-ru.png 2x"
-data-file-width="2880" data-file-height="1452" width="800" height="403"
-alt="Menus Item Articles Create Article screen" />
+![Элемент меню Статьи Создать вкладку с деталями статьи](../../../ru/images/menu-items/articles-create-article-details-tab.png)
 
-## Form Fields
+## Поля Формы
 
-- **Заголовок**. The title that will display for this menu item.
-- **Алиас**. The internal name of the menu item. Normally, you can leave
-  this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces.
+- **Заголовок** Заголовок, который будет отображаться для этого элемента меню.
+- **Псевдоним** Внутреннее название элемента меню. Обычно вы можете оставить это поле пустым, и Joomla заполнит его значением по умолчанию: название в нижнем регистре с дефисами вместо пробелов.
 
 ### Подробности
 
-#### Left Panel
+#### Левая панель
 
-- **Тип пункта меню**. The Menu Item Type selected when this menu item
-  was created. This can be one of the core menu item types or a menu
-  item type provided by an installed extension.
-- **Ссылка**. The system-generated link for this menu item. This field
-  cannot be changed and is for information only.
-- **Окно браузера**. Select from the dropdown list.
-- **Стиль шаблона**. Select from the dropdown list.
+- **Тип элемента меню** Тип элемента меню, выбранный при создании этого элемента меню. Это может быть один из основных типов элементов меню или тип элемента меню, предоставленный установочным расширением.
+- **Ссылка** Ссылка, сгенерированная системой для этого элемента меню. Это поле не может быть изменено и предназначено только для информации.
+- **Целевое окно** Выберите из выпадающего списка.
+- **Стиль шаблона** Выберите из выпадающего списка.
 
-#### Right Panel
+#### Правая панель
 
-- **Меню**. Shows which menu the link will appear in.
+- **Меню** Показывает, в каком меню будет отображаться ссылка.
 
-### Параметры
+### Опции
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-ru.png 2x"
-data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Menus Item Articles Create Article options subscreen" />
+![Создание статьи в меню элементов – вкладка деталей](../../../ru/images/menu-items/articles-create-article-options-tab.png)
 
-- **Специальная категория**.
-  - Да: Articles will be assigned to the specified category. The user
-    will not be able to select a category.
-  - Нет: The user may select the category from the list box. Only
-    categories for which the user has 'Create' permission will show.
-- **Пункт перенаправления после отправки или отмены**. Выберите пункт
-  меню, на который необходимо перенаправлять пользователя после отправки
-  или отмены отправки материала (если не используется перенаправление
-  после отмены в параметре ниже). По умолчанию пользователь
-  перенаправляется на главную страницу сайта.
-- **Перенаправлять после отмены**.
-  - Да: Set a page to redirect to when user Cancels article submission.
-  - Нет: When user Cancels article submission, the user is redirected to
-    the 'Submission/Cancel Redirect' page.
+- **Конкретная категория**
+  - *Да* Статьи будут присвоены указанной категории. Пользователь
+    не сможет выбрать категорию.
+  - *Нет* Пользователь может выбрать категорию из списка. Будут показаны только те категории, для которых у пользователя есть разрешение *Создавать*.
+- **Перенаправление после отправки/отмены** Выберите страницу, на которую пользователь будет перенаправлен после успешной отправки статьи.
+- **Пользовательское перенаправление при отмене**
+  - *Да* Установите страницу для перенаправления, когда пользователь отменяет отправку статьи.
+  - *Нет* Когда пользователь отменяет отправку статьи, он будет перенаправлен на страницу *Перенаправление после отправки/отмены*.
 
-### Common Options
+## Пример скриншота интерфейса
 
-See Menus: New Item
-for help on fields common to all Menu Item types, including:
+Этот скриншот демонстрирует основной шаблон интерфейса Joomla **Cassiopeia** со всеми параметрами редактирования макета, установленными на 'Скрыть'.
 
-- Right Panel
-- Тип
-  ссылки
-- Страница
-- Метаданные
-- Связи
-- Привязка
-  модулей
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
-## Панель инструментов
+## Советы
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
+Как правило, неавторизованный пользователь получит ошибку при выборе пункта меню *Создать статью*. По этой причине обычно присваивают пункту меню уровень доступа, который виден только пользователям, имеющим разрешение на добавление статей.
 
-- **Сохранить**. Saves the menu item and stays in the current screen.
-- **Сохранить и закрыть**. Saves the menu item and closes the current
-  screen.
-  - **Сохранить и создать**. Saves the menu item and keeps the editing
-    screen open and ready to create another menu item.
-- **Закрыть**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Справка**. Opens this help screen.
+*Переведено openai.com*
 
-## Frontend Screenshots
-
-Screenshots shows Joomla core Frontend Template **Cassiopeia**, all
-Editing Layout options
-set to 'Hide'.
-
-#### Материал
-
-<img
-src="https://docs.joomla.org/images/thumb/9/9a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/9a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-ru.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-ru.png 1.5x, https://docs.joomla.org/images/thumb/9/9a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-ru.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-ru.png 2x"
-data-file-width="1974" data-file-height="1385" width="600" height="421"
-alt="Menus Item Articles Create Article frontend content" />
-
-#### Поля
-
-<img
-src="https://docs.joomla.org/images/thumb/0/0f/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/0f/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-ru.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-ru.png 1.5x, https://docs.joomla.org/images/thumb/0/0f/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-ru.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-ru.png 2x"
-data-file-width="1973" data-file-height="626" width="600" height="190"
-alt="Menus Item Articles Create Article frontend fields" />
-
-#### Публикация
-
-<img
-src="https://docs.joomla.org/images/thumb/1/13/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/13/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-ru.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/13/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-ru.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-ru.png 2x"
-data-file-width="1973" data-file-height="1240" width="600" height="377"
-alt="Menus Item Articles Create Article frontend publishing" />
-
-#### Язык
-
-<img
-src="https://docs.joomla.org/images/thumb/4/4c/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/4c/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png 1.5x, https://docs.joomla.org/images/thumb/4/4c/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png 2x"
-data-file-width="1974" data-file-height="367" width="600" height="112"
-alt="Menus Item Articles Create Article frontend language" />
-
-## Быстрые советы
-
-An unauthorised user will normally get an error if they click on a
-Create Article menu item. For this reason, it is normal practice to give
-the menu item a viewing Access Level
-that can only be seen by users authorised to add articles.

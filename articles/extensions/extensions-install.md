@@ -1,177 +1,83 @@
 <!-- Filename: Help4.x:Extensions:_Install / Display title: Расширения: Установка -->
 
-## Description
+## Описание
 
-Extensions are add-ons that expand the functionality of Joomla!.
-Extensions are used to add capabilities to Joomla! that do not exist in
-the standard package. Hundreds of Extensions are available for Joomla!,
-with more being developed all of the time.
+Расширения используются для добавления в Joomla! возможностей, которых нет в стандартной установке. Для Joomla! доступно сотни расширений, и постоянно разрабатываются новые.
 
-Extensions are categorised into five types, as follows:
+Расширения делятся на пять типов:
 
-- A *Component* is a mini-application that renders the main body of the
-  page. Examples of Components are Contacts, the Front Page, and News
-  Feeds.
-- A *Module* is a smaller Extension typically used for rendering a small
-  element that displays across multiple pages. Examples of Modules
-  include Menus and Related Items.
-- A *Plugin* is a section of code that runs when a pre-defined event
-  happens within Joomla!. For example, editors are Plugins that run when
-  an edit session is opened.
-- The *Language* Extension allows for the Front-end and Back-end of
-  Joomla! to be presented in any language for which a language Extension
-  exists. This way, Joomla! can be released in a new language with no
-  changes to the core program.
-- A *Template* controls the way the content of a web site is displayed,
-  including the location and layout of elements, colors, fonts, and so
-  on. Templates allow the appearance of the web site to be separated
-  from its content.
+- *Компонент* — это мини-приложение, которое отображает основную часть страницы. Примеры компонентов включают Контакты, Главную страницу и Ленты новостей.
+- *Модуль* — это более мелкое расширение, которое обычно используется для отображения небольшого элемента, отображаемого на нескольких страницах. Примеры модулей включают Меню и Похожие элементы.
+- *Плагин* — это сегмент кода, который запускается при наступлении заранее определенного события в Joomla!. Например, редакторы являются плагинами, которые запускаются при открытии сеанса редактирования.
+- Расширение *Язык* позволяет отображать интерфейс как на передней, так и на задней частях Joomla! на любом языке, для которого существует языковое расширение. Таким образом, Joomla! может быть выпущена на новом языке без изменений в ядре программы.
+- *Шаблон* контролирует способ отображения содержания веб-сайта, включая положение и компоновку элементов, цвета, шрифты и так далее. Шаблоны позволяют отделить внешний вид веб-сайта от его содержания.
 
-## How to Access
+### Общие элементы
 
-- Select **System → Install Panel → Extensions** from the
-  Adminstrator menu.
+Некоторые элементы этой страницы рассматриваются в отдельных статьях Справки:
 
-There will be a brief delay as Joomla downloads an initial selection of
-Extension data from the Joomla Extensions Directory.
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
 
-## Screenshot
+## Как получить доступ
 
-<img
-src="https://docs.joomla.org/images/8/86/Help-4x-Extensions-Extension-Manager-Install-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="996"
-width="800" height="996"
-alt="Extensions Extension Manager Install screen" />
+- Выберите **Система → Установить панель → Расширения** в меню администратора.
 
-## Form Fields
+Доступно четыре метода установки. Если **Установка из интернета** стоит первой в списке или была последней выбранной методикой, будет небольшая задержка, поскольку Joomla загружает первоначальный выбор данных расширений из Каталога расширений Joomla.
 
-Joomla! Extensions can be installed using one of four methods, as
-indicated below. Only one method is needed to install a given Extension.
-The normal procedure for installing a Joomla! Extension is as follows:
+Обычный порядок вкладок для методов установки следующий:
 
-1.  Download one or more archive files (normally ".zip" or "tar.gz"
-    format) from the Extension provider's web site to a local directory
-    on your computer. Note that some Extensions are installed as one
-    file (for example, one Component or Module) while other Extensions
-    might have two or more files (for example, a Component and a
-    Module). If there are two or more parts, each one will have its own
-    archive file.
-2.  Choose one of the methods describe below (**usually Package File**)
-3.  When it is finished, the screen will display the message "Install
-    Component Success". If the installation is not successful, an error
-    message will display.
-4.  Depending on the Extension, it may be necessary to enable the
-    Extension (for example, in the Modules
-    list
-    or
+* Загрузка файла пакета
+* Установка из папки
+* Установка с URL
+* Установка из интернета
 
-### Install from Web Tab
+Для установки заданного расширения нужен только один метод. Обычная процедура установки расширения Joomla! следующая:
 
-If installed, you will see the Install from Web tab, illustrated in the
-Screenshot, to install an extension direct from the Joomla Extension
-Directory (JED). You can select extensions to list by Category or you
-can search by partial name.
+1. Загрузите один или несколько архивных файлов (обычно в формате ".zip" или "tar.gz") с веб-сайта провайдера расширения в локальный каталог на вашем компьютере. Обратите внимание, что некоторые расширения устанавливаются как один файл (например, один компонент или модуль), в то время как другие могут содержать два или более файлов (например, компонент и модуль). Если есть две и более части, каждая из которых может иметь свой собственный архивный файл. Или части могут быть объединены в файл пакета.
+2. Выберите один из описанных методов, чтобы установить расширение.
+3. Когда установка завершится, на экране отобразится сообщение **Успешно** или **Неудачно**.
+4. В зависимости от расширения может потребоваться его включение (например, в списках модулей или плагинов).
 
-### Upload Package File Tab
+## Вкладка Загрузка файла пакета
 
-<img
-src="https://docs.joomla.org/images/0/06/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-en.png"
-decoding="async" data-file-width="600" data-file-height="325"
-width="600" height="325"
-alt="Extensions Manager Install UploadPackageFilescreen" />
+![Вкладка загрузки файла пакета для установки расширения](../../../ru/images/extensions/install-upload-package-file.png)
 
-- Drag and drop or browse to the location where you downloaded the
-  Extension's archive file.
+- Перетащите или перейдите к месту, где вы скачали архивный файл расширения.
 
-The upload begins automatically. Note the **Maximum upload size: â€ŽX.00
-MB** defined for your installation. If you cannot increase this value
-you can use *Install from Folder*.
+Загрузка начнется автоматически. Обратите внимание на **Максимальный размер загрузки: 32,00 МБ**, установленный для вашей установки. Если вы не можете увеличить это значение, вы можете использовать *Установить из папки*.
 
-### Install from Folder Tab
+## Установка с вкладки "Установить из папки"
 
-<img
-src="https://docs.joomla.org/images/d/d9/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-en.png"
-decoding="async" data-file-width="600" data-file-height="248"
-width="600" height="248"
-alt="Extensions Manager Install InstallfromFolder screen" />
+![Установка расширения из вкладки папки](../../../ru/images/extensions/install-from-folder.png)
 
-1.  Create a temporary directory on your local hard drive and unpack the
-    Extension's archive file in this temporary directory.
-2.  Using FTP, upload the contents of this directory (including files
-    and subdirectories) to a directory on your server.
-3.  In the *Install Directory* field specify the server directory where
-    you uploaded the files and subdirectories of the package.
-4.  Click on the *Check and Install* button and Joomla! will install the
-    contents of the given directory.
+1. Создайте временный каталог на вашем локальном жестком диске и распакуйте архивный файл расширения в этот временный каталог.
+2. С помощью FTP загрузите содержимое этого каталога (включая файлы и подкаталоги) в каталог на вашем сервере.
+3. В поле *Установить директорию* укажите серверный каталог, в который вы загрузили файлы и подкаталоги пакета.
+4. Нажмите на кнопку *Проверить и установить*, и Joomla! установит содержимое указанного каталога.
 
-Note that it is common practice to put the folder containing your
-unpacked extension in the tmp folder of your Joomla site.
+Обратите внимание, что часто используется практика размещения папки с распакованным расширением в папке tmp вашего сайта Joomla.
 
-### Install from URL Tab
+## Установка с вкладки URL
 
-<img
-src="https://docs.joomla.org/images/6/69/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-en.png"
-decoding="async" data-file-width="600" data-file-height="251"
-width="600" height="251"
-alt="Extensions Manager Install InstallfromUrl screen" />
+![Установка расширений с вкладки URL](../../../ru/images/extensions/install-from-url.png)
 
-Instead of downloading the archive file to your local computer, just
-specify the URL of the target archive file. Then click the "Check and
-Install" button and Joomla! automatically installs it directly from this
-URL. *Note that, with this method, you will not have a copy of the
-archive file on your local computer.*
+Вместо загрузки архивного файла на ваш локальный компьютер, просто укажите URL целевого архивного файла. Затем нажмите кнопку "Проверить и установить", и Joomla! автоматически установит его напрямую с этого URL. *Обратите внимание, что при использовании этого метода у вас не будет копии архивного файла на вашем локальном компьютере.*
 
-## Toolbar
+## Установка с вкладки «Интернет»
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
+Чтобы установить расширение напрямую из Каталога расширений Joomla (JED), вы можете выбрать расширения для отображения по категории или выполнить поиск по частичному названию.
 
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
+![Установка расширения с вкладки веб](../../../ru/images/extensions/install-from-web.png)
 
-## Links to Other Screens
+## Советы
 
-- **Install.** Links to the <span class="mw-selflink selflink">Install
-  Screen</span>.
-- **Update.** Links to the
-- **Manage.** Links to the
-- **Discover.** Links to the
-- **Database.** Links to the
-- **Warnings.** Links to the
-- **Install Languages.** Links to the Install Languages Screen.
-- **Update Sites.** Links to the <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions Extension Manager Update Sites/en (page does not exist)">Update
-  Sites Screen</a>.
+- Доступны четыре альтернативных метода установки, перечисленных выше. Наиболее распространённый из них — метод «Загрузить файл пакета».
+- Если вы хотите установить сторонний модуль или плагин, который относится к компоненту, вам, как правило, также нужно будет установить компонент вместе с модулем или плагином, чтобы использовать их. Это обычно указано в инструкциях по установке расширения на сайте автора.
+- Аналогично, если вы удаляете сторонний компонент, который также имеет свои собственные модули или плагины, эти модули и плагины больше не смогут использоваться. Поэтому обычно рекомендуется также удалять эти зависимые модули и плагины.
+- Некоторые компоненты, разработанные сторонними разработчиками, могут иметь свои собственные модули или плагины, включенные в установщик. В этом случае убедитесь, что эти директории модулей или плагинов доступны для записи. В противном случае расширение не будет работать должным образом.
+- **ПРЕДУПРЕЖДЕНИЕ О БЕЗОПАСНОСТИ:** Рекомендуется использовать на вашем сайте только те сторонние расширения, которые вам действительно необходимы. Не используйте свой активный сайт для тестирования, так как это может скомпрометировать ваш сайт и сервер. Тестируйте новые расширения на локальном тестовом сайте перед их развёртыванием на активном сайте.
+- Не устанавливайте расширения Joomla!, загруженные с сайтов [Warez](https://en.wikipedia.org/wiki/Warez), поскольку они могут быть заражены вирусами или вредоносным ПО, что может нанести ущерб серверу и заразить компьютеры ваших посетителей!
+- Установка с удалённого URL может быть опасной. По этой причине обычно рекомендуется использовать опции «Установить из Интернета», «Загрузить файл пакета» или «Установить из папки» при установке новых расширений.
 
-## Tips
+*Переведено с помощью openai.com*
 
-- Four alternate installation methods are available, as indicated above.
-  The most common one is the "Upload Package File" method.
-- If you want to install a third-party Module or Plugin that belongs to
-  a Component, you will generally need to install the Component as well
-  as the Module or Plugin in order to use the Module or Plugin. This is
-  normally documented in the Extension's installation instructions on
-  the author's web site.
-- Similarly, if you uninstall a third-party Component that also has its
-  own Modules or Plugins, these Modules and Plugins can no longer be
-  used. So it is normally recommended to uninstall these dependent
-  Modules and Plugins as well.
-- Some Components developed by third party developers may have their own
-  Modules or Plugins included in the installer. In this case, make sure
-  these Module or Plugin directories are writable. Otherwise the
-  Extension will not work properly.
-- **SECURITY WARNING:** It is recommended that you use only those
-  third-party Extensions on your site that you really need. Do not use
-  your live site for testing purposes because it may compromise your
-  site and server. Test new extensions on a local test web site before
-  deploying them on your live site.
-- Do not install Joomla! Extensions downloaded from warez sites because
-  they may be infected by a virus or malware that cause damage on the
-  server and can contaminate the computer of your visitors!
-- Installing from remote URL can be dangerous. For this reason, it is
-  generally recommended that you use the "Install from Web", "Upload
-  Package File" or "Install from Folder" options when installing new
-  Extensions.

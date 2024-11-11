@@ -1,433 +1,236 @@
-<!-- Filename: Help4.x:Articles:_Options / Display title: Материалы: Настройки -->
+<!-- Filename: Help4.x:Articles:_Options / Display title: Статьи: Опции  -->
 
 ## Описание
 
-Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global'
-is selected for an option in an Articles menu item.
+Страница *Статьи: Параметры* используется для установки глобальных значений по умолчанию для статей. Они используются, когда для опции в пункте меню Статьи выбрано *Использовать глобально*. Например, чтобы показывать *Дата создания* для статьи в ваших пунктах меню Статьи, установите эту опцию здесь на *Показать*, и это будет значением по умолчанию.
 
-For example, to show the 'Create Date' for an article in your Articles
-menu items, then set that option to 'Show' here and it will be the
-default value.
+### Общие элементы
 
-You do not need to set any of these options. Your Joomla site will work
-with the default settings.
+Некоторые аспекты этой страницы рассматриваются в отдельных статьях справки:
 
-## Как открыть
-Выбирать **Контент → Материалы**
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Вкладка Разрешения](jdocmanual?article=help/common-elements/edit-permissions).
 
-- click the **Options** toolbar button
+## Как получить доступ
+
+Выберите кнопку **Параметры** в панели инструментов на любой странице списка *Статей*.
 
 ## Скриншот
 
-![Articles options screenshot](../../../ru/images/articles/articles-options-articles-tab.png "Articles options")
+![Скриншот параметров статей](../../../ru/images/articles/articles-options-articles-tab.png)
 
-## Form Fields
+## Поля формы
 
-### Материалы
+### Вкладка "Статьи"
 
-Options used in articles and the menu items Blog, List, Featured Articles,
-List All Categories, and Single Article.
+Эти настройки применяются к макетам статей, если они не изменены для конкретного пункта меню или статьи.
 
-#### Макет
+- **Выбрать макет** Выберите значение по умолчанию для пунктов меню "Одна статья".
+- **Заголовок** Показывает заголовок статьи.
+- **Связанные заголовки** Показывает заголовок как ссылку на статью.
+- **Вводный текст**
+  - **Показывать** Вводный текст статьи будет виден в полной статье.
+  - **Скрыть** В полной статье будет видна только часть статьи после разрыва "Читать далее".
+- **Расположение информации о статье**
+  - **Выше** Размещает блок информации о статье выше текста.
+  - **Ниже** Размещает блок информации о статье ниже текста.
+  - **Разделить** Разделяет блок информации о статье на два отдельных блока. Один блок выше, а другой ниже текста.
+- **Заголовок информации о статье** Отображает слово *Детали* над блоком информации о статье.
+- **Категория** Показывает заголовок категории статьи.
+  - **Ссылка на категорию** Показывает заголовок как ссылку на эту категорию. Примечание: Это можно настроить на блог или список с помощью опции *Выбрать макет* на вкладке категории.
+- **Родительская категория** Показывает заголовок родительской категории статьи.
+  - **Ссылка на родительскую категорию** Показывает заголовок как ссылку на эту категорию. Примечание: Это можно настроить на блог или список с помощью опции *Выбрать макет* на вкладке категории.
+- **Ассоциации** Показывает соответствующие флаги или код языка. Только для многоязычных материалов.
+  - **Использовать флаги изображений** Отображает выбор языка в виде флагов изображений, если Ассоциации установлены в *Показать*.
+- **Автор** Показывает автора статьи.
+  - **Ссылка на страницу контакта автора** Показывает это как ссылку на макет контакта для этого автора. Примечание: Автор должен быть настроен как контакт. Также, ссылка не будет показываться, если есть значение псевдонима автора для контакта.
+- **Дата создания** Показывает дату создания статьи.
+- **Дата изменения** Показывает дату изменения статьи.
+- **Дата публикации** Показывает дату начала публикации статьи.
+- **Навигация** Показывает навигационную ссылку *Предыдущая* или *Следующая*.
+- **Ссылка "Читать далее"** Показывает ссылку "Читать далее", чтобы связать часть статьи до разрыва "Читать далее" с остальной статьей.
+- **Читать далее с заголовком**
+  - *Показать* Заголовок статьи является частью ссылки "Читать далее". Ссылка будет в формате "Читать далее: [заголовок статьи]".
+  - *Скрыть* Ссылка будет просто "Читать далее".
+- **Лимит "Читать далее" (символы)** Максимальное количество символов из заголовка для включения. Примечание: Это может предотвратить чрезмерную длину текста "Читать далее", если у статьи очень длинный заголовок.
+- **Теги** Показывает теги для каждой статьи.
+- **Запись просмотров** Записывает количество раз, когда статья была просмотрена.
+- **Просмотры** Показывает количество раз, когда статья была показана пользователю.
+- **Неавторизованные ссылки**
+  - *Да* Показывают вводный текст для ограниченных статей. Нажатие на ссылку "Читать далее" потребует от пользователей войти в систему, чтобы увидеть полный контент статьи.
+  - *Нет* Статьи, которые пользователь не имеет авторизации для просмотра (основано на уровне доступа к просмотру статьи), не будут показываться.
+- **Расположение ссылок**
+  - *Выше* Ссылки показываются над контентом.
+  - *Ниже* Ссылки показываются под контентом.
 
-- **Макет**. Select the default value for Single Article menu items.
-- **Заголовок**. Show the Article's Title.
-- **Заголовок как ссылка**. Show the title as a link to the article.
-- **Вводный текст**.
-  - Показать: The Intro Text of the article will show when you drill
-    down to the article.
-  - Скрыть: Only the part of the article after the Read More break will
-    show.
-- **Позиция информации о материале**.
-  - Сверху: Puts the article information block above the text.
-  - Снизу: Puts the article information block below the text.
-  - Разделить: Splits the article information block into 2 separate
-    blocks. One block is above and the other is below the text.
-- **Заголовок информации о материале**. Displays 'Details' on top of the
-  article information block.
+### Вкладка "Редакторский макет"
 
-#### Категория
+Эти настройки управляют макетом страницы редактирования статьи.
 
-- **Заголовок категории**. Show the Article's Category Title.
-  - **Категория как ссылка**. Show the title as a link to that
-    Category.Note: You can set this to be either a blog or list layout
-    with the Choose a Layout
-    option in the Category Tab.
-- **Заголовок родительской категории**. Show the Article's Parent
-  Category Title.
-  - **Родительская категория как ссылка**. Show the title as a link to
-    that Category.Note: You can set this to be either a blog or list
-    layout with the Choose a Layout
-    option in the Category Tab.
+![Настройки статьи, редактирование макета](../../../ru/images/articles/articles-options-editing-layout-tab.png)
 
-#### Связи
+- **Разрешить CAPTCHA при отправке** Выберите плагин CAPTCHA, который будет использоваться в форме отправки статьи. Если выбрано *Использовать глобальные*, убедитесь, что плагин CAPTCHA выбран в глобальной конфигурации.
+- **Настройки публикации** Скрыть вкладку "Настройки публикации" на заднем плане при редактировании статей. Это значит, что пользователи заднего плана не смогут редактировать поля в этой вкладке. Эти поля всегда будут устанавливаться на значения по умолчанию.
+- **Настройки статьи** Скрыть вкладку "Настройки статьи" на заднем плане при редактировании статей. Это значит, что пользователи заднего плана не смогут редактировать поля в этой вкладке. Эти поля всегда будут устанавливаться на значения по умолчанию.
+- **Настройки экрана редактирования** Скрыть вкладку "Настройки экрана редактирования" при редактировании статей.
+- **Разрешения статьи** Скрыть вкладку "Разрешения" при редактировании статей.
+- **Многоязычные ассоциации** Скрыть вкладку "Ассоциации" при редактировании статей.
+- **Включить версии** Сохранять историю версий для статей и категорий.
+- **Максимум версий** Максимальное количество версий, которые можно сохранить для статьи или категории. Если статья или категория сохраняется, и достигнуто максимальное количество версий, самая старая версия будет автоматически удалена. Если установлено "0", то версии никогда не будут удаляться автоматически.
+- **Изображения и ссылки интерфейса** Скрыть вкладку "Изображения и ссылки" в режиме фронтенда редактора статей.
+- **Изображения и ссылки администратора** Скрыть вкладку "Изображения и ссылки" на заднем плане при редактировании статей.
+- **Окно целевого URL A** Устанавливает значение по умолчанию для цели для первой ссылки в статье. Выборы:
+  - *Открыть в родительском окне* Открывает в основном окне браузера, заменяя текущую статью Joomla.
+  - *Открыть в новом окне* Открывает ссылку в новом окне браузера.
+  - *Открыть в всплывающем окне* Открывает ссылку в всплывающем окне браузера (без полного управления навигацией).
+  - *Модально* Открывает ссылку в модальном всплывающем окне.
+- **Окно целевого URL B** Устанавливает значение по умолчанию для цели для второй ссылки в статье. Те же опции, что и для URL A.
+- **Окно целевого URL C** Устанавливает значение по умолчанию для цели для третьей ссылки в статье. Те же опции, что и для URL A.
+- **Класс для вступительного изображения** Устанавливает атрибут класса для выбранного вступительного изображения в поле вступительного изображения.
+- **Класс для изображения полного текста** Устанавливает атрибут класса для изображение полной статьи, выбранного в поле изображения полной статьи.
 
-- **Языковые связи**. Show the associated flags or Language Code.
-  Multilingual only.
-  - **Изображения флагов**. Display language choice as image flags.
+### Вкладка "Категория"
 
-#### Автор
+Эти настройки применяются для настроек категорий статей, если они не изменены индивидуальными настройками категории или меню.
 
-- **Автор**. Show the author of the Article.
-  - **Автор как ссылка**. Show it as a link to a Contact layout for that
-    author.Note: The author must be set up as a
-    Contact.
-    Also, a link will not show if there is an Author Alias
-    value for the article.
+![Настройки статьи, вкладка категорий](../../../ru/images/articles/articles-options-category-tab.png)
 
-#### Дата
+- **Выбрать макет** Выберите макет по умолчанию для показа при выборе ссылки на категорию.
+- **Заголовок категории** Показывает заголовок категории.
+- **Описание категории** Показывает описание категории.
+- **Изображение категории** Показывает изображение категории.
+- **Уровни подкатегорий** Управляет, сколько уровней подкатегорий показывать.
+- **Пустые категории** Показывает категории, не содержащие никаких статей или подкатегорий.
+- **Сообщение об отсутствии статей** Показывает сообщение "В этой категории нет статей".
+- **Заголовок подкатегорий** Показывает подкатегории как подзаголовки на странице.
+- **Описания подкатегорий** Показывает описания подкатегорий.
+- **Количество статей в категории** Показывает количество всех статей в каждой категории.
+- **Теги** Показывает теги для категории.
 
-- **Дата создания**. Show the Article's create date.
-- **Дата изменения**. Show the Article's modify date.
-- **Дата публикации**. Show the Article's start publishing date.
+### Вкладка "Категории"
 
-#### Материалы
+Эти настройки применяются для опций категории статей, если они не изменены индивидуальными настройками категории или меню.
 
-- **Ссылки "Назад/Вперед"**. Show a navigation link 'Prev' or 'Next'
-  when you drill down to the article.
-- **Ссылка "Подробнее"**. Show the Read More link to link from the part
-  of the article before the Read More break to the rest of the Article.
-- **Заголовок со ссылкой "Подробнее"**.
-  - Показать: The article title is part of the Read More link. The link
-    will be in the format "Read More: \[article title\]".
-  - Скрыть: The link will be "Read more".
-- **Количество символов**. The maximum number of characters from the
-  title to include.Note: This can prevent the Read More text to become
-  excessively long if the article has a very long title.
-- **Теги**. Show the tags for each article.
-- **Записывать просмотры**. Record the number of times the article has
-  been viewed.
-- **Количество просмотров**. Show the number of times the article has
-  been displayed by a user.
-- **Неавторизованные ссылки**.
-  - Да: The Intro Text for restricted articles will show. Clicking on
-    the Read more link will require users to log in to view the full
-    article content.
-  - Нет: Articles that the user is not authorised to view (based on the
-    viewing access level for the article) will not show.
-- **Позиция ссылок**.
-  - Сверху: Links are shown above the content.
-  - Снизу: Links are shown below the content.
+![Настройки статьи, вкладка категорий](../../../ru/images/articles/articles-options-categories-tab.png)
 
-### Форма
+- **Описание верхнего уровня категории** Показывает описание для категории верхнего уровня.
+- **Уровни подкатегорий** Управляет, сколько уровней подкатегорий показывать.
+- **Пустые категории** Показывает категории, не содержащие никаких статей или подкатегорий.
+- **Описания подкатегорий** Показывает описания подкатегорий.
+- **Количество статей в категории** Показывает количество всех статей в каждой категории.
 
-Options of the article editing page.
+### Вкладка "Макеты блога/Избранные"
 
-![Articles options editing layout tab](../../../ru/images/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
+Эти настройки применяются для макетов блога или избранных, если они не изменены для конкретного пункта меню.
 
-- **Включить CAPTCHA**. Select the captcha plugin
-  that will be used in the article submit form. If 'Use Global' is
-  selected, make sure a captcha plugin is selected in Global Configuration.
-- **Публикация**. Hide the Publishing Options tab
-  in the Backend when editing Articles. This means that Backend users
-  will not be able to edit the fields in this tab. These fields will
-  always be set to their default values.
-- **Отображение**. Hide the Article Options tab
-  in the Backend when editing Articles. This means that Backend users
-  will not be able to edit the fields in this tab. These fields will
-  always be set to their default values.
-- **Форма редактирования**. Hide the Configure Edit Screen tab
-  when editing Articles.
-- **Права доступа**. Hide the Permissions tab
-  when editing Articles.
-- **Языковые связи**. Hide the Associations tab
-  when editing Articles.
-- **История версий**. Save version history for Articles and Categories.
-- **Количество версий**. The maximum number of versions to store for an
-  Article or Category. If an Article or Category is saved and the
-  maximum number of versions has been reached, the oldest version will
-  be deleted automatically. If set to "0", then versions will never be
-  deleted automatically.
-- **Изображения и ссылки (сайт)**. Hide the Images and Links tab in the
-  Frontend article editor screen.
-- **Изображения и ссылки (панель управления)**. Hide the Images and
-  Links tab in the Backend when editing Articles.
-- **Окно браузера для ссылки A**. Sets the default value for the target
-  for the first Link in the article. Choices are:
-  - Родительское окно: Opens the in the main browser window, replacing
-    the current Joomla article.
-  - Новое окно: Opens the link in a new browser window.
-  - Всплывающее окно: Opens the link in a popup browser window (without
-    full navigation controls).
-  - Модальное окно: Opens the link in a modal popup window.
-- **Окно браузера для ссылки B**. Sets the default value for the target
-  for the second Link in the article. Same options as URL A.
-- **Окно браузера для ссылки C**. Sets the default value for the target
-  for the third Link in the article. Same options as URL A.
-- **CSS-класс изображения вводного текста**. Sets the class attribute
-  for an Intro Image selected in the Intro Image field.
-- **CSS-класс изображения полного текста**. Sets the class attribute for
-  an Full Article Image selected in the Full Article Image field.
+![Настройки статьи, вкладка макетов блога и избранных](../../../ru/images/articles/articles-options-blog-layouts-tab.png)
 
-### Категория
+- **# Ведущих статей** Количество статей для показа в полном ширине основной области отображения. "0" означает, что никакие статьи не будут показаны при использовании полной ширины. Если у статьи есть разрыв "Читать далее", только часть текста перед разрывом (вводный текст) будет отображаться.
+- **Класс ведущей статьи** Добавьте любой CSS-класс для настройки макета. Добавьте границу сверху с классом "boxed". Для позиции изображения используйте, например, "image-left", "image-right". Добавьте "image-alternate" для чередования порядка вводных изображений.
+- **# Вводных статей** Определяет количество статей для отображения после ведущей статьи. Эти статьи будут отображаться в количестве колонок, установленном в параметре "Колонки" ниже. Если у статьи есть разрыв "Читать далее", будет отображен только текст до разрыва (вводный текст), за которым следует ссылка "Читать далее". Порядок отображения статей определяется параметрами "Порядок категорий" и "Порядок статей" ниже.
+- **Класс статьи** Добавьте любой CSS-класс для индивидуального стиля. Добавьте границу сверху с классом "boxed". Для позиции изображения используйте, например, "image-left", "image-right". Добавьте "image-alternate" для чередования порядка вводных изображений.
+- **# Колонок** Количество колонок для использования в области вводных статей. Обычно это от 1 до 3 (в зависимости от используемого шаблона). Если используется 1, вводные статьи будут отображаться, используя полную ширину области отображения, так же, как ведущие статьи.
+- **Направление много-колонок** В много-колонках макетов блога, следует упорядочивать статьи "Вниз по колонкам" или "По колонкам".
+  - *Вниз* Упорядочивание статей идет вниз по первой колонке, а затем переходит на следующую колонку.
+  - *По колонкам* Упорядочивание статей идет по колонкам, а затем возвращается к первой колонке.
+- **# Ссылок** Количество ссылок для отображения в области ссылок на странице. Эти ссылками пользователи могут переходить к дополнительным статьям, если на первой странице макета блога недостаточно места для всех статей.
+- **Включать подкатегории**
+  - *Нет* Только статьи из текущей категории будут показаны.
+  - *Все* Все статьи из текущей категории и всех подкатегорий будут показаны.
+  - *1-5* Все статьи из текущей категории и подкатегорий до указанного уровня включительно будут показаны.
+- **Связанное вводное изображение** Если Да, клик на изображение интро показывает статью.
 
-Options control how a Category and its articles will show. They are used
-in categories and the menu items Blog, List, and List All Categories.
+### Вкладка "Макеты списков"
 
-![Articles options category tab](../../../ru/images/articles/articles-options-category-tab.png "Articles options category")
+Эти настройки применяются для опций макетов списка, если они не изменены для конкретного пункта меню или категории.
 
-- **Макет**. Select the default layout to show when you click on a
-  Category link.
-- **Заголовок категории**. Show the title of the category.
-- **Описание категории**. Show the description for the category.
-- **Изображение категории**. Show the category image.
-- **Уровни подкатегорий**. Control how many levels of subcategories to
-  show.
-- **Пустые категории**. Show categories that don't contain any articles
-  or subcategories.
-- **Сообщение об отсутствии материалов**. Show a message "There are no
-  articles in this category".
-- **Заголовки подкатегорий**. Show the Subcategories as subheading on
-  the page.
-- **Описания подкатегорий**. Show the descriptions for subcategories.
-- **Количество материалов в категории**. Show a count of the total
-  number of articles in each category.
-- **Теги категории**. Show the tags for the category.
+![Настройки статьи, вкладка макетов списков](../../../ru/images/articles/articles-options-list-layouts-tab.png)
 
-### Категории
+- **Показать выбор отображения** Показывает контроль "Отображение #", который позволяет пользователю выбрать количество статей для показа.
+- **Поле фильтра** Показывает текстовое поле на фронтенде, где пользователь может фильтровать статьи. Опции в меню редактирования бэкенда.
+  - *Скрыть* Не показывать поле фильтра.
+  - *Заголовок* Фильтрация по заголовку статьи.
+  - *Автор* Фильтрация по имени автора.
+  - *Просмотры* Фильтрация по количеству просмотров статьи.
+  - *Теги* Фильтрация по тегам статьи.
+  - *Месяц (опубликован)* Фильтрация по месяцу опубликования статей.
+- **Заголовки таблицы** Показывать заголовок в списке статей на фронтенде.
+- **Дата** Показывать дату в списке.
+  - *Скрыть* Не показывать никакую дату.
+  - *Создано* Показывать дату создания.
+  - *Изменено* Показывать дату последнего изменения.
+  - *Опубликовано* Показывать дату начала публикации.
+- **Просмотры** Показывать количество просмотров для статей.
+- **Автор** Показывать имя автора.
+- **# Статей в списке** Количество статей, показанных в списке.
 
-Options control the display of the menu item List All Categories.
+### Вкладка "Общие"
 
-![Articles options categories tab](../../../ru/images/articles/articles-options-categories-tab.png "Articles options categories")
+Эти настройки применяются для общих опций на макетах списка, блога и избранных, если они не изменены настройками меню.
 
-- **Описание категории высшего уровня**. Show the description for the
-  top-level category.
-- **Уровни подкатегорий**. Control how many levels of subcategories to
-  show.
-- **Пустые категории**. Show categories that don't contain any articles
-  or subcategories.
-- **Описания подкатегорий**. Show the description for subcategories.
-- **Количество материалов в категории**. Show a count of the total
-  number of articles in each category.
+![Настройки статьи, вкладка общих](../../../ru/images/articles/articles-options-shared-tab.png)
 
-### Блог
+- **Порядок категорий**
+  - *Без порядка* Статьи упорядочиваются только по порядку статей, без учета категорий.
+  - *По алфавиту* Категории отображаются в алфавитном порядке (от A до Z).
+  - *Обратное алфавитное* Категории отображаются в обратном алфавитном порядке (от Z до A).
+  - *Порядок категорий* Категории упорядочиваются согласно столбцу "Порядок", введенному в статьи: категории.
+- **Порядок статей**
+  - *Самые новые первыми* Статьи отображаются начиная с самых новых и заканчивая самыми старыми.
+  - *Старейшие первыми* Статьи отображаются начиная с самых старых и заканчивая самыми новыми.
+  - *По алфавиту* Статьи отображаются в алфавитном порядке заголовков (от A до Z).
+  - *Обратное алфавитное* Статьи отображаются в обратном алфавитном порядке заголовков (от Z до A).
+  - *По алфавиту автора* Статьи отображаются в алфавитном порядке имени автора (от A до Z).
+  - *Обратное алфавитное автора* Статьи отображаются в обратном алфавитном порядке имени автора (от Z до A).
+  - *Наибольшее количество просмотров* Статьи отображаются по количеству просмотров, начиная с наибольшего и заканчивая наименьшим.
+  - *Наименьшее количество просмотров* Статьи отображаются по количеству просмотров, начиная с наименьшего и заканчивая наибольшим.
+  - *Порядок* Статьи упорядочиваются согласно столбцу "Порядок", введенному в статьи.
+  - *Обратный порядок* Статьи упорядочиваются в обратном порядке согласно столбцу "Порядок", введенному в статьи.
+- **Дата для упорядочивания** Дата используется, когда статьи сортируются по дате.
+  - *Создано* Используйте дату создания статьи.
+  - *Изменено* Используйте дату изменения статьи.
+  - *Опубликовано* Используйте дату начала публикации статьи.
+- **Нумерация страниц** Нумерация страниц предоставляет ссылки на страницы внизу страницы, позволяющие пользователю перейти к дополнительным страницам. Это необходимо, если статьи не помещаются на одной странице.
+  - *Скрыть* Ссылки на нумерацию страниц не отображаются. Примечание: Пользователи не смогут переходить на дополнительные страницы.
+  - *Показать* Показывать ссылки на нумерацию страниц, если это необходимо.
+  - *Авто* Показывать ссылки на нумерацию страниц, если это необходимо.
+- **Резюме нумерации страниц** Показывает текущий номер страницы и общее количество страниц (например, "Страница 1 из 2") внизу каждой страницы.
+- **Избранные статьи**
+  - *Показать* Отображать избранные и не избранные статьи.
+  - *Скрыть* Отображать только не избранные статьи.
+  - *Только* Отображать только избранные статьи.
 
-Options control the layout of the menu items Blog, Featured Articles,
-and List All Categories.
+### Вкладка "Интеграция"
 
-![Articles options blog and featured layout tab](../../../ru/images/articles/articles-options-blog-layouts-tab.png "Articles options blog andfeatured layout")
+Эти настройки определяют, как компонент статьи будет интегрироваться с другими расширениями.
 
-- **Во всю ширину**. Number of Articles to show using the full width of
-  the main display area. "0" means that no Articles will show when using
-  the full width. If an Article has a "Read more..." break, only the
-  part of the text before the break (the Intro text) will display.
-- **Главный CSS-класс материалов**. You can add any CSS class for your
-  own styling ideas. Add a border on top with class boxed.For image
-  position use for example image-left, image-right. Add image-alternate
-  for alternate ordering of intro images.
-- **Только вводный текст**. Determines the number of Articles to display
-  after the leading Article. These Articles will display in the number
-  of columns set in the Columns parameter below. If an Article has a
-  "Read more..." break, only the text before the break (Intro text) will
-  display, followed by a "Read more..." link. The order in which to
-  display the articles is determined by the Category Order and Article
-  Order parameters below.
-- **CSS-класс материалов**. Введите CSS-класс материалов для
-  стилизации.Например, для выравнивания изображений вы можете
-  использовать классы image-left, image-right, для отображения
-  альтернативного порядка изображений вводного текста - класс
-  image-alternate.
-- **Количество столбцов**. The number of columns to use in the Intro
-  Articles area. This is normally between 1 and 3 (depending on the
-  template you are using). If 1 is used, the Intro Articles will display
-  using the full width of the display area, just like the Leading
-  Articles.
-- **Порядок размещения в столбцах**. In multi-column blog layouts,
-  whether to order articles Down the columns or Across the columns.
-  - Вниз: Order articles going down the first column and then over to
-    the next column, for example:
-  - Поперек: Order articles going across the columns and then back to
-    the first column, for example:
-- **Количество ссылок на другие материалы**. The number of Links to
-  display in the Links area of the page. These links allow a User to
-  link to additional Articles, if there are more Articles than can fit
-  on the first page of the Blog Layout.
-- **Уровни подкатегорий**.
-  - Нет: Only articles from the current category will show.
-  - Все: All articles from the current category and all subcategories
-    will show.
-  - 1-5: All articles from the current category and subcategories up to
-    and including that level will show.
-- **Изображение вводного текста как ссылка**. If Yes, a click on the
-  intro image shows the article.
+![Настройки статьи, вкладка интеграции](../../../ru/images/articles/articles-options-integration-tab.png)
 
-### Список
+#### Панель новостных лент
 
-Options control the layout of the menu items List and List All Categories.
+- **Ссылка на RSS-ленту** Если установлено "Показать", ссылка на ленту будет отображаться в виде иконки ленты в адресной строке большинства браузеров.
+- **Включить в ленту**
+  - *Вводный текст* В RSS-ленте будет отображаться только вводный текст статьи.
+  - *Полный текст* В RSS-ленте будет отображаться весь текст статьи.
+- **Ссылка "Читать далее"** Показывать ссылку "Читать далее" в ленте.
 
-![Articles options list layouts tab](../../../ru/images/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
+#### Панель маршрутизации
 
-- **Поле выбора количества элементов на странице**. Show the Display \#
-  control that allows the user to select the number of articles to show.
-- **Фильтр**. Show a text field in the Frontend where a user can filter
-  the articles.Options in the Backend menu item edit.
-  - Скрыть: Don't show a filter field.
-  - Заголовок: Filter on article title.
-  - Автор: Filter on the author's name.
-  - Кол-во просмотров: Filter on the number of article hits.
-  - Теги: Filter on the article tags.
-  - Месяц (опубликовано): Filter on the month of published articles.
-- **Заголовки столбцов**. Show a heading in the article list in the
-  Frontend.
-- **Поле даты**. Show a date in the list.
-  - Скрыть: Don't show any date.
-  - Создано: Show the created date.
-  - Изменено: Show the date of the last modification.
-  - Опубликовано: Show the start publishing date.
-- **Количество просмотров в списке**. Show the number of hits for
-  articles.
-- **Автор в списке**. Show the name of the author.
-- **Количество материалов в списке**. Number of articles shown in the
-  list.
+- **Убрать идентификаторы из URL** Удаляет идентификатор базы данных статей из ссылки.
 
-### Общие
+#### Панель пользовательских полей
 
-Options shared by the menu items Blog, List, and Featured Articles.
+- **Редактировать пользовательские поля** Включить создание пользовательских полей.
 
-![Articles options shared tab](../../../ru/images/articles/articles-options-shared-tab.png "Articles shared")
+#### Панель рабочего процесса
 
-- **Порядок категорий**.
-  - Не упорядочивать: Articles are ordered only by the Article Order,
-    without regard to Category.
-  - Заголовок (по алфавиту): Categories are displayed in alphabetical
-    order (A to Z).
-  - Заголовок (против алфавита): Categories are displayed in reverse
-    alphabetical order (Z to A).
-  - Порядок в Joomla: Categories are ordered according to the Order
-    column entered in Articles: Categories.
-- **Порядок материалов**.
-  - Новые первыми: Articles are displayed starting with the most recent
-    and ending with the oldest.
-  - Старые первыми: Articles are displayed starting with the oldest and
-    ending with the most recent.
-  - Заголовок (по алфавиту): Articles are displayed by Title in
-    alphabetical order (A to Z).
-  - Заголовок (против алфавита): Articles are displayed by Title in
-    reverse alphabetical order (Z to A).
-  - Автор (по алфавиту): Articles are displayed by Author in
-    alphabetical order (A to Z).
-  - Автор (против алфавита): Articles are displayed by Author in reverse
-    alphabetical order (Z to A).
-  - Наиболее популярные: Articles are displayed by the number of hits,
-    starting with the one with the most hits and ending with the one
-    with the least hits.
-  - Наименее популярные: Articles are displayed by the number of hits,
-    starting with the one with the least hits and ending with the one
-    with the most hits.
-  - Порядок в Joomla: Articles are ordered according to the Order column
-    entered in
-    Articles.
-  - В обратном порядке: Articles are ordered reverse to the according of
-    the Order column entered in
-    Articles.
-- **Поле даты для сортировки**. The date used when articles are sorted
-  by date.
-  - Создано: Use the article created date.
-  - Изменено: Use the article modified date.
-  - Опубликовано: Use the article start publishing date.
-- **Разбиение на страницы**. Pagination provides page links at the
-  bottom of the page that allow the User to navigate to additional
-  pages. These are needed if the Articles will not fit on one page.
-  - Скрыть: Pagination links not shown. Note: Users will not be able to
-    navigate to additional pages.
-  - Показать: Pagination links shown if needed.
-  - Автоматически: Pagination links shown if needed.
-- **Результат разбиения на страницы**. Show the current page number and
-  total pages (e.g., "Page 1 of 2") at the bottom of each page.
-- **Избранные материалы**.
-  - Показать: Display featured articles and non-featured articles.
-  - Скрыть: Display only non-featured articles.
-  - Только: Display only featured articles.
+- **Включить рабочий процесс** Использовать настраиваемые рабочие процессы для управления статьями.
 
-### Интеграция
+## Советы
 
-Options control how Articles integrate News Feeds, Routing, Custom
-Fields, and Workflow.
+- Новичкам можно оставить здесь значения по умолчанию.
+- Опытные пользователи могут сэкономить время, задав здесь подходящие значения по умолчанию. Новые пункты меню и статьи смогут использовать значения по умолчанию для большинства параметров.
+- Все значения, установленные здесь, могут быть изменены на уровне пункта меню, категории или статьи.
 
-![Articles options integration tab](../../../ru/images/articles/articles-options-integration-tab.png "Articles options integration")
+*Переведено с помощью openai.com*
 
-#### Лента новостей
-
-- **Ссылка на RSS**. If set to Show, a Feed Link will show up as a feed
-  icon in the address bar of most browsers.
-- **Для материалов ленты показывать**.
-  - Вводный текст: Only the article's intro text will show in the feed.
-  - Полный текст: The entire text of the article will show in the feed.
-- **Ссылка "Подробнее"**. Show a "Read more" link in the feed.
-
-#### Маршрутизация
-
-- **Удалить ID из URL**. Remove the database id of articles in a link.
-
-#### Настраиваемые поля
-
-- **Настраиваемые поля**. Enable the creation of custom fields.
-
-#### Процессы
-
-- **Процессы**. Use customised workflows to manage articles.
-
-### Права доступа
-
-This section lets you set up the default Access Control List
-permissions for all articles in all categories.
-
-![Articles options permissions tab](../../../ru/images/articles/articles-options-permissions-tab.png "Articles options permissions")
-
-To change the permissions for articles and categories, do the following.
-
-1.  Select the **Group** by clicking its title located on the left.
-2.  Find the desired **Action**.
-    - **Управлять параметрами и правами**. Users can edit the options
-      and permissions.
-    - **Управлять параметрами**. Users can edit the options exept the
-      permissions.
-    - **Доступ в панели управления**. Users can access user
-      administration interface.
-    - **Создать**. Users can create articles and categories.
-    - **Удалить**. Users can delete articles and categories.
-    - **Редактировать**. Users can edit articles and categories.
-    - **Изменить состояние**. User can change the published state and
-      related information.
-    - **Редактировать свои**. Users can edit own created articles and
-      categories.
-    - **Редактировать значение поля**. Users can edit any value of
-      custom fields submitted in articles and categories.
-    - **Управлять процессами**. Users can manage workflows.
-    - **Выполнить переход**. Users can execute transitions.
-3.  Select the desired permission for the action you wish to change.
-    - **Унаследовано**. Inherited for users in this Group from the
-      Global Configuration
-      permissions.
-    - **Разрешено**. Allowed for users in this Group.Note: If this
-      action is Denied at one of the higher levels, the Allowed
-      permission here will not take effect. A Denied setting cannot be
-      overridden.
-    - **Запрещено**. Denied for users in this Group.
-4.  Click **Save** in **Toolbar** at top. When the screen refreshes, the
-    Calculated Setting column will show the effective permission for
-    this Group and Action.
-
-## Панель инструментов
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Сохранить**. Saves the articles options and stays in the current
-  screen.
-- **Сохранить и закрыть**. Saves the articles options and closes the
-  current screen.
-- **Закрыть**. Закрывает текущий экран и возвращает к предыдущему
-  экрану, без сохранения внесенных изменений.
-- **Подсказки**. Show help text below some options.
-- **Справка**. Opens this help screen.
-
-## Быстрые советы
-
-- If you are a beginning user, you can just keep the default values here
-  until you learn more about using global options.
-- If you are an advanced user, you can save time by creating good
-  default values here. When you set up menu items and create articles,
-  you will be able to accept the default values for most options.
-- All values set here can be overridden at the menu item, category, or
-  article level.

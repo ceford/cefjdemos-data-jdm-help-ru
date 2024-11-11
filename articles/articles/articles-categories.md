@@ -1,166 +1,50 @@
-<!-- Filename: Help4.x:Articles:_Categories / Display title: Материалы: Категории -->
+<!-- Filename: Help4.x:Articles:_Categories / Display title: Статьи: Категории -->
 
 ## Описание
 
-The Articles Categories list is used to find, add, and edit articles
-categories.
+Категории используются для организации статей, чтобы облегчить управление и отображение. Их можно строить в древовидные структуры, подобные файловым системам. Каждая статья должна быть назначена к категории. По умолчанию используется *Без категории*.
 
-Categories are are used to organise Articles for ease of management and
-display. They can be organised into tree-like structures like file
-systems. All Articles must be assigned either to a parent Category or a
-child Category.
+Страница списка **Категорий** используется для управления категориями. Это включает создание новых категорий, поиск категорий для редактирования и изменение свойств категории, таких как опубликованность и порядок категорий. Также некоторые свойства могут быть изменены для группы категорий с помощью пакетного процесса.
 
-## Как открыть
-Выбирать **Панель управления → Site → Категории**
+### Общие элементы
 
-To add a Category:
+Некоторые элементы этой страницы описаны в отдельных справочных статьях:
 
-- click the **New** toolbar button
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Фильтры списка](jdocmanual?article=help/common-elements/list-filters).
+* [Заголовки столбцов списка](jdocmanual?article=help/common-elements/list-column-headers).
+* [Порядок элементов списка](jdocmanual?article=help/common-elements/list-ordering).
+* [Пагинация списка](jdocmanual?article=help/common-elements/list-pagination).
+* [Пакетный процесс списка](jdocmanual?article=help/common-elements/list-batch-process).
 
-To edit a Category:
+## Как получить доступ
 
-- select a **Title** from the list
+Существует два способа перейти на страницу списка категорий:
+* Из **Главной панели → панель Сайта** выберите **Категории статей**
+* Из меню администратора выберите **Контент → Категории**
 
 ## Скриншот
 
-![Articles: Categories list](../../../ru/images/articles/articles-categories-list.png "Articles: Categories list")
+![Статьи: Список категорий](../../../ru/images/articles/articles-categories-list.png)
 
-## Column Headers
+## Заголовки столбцов
 
-- **Checkbox**. Check this box to select categories. To select all
-  categories, check the box in the column heading. After boxes are
-  checked the toolbar button 'Actions' get active.
-- **Ordering**. You can change the order of an category within a list as
-  follows:
-  - Select the Ordering icon <i class="fa-solid fa-sort"></i> in the first
-  column heading to make it active.
-  - Select one of the vertical ellipsis icons <span class="icon-ellipsis-v"></span>
- and drag it up or down to change the
-    position of that row in the list.
-  - In the Filter Options you may limit the list to categories that are
-    assigned for example to a Language.
-- **Состояние**. Status of category. Hover icon for informations.
-- **Заголовок**. The title of the category. Edit the category by
-  clicking on the Title.
-- **Icons**. Counts of number of Published, Unpublished, Archived and
-  Trashed Articles in each Category. Click on a number to get a list of
-  the categories.
-- **Доступ**. The viewing Access level  for this category.
-- **Связи**. Shows the associated categories. Click on the Language Code
-  to open the category. Multilingual only.
-- **Язык**. Categories language, default is 'All'.
-- **ID**. A unique identification number for this category, you cannot
-  change this number.
+- **Флажок** Отметьте этот флажок, чтобы выбрать категории. Чтобы выбрать все категории, установите флажок в заголовке столбца. После того, как флажки установлены, кнопка на панели инструментов "Действия" становится активной.
+- **Упорядочивание** Вы можете изменить порядок категории в списке следующим образом:
+  - Выберите значок "Упорядочивание" <i class="fa-solid fa-sort"></i> в первом заголовке столбца, чтобы сделать его активным.
+  - Выберите один из вертикальных многоточий <span class="icon-ellipsis-v"></span> и перетащите его вверх или вниз, чтобы изменить положение этой строки в списке.
+  - В параметрах фильтра вы можете ограничить список категориями, назначенными, например, для определенного языка.
+- **Статус** Статус категории. Наведите курсор на значок для получения информации или переключитесь на него для аудиоэквивалента.
+- **Название** Название категории. Измените категорию, кликнув на название.
+- **Столбцы статуса** Каждая кнопка в столбце показывает количество статей с этим статусом в данной категории. Выберите кнопку, чтобы перейти к списку статей, отфильтрованному для этой категории. Столбцы: **Опубликовано**, **Неопубликовано**, **Архивировано** и **Удалено**.
+- **Доступ** Уровень доступа для просмотра этой категории.
+- **Ассоциации** Показывает связанные категории. Щелкните на код языка, чтобы открыть категорию. Только для многоязычных категорий!
+- **Язык** Язык категории, по умолчанию 'Все'.
+- **ID** Уникальный идентификационный номер для этой категории, вы не можете изменить этот номер.
 
-## List Filters
+## Советы
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the Screenshot above.
+- Выберите значок в колонке Статус, чтобы переключаться между Опубликовано и Не опубликовано.
 
-- **Search by Text**. Enter part of the search term and click the Search
-  icon. *Hover* to see a *Tooltip* indicating which fields will be
-  searched.To 'Search by ID' enter "id:x", where "x" is the ID number
-  (for example, "id:19").
-- **Параметры поиска**. Click to display the additional filters.
-- **Очистить**. Click to clear the Filter field and restore the list to
-  its unfiltered state.
-- **Ordering**. Shows the current list ordering field. 2 ways to change
-  the order:
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- **Number to Display**. Shows the number of categories in a list.
-  Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the Global Configuration.
+*Переведено с помощью openai.com*
 
-### Параметры поиска
-
-Near the top of the page you will see the filter bar shown in the
-Screenshot above.
-
-- **Выбор состояния**. Select from Trashed / Unpublished / Published /
-  Archived / All.
-- **Выбор уровня доступа**. Select from the list of available viewing
-  access levels.
-- **Выбор языка**. Select from the list of available languages.
-- **Выбор тега**. Select from the list of available tags.
-- **Выбор кол-ва уровней**. Select from the list of available levels.
-
-### Pagination
-
-**Page Controls**. When the number of categories is more than one page,
-you will see a page control bar near the bottom of the page shown in the
-Screenshot above. The current page number being viewed
-has a dark colour background.
-
-- **Start**. Click to go to the first page.
-- **Prev**. Click to go to the previous page.
-- **Page numbers**. Click to go to the desired page.
-- **Next**. Click to go to the next page.
-- **End**. Click to go to the last page.
-
-## Панель инструментов
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Создать**. Opens the editing screen to create a new category.
-- **Действия**. Reveals a list of actions for selected categories. Check
-  one or more categories checkboxes to activate the list.
-  - **Опубликовать**. Makes the selected categories available to
-    visitors to your website.
-  - **Снять с публикации**. Makes the selected categories unavailable to
-    visitors to your website.
-  - **В архив**. Changes the status of the selected categories to
-    indicate that they are archived.
-  - **Разблокировать**. Checks-in the selected categories.
-  - **В корзину**. Changes the status of the selected categories to
-    indicate that they are trashed.
-  - **Пакетная обработка**. Batch processes the selected categories.
-- **Перестроить**. Reconstructs and refreshes the categories table.
-  Normally, you do not need to rebuild this table. This function is
-  provided in case the data in the table becomes corrupted.
-- **Настройки**. Opens Articles: Options.
-- **Справка**. Opens this help screen.
-
-## Пакетная обработка
-
-The Batch Process allows a change in settings for a group of selected
-categories.
-
-![Batch process categories](../../../ru/images/articles/articles-categories-batch.png "Batch process categories")
-
-**How to Batch Process** a group of categories:
-
-1.  Select one or more categories on the list by checking the desired
-    checkboxes.
-2.  Click the Batch Toolbar button.
-3.  Set one or more of the following values:
-    - To change the **Language**, select the desired language from the
-      Set Language list box.
-    - To change the **Access Levels**, select the desired new access
-      level from the Set Access Level list box.
-    - To change the **Category**, select a category. To leave the
-      category unchanged, use the default value of 'Select'.
-      - To **copy** the categories to a different category, select the
-        desired category from the category list box and check the Copy
-        option. In this case, the original categories are unchanged and
-        the copies are assigned to the new category and, if selected,
-        the new language, access level, and tag.
-      - To **move** the categories to a different category, select the
-        desired category from the category list box and check the Move
-        option. In this case, the original categories will be moved to a
-        new category and, if selected, be assigned the new language,
-        access level, and tag.
-    - To add **Tags**, select the desired Tags from the dropdown or
-      choose to keep the tags currently added to the original
-      categories.
-4.  When all of the settings are entered, click on Process to perform
-    the changes. A message **"Batch process completed successfully."**
-    will show.
-
-## Быстрые советы
-
-- Click on the icon in the Status column to toggle between Published and
-  Unpublished.

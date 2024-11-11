@@ -1,133 +1,41 @@
-<!-- Filename: Help4.x:Languages:_Installed / Display title: Языки: Установленные языки -->
+<!-- Filename: Help4.x:Languages:_Installed / Display title: Языки: Установлены  -->
 
-## Description
+## Описание
 
-In the Installed Languages list you can set the default Languages
-independently for the Site and Administrator interfaces.
+Страница *Языки: Установленные* используется для отображения установленных языков и настройки
+языков по умолчанию отдельно для интерфейсов Сайта и Администратора.
 
-## How to Access
+### Общие элементы
 
-- Select **System → Manage Panel → Languages** from the
-  Administrator menu.
+Некоторые элементы этой страницы рассматриваются в отдельных статьях Справки:
 
-## Screenshot
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Фильтры списка](jdocmanual?article=help/common-elements/list-filters).
+* [Заголовки столбцов списка](jdocmanual?article=help/common-elements/list-column-headers).
+* [Разбиение списка на страницы](jdocmanual?article=help/common-elements/list-pagination).
 
-<img
-src="https://docs.joomla.org/images/a/a6/Help-4x-Extensions-Language-Manager-Installed-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="370"
-width="800" height="370"
-alt="Extensions Language Manager Installed screen" />
+## Как получить доступ
 
-## Column Headers
+- Выберите **Система → Управление панелью → Языки** в меню администратора.
 
-Click on the column heading to sort the list by that column's value.
+## Снимок экрана
 
-- **Radio Buttons.** Select a radio button to make the selected language
-  the Default Site and/or Administrator language.
-- **Title.** The name of the language in English.
-- **Native Title.** The name of the language in that language.
-- **Language Tag.** Language Tag of the Installed Language.
-- **Default.** The default language of the site, marked with a yellow
-  graphical asterisk in this column. *Note*: to every user a language
-  can be assigned (see "User Management"), user from groups
-  "Administrator" and "Super Administrator" can select their preferred
-  language themselves at login.
-- **Version.** The version number of the installed language.
-- **Date.** The creation date of the language.
-- **Author.** The name of the language translator is displayed in this
-  column.
-- **Author Email.** The email address of the translator.
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
+![Список установленных языков на сайте](../../../ru/images/languages/languages-installed-site.png)
 
-## List Filters
+## Фильтры списка
 
-#### Filter by Site or Administrator
+### Фильтр по сайту или администратору
 
-- **Site.** Shows the installed Languages for the Frontend part. Here
-  you can set the default language for the Frontend of your Joomla
-  website.
-- **Administrator.** Shows the installed Languages for the Backend part.
-  Here you can set the default language for the Backend of your Joomla
-  website.
+- **Сайт** Показывает установленные языки для интерфейса сайта. Выберите элемент из столбца по умолчанию, чтобы установить его в качестве языка интерфейса по умолчанию.
+- **Администратор** Показывает установленные языки для административного интерфейса. Выберите элемент из столбца по умолчанию, чтобы установить его в качестве языка административного интерфейса по умолчанию.
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the Screenshot above.
+## Советы
 
-- **Search by Text**. Enter part of the search term and click the Search
-  icon. *Hover* to see a *Tooltip* indicating which fields will be
-  searched.To 'Search by ID' enter "id:x", where "x" is the ID number
-  (for example, "id:19").
-- **Filter Options**. Click to display the additional filters.
-- **Clear**. Click to clear the Filter field and restore the list to its
-  unfiltered state.
-- **Ordering**. Shows the current list ordering field. 2 ways to change
-  the order:
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- **Number to Display**. Shows the number of items in a list. Select
-  from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the Global Configuration.
+- Пользователи могут использовать любой язык из списка установленных языков, либо назначив языки для интерфейса и администрирования на вкладке *Основные настройки* в форме администратора *Пользователи: Редактировать*, либо используя форму *Редактировать свой профиль* на фронтенде. Это приведет к тому, что подсказки системы Joomla! будут генерироваться на этом языке только для этого пользователя. Например, если пользователь выберет испанский в качестве своего языка, то модуль поиска будет отображаться с подсказками на испанском.
+- Изменение языка пользователя или языка по умолчанию не влияет на статьи сайта и другой контент.
+- **Важно:** Не удаляйте файлы языка по умолчанию (например, с помощью FTP). Это вызовет ошибки как на фронтенде, так и на бэкенде.
+- Дополнительные языки можно добавить с помощью экрана установки языков.
+- При желании вы можете показывать сайт на фронтенде на одном языке, а страницы администрирования на бэкенде — на другом. Также отдельные статьи можно настроить на использование другого языка в разделе дополнительных параметров при редактировании статьи.
 
-**Filter Options.** This screen has no Filter Options
+*Переведено с помощью openai.com*
 
-**Page Controls**. When the number of items is more than one page, you
-will see a page control bar near the bottom of the page shown in the
-Screenshot above. The current page number being viewed
-has a dark colour background.
-
-- **Start**. Click to go to the first page.
-- **Prev**. Click to go to the previous page.
-- **Page numbers**. Click to go to the desired page.
-- **Next**. Click to go to the next page.
-- **End**. Click to go to the last page.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Default:** Makes the selected item the default item. The default
-  star symbol
-  (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
-  decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon 16 default.png" />) will show in the Default
-  column, indicating that this is now the default item.
-- **Switch Languages.** In the Administrator screen only, select a
-  language radio button and then this button. The Administrator language
-  will change and there will be a message such as *Message La langue de
-  l'administration a Ã©tÃ© changÃ©e en "French (France)"*.
-- **Install Languages.** Links to the Install Languages Screen.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
-
-## Tips
-
-- Users can use any Language from the list of installed Languages,
-  either by having it assigned in the Users list or
-  by filling out a Menu Item list - New/Edit - User Form
-  Layout
-  at the Frontend. This will cause the Joomla! system prompts to be
-  generated in this Language just for this User. For example, if a User
-  chooses Spanish as their language, then the Search Module will show
-  with prompts in Spanish.
-- This User's choice is not affected by the Default Language set for the
-  Frontend.
-- Changing a User's Language or the Default Language does not affect the
-  website's Articles and other content.
-- **Important**: Do not delete the default language files (for example,
-  with FTP). This will create errors on both the Frontend and Backend.
-- Additional Languages can be added using the Install Languages Screen.
-- If desired, you can show the Frontend site in one Language and show
-  the Backend administration pages in a different Language. Also,
-  individual articles can be configured to use a different language in
-  the Advanced Parameter pane when editing the Article.

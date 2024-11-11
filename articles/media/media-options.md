@@ -1,119 +1,49 @@
-<!-- Filename: Help4.x:Media:_Options / Display title: Медиа-менеджер: Настройки -->
+<!-- Filename: Help4.x:Media:_Options / Display title: Средства массовой информации: Варианты -->
 
 ## Описание
 
-Media Options configuration allows setting of parameters used globally
-for Media. Control the file types allowed for uploading, MIME type
-check, MIME type blacklisting, and more options.
+Страница *Медиа: Параметры* используется для установки глобальных параметров медиаконтента.
 
-## Как открыть
-Выбирать **Контент → Медиа-менеджер**
+### Общие элементы
 
-- click the **Options** toolbar button
+Некоторые аспекты этой страницы рассматриваются в отдельных справочных статьях:
+
+* [Панели инструментов](jdocmanual?article=help/common-elements/toolbars).
+* [Вкладка «Разрешения»](jdocmanual?article=help/common-elements/edit-permissions).
+
+## Как получить доступ
+
+- Выберите **Контент → Медиа** в меню администратора.
+- Нажмите кнопку **Параметры** на панели инструментов.
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-Options-screen-ru.png/800px-Help-4x-Media-Options-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-Options-screen-ru.png/1200px-Help-4x-Media-Options-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-Options-screen-ru.png/1600px-Help-4x-Media-Options-screen-ru.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Media Options screen" />
+![Параметры медиа](../../../ru/images/media/media-options.png)
 
-## Form Fields
+## Поля Формы
 
-### Основные
+### Медиа
 
-- **Максимальный размер**. Введите максимальный размер файла для
-  загрузки на сервер (Мбайт). Если установлено 0, будут сняты все
-  ограничения.
-- **Каталог файлов**. Введите путь к каталогу с файлами относительно
-  корневого каталога сайта (по умолчанию images).Changing to another
-  path than the default 'images' may break your links. Do not start the
-  path with a slash.
-- **Каталог изображений**. Введите путь к каталогу с изображениями
-  относительно корневого каталога сайта (по умолчанию images).This path
-  has to be the same as path to files (default) or to a subfolder of the
-  path to file folder. Do not start the path with a slash.
-- **Ограничение загрузки**. Включить или отключить функцию ограничения
-  загрузки файлов для пользователей с правами ниже уровня Менеджер, если
-  'Fileinfo' или 'MIME Magic' не установлены.
-  - **Разрешенные расширения**. Введите разрешенные расширения файлов
-    для загрузки на сервер. Обратите внимание, что пользователи с
-    правами ниже уровня Менеджер не могут загружать файлы на сервер.
-  - **Проверка MIME-типов**. Включить или отключить функцию проверки
-    MIME-типов файлов с помощью 'Fileinfo' или 'MIME Magic'. Параметр
-    необходимо отключить, если отображаются ошибки определения
-    MIME-типа.
-- **Legal Image Extensions (File Types)**. Введите разрешенные
-  расширения изображений для загрузки на сервер. Параметр предназначен
-  для проверки заголовков изображений.
-- **Legal Audio Extensions (File Types)**. Введите разрешенные
-  расширения аудио для загрузки на сервер. Параметр предназначен для
-  проверки заголовков аудио.
-- **Legal Video Extensions (File Types)**. Введите разрешенные
-  расширения видео для загрузки на сервер. Параметр предназначен для
-  проверки заголовков видео.
-- **Legal Document Extensions (File Types)**. Введите разрешенные
-  расширения документов для загрузки на сервер. Параметр предназначен
-  для проверки заголовков документов.
-- **Игнорируемые расширения**. Введите игнорируемые расширения файлов
-  для проверки MIME-типа и ограничения загрузки на сервер.
-- **Разрешенные MIME-типы.** Введите разрешенные MIME-типы файлов для
-  загрузки на сервер.
+- **Максимальный размер (в МБ)** Используйте ноль для отсутствия ограничения. Примечание: на сервере установлено максимальное ограничение.
+- **Путь к папке с файлами** Введите путь к папке с файлами относительно корня вашего веб-пространства. Не начинайте путь со слэша. Изменение пути по умолчанию *images* на другой может нарушить ваши ссылки.
+- **Путь к папке с изображениями** Введите путь к папке с изображениями относительно корня вашего веб-пространства. Не начинайте путь со слэша.
+- **Ограничить загрузки** Ограничьте загрузки до изображений для пользователей ниже уровня менеджера, если `Fileinfo` или `MIME Magic` не установлены.
+  - **Разрешенные расширения** Ограничьте загрузки для пользователей ниже уровня менеджера файлами из списка.
+  - **Проверка MIME-типов** Используйте `Fileinfo` или `MIME Magic` для попытки проверки файлов. Попробуйте отключить это, если вы получаете ошибки недопустимых MIME-типов.
+- **Законные расширения изображений (типы файлов)** Расширения изображений (типы файлов), которые разрешено загружать (разделённые запятой). Они используются для проверки допустимости заголовков изображений и выбора изображений.
+- **Законные аудио расширения (типы файлов)** Аудио расширения (типы файлов), которые разрешено загружать (разделённые запятой). Они используются для проверки допустимости заголовков аудио и выбора аудио файлов.
+- **Законные видео расширения (типы файлов)** Видео расширения (типы файлов), которые разрешено загружать (разделённые запятой). Они используются для проверки допустимости заголовков видео и выбора видео.
+- **Законные расширения документов (типы файлов)** Расширения документов (типы файлов), которые разрешено загружать (разделённые запятой). Они используются для проверки допустимости заголовков документов и выбора документов.
+- **Игнорируемые расширения** Игнорируемые расширения файлов для проверки MIME-типа и ограниченных загрузок.
+- **Законные MIME-типы** Список законных MIME-типов для загрузки, разделённый запятой.
 
-### Права доступа
+## Советы
 
-This section lets you set up the default Access Control List
-permissions for all media.
+- Если вы начинающий пользователь, вы можете просто оставить значения
+  по умолчанию здесь, пока не узнаете больше об использовании глобальных
+  параметров.
+- Если вы продвинутый пользователь, вы можете сэкономить время, создав
+  здесь хорошие значения по умолчанию.
 
-<img
-src="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-Options-permissions-subscreen-ru.png/600px-Help-4x-Media-Options-permissions-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-Options-permissions-subscreen-ru.png/900px-Help-4x-Media-Options-permissions-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-Options-permissions-subscreen-ru.png/1200px-Help-4x-Media-Options-permissions-subscreen-ru.png 2x"
-data-file-width="1979" data-file-height="1478" width="600" height="448"
-alt="Media Options permissions subscreen" />
+*Переведено openai.com*
 
-To change the permissions for media, do the following.
-
-1.  Select the **Group** by clicking its title located on the left.
-2.  Find the desired **Action**.
-    - **Configure ACL & Options**. Users can edit the options and
-      permissions.
-    - **Configure Options Only**. Users can edit the options exept the
-      permissions.
-    - **Access Administration Interface**. Users can access user
-      administration interface.
-    - **Create**. Users can create media.
-    - **Delete**. Users can delete media.
-    - **Edit**. Users can edit media.
-3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the Global Configuration
-      permissions.
-    - **Allowed**. Allowed for users in this Group. Note: If this action
-      is Denied at one of the higher levels, the Allowed permission here
-      will not take effect. A Denied setting cannot be overridden.
-    - **Denied**. Denied for users in this Group.
-4.  Click **Save** in **Toolbar** at top. When the screen refreshes, the
-    Calculated Setting column will show the effective permission for
-    this Group and Action.
-
-## Панель инструментов
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save**. Saves the Media options and stays in the current screen.
-- **Save & Close**. Saves the Media options and closes the current
-  screen.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Toggle Inline Help**. Show help text below some options.
-- **Help**. Opens this help screen.
-
-## Быстрые советы
-
-- If you are a beginning user, you can just keep the default values here
-  until you learn more about using global options.
-- If you are an advanced user, you can save time by creating good
-  default values here.
