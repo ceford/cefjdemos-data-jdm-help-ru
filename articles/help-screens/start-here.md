@@ -16,16 +16,16 @@
 
 Если вы только недавно начали работать с Joomla, вы, вероятно, испытали сложности изучения новой системы. Новая терминология, новые способы выполнения задач, возможно, даже сам интернет может быть для вас новым. Тогда позвольте этому руководству облегчить часть этой боли.
 
-- [Начало работы: Введение в Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Введение в Joomla!")
-- [Начало работы: Статьи и категории](jdocmanual?article=user/getting-started/articles-and-categories "Статьи и категории")
-- [Начало работы: Добавление статьи](jdocmanual?article=user/getting-started/adding-an-article "Добавление статьи")
-- [Начало работы: Добавление категории](jdocmanual?article=user/getting-started/adding-a-category "Добавление категории")
-- [Начало работы: Добавление пункта меню](jdocmanual?article=user/getting-started/adding-a-menu-item "Добавление пункта меню")
-- [Начало работы: Добавление модуля](jdocmanual?article=user/getting-started/adding-a-module "Добавление модуля")
+- [Начало работы: Введение в Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla)
+- [Начало работы: Статьи и категории](jdocmanual?article=user/getting-started/articles-and-categories)
+- [Начало работы: Добавление статьи](jdocmanual?article=user/getting-started/adding-an-article)
+- [Начало работы: Добавление категории](jdocmanual?article=user/getting-started/adding-a-category)
+- [Начало работы: Добавление пункта меню](jdocmanual?article=user/getting-started/adding-a-menu-item)
+- [Начало работы: Добавление модуля](jdocmanual?article=user/getting-started/adding-a-module)
 
 ## Обеспечение безопасности вашего сайта
 
-- [Безопасность: лучшие практики](jdocmanual?article=user/security/best-practices "Безопасность: лучшие практики")
+- [Безопасность: лучшие практики](jdocmanual?article=user/security/best-practices)
 
 *Переведено openai.com*
 

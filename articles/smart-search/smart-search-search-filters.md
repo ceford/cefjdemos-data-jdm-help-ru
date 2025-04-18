@@ -16,7 +16,7 @@
 
 ### Руководство
 
-* Если вы новичок в Умном поиске, вам стоит прочитать [руководство по быстрому старту в Умном поиске](https://docs.joomla.org/Smart_Search_quickstart_guide "Smart Search quickstart guide").
+* Если вы новичок в Умном поиске, вам стоит прочитать [руководство по быстрому старту в Умном поиске](https://docs.joomla.org/Smart_Search_quickstart_guide).
 
 ## Как получить доступ
 
