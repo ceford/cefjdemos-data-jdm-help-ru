@@ -13,7 +13,7 @@
 * [Группа Аутентификации.](jdocmanual?article=help/plugins/plugin-group-authentication) (3 плагина)
 * [Группа Поведения.](jdocmanual?article=help/plugins/plugin-group-behavior) (3 плагина)
 * [Группа Контента.](jdocmanual?article=help/plugins/plugin-group-content) (10 плагинов)
-* [Группа Редакторов.](jdocmanual?article=help/plugins/plugin-group-editors) (3 плагина)
+* [Группа Редакторов.](jdocmanual?article=help/plugins/plugin-group-editors-txt) (3 плагина)
 * [Группа Кнопок Редакторов Xtd.](jdocmanual?article=help/plugins/plugin-group-editors-xtd) (8 плагинов)
 * [Группа Расширений.](jdocmanual?article=help/plugins/plugin-group-extensions) (3 плагина)
 * [Группа Полей.](jdocmanual?article=help/plugins/plugin-group-fields) (16 плагинов)

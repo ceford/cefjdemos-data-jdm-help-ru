@@ -4,11 +4,11 @@
 
 Модуль **Статьи** отображает список статей. Он предназначен для замены пяти других модулей статей:
 
-* [Модули: Статьи - Архив](jdocmanual?article=help/modules/site-modules-articles-archived).
-* [Модули: Статьи - Категория](jdocmanual?article=help/modules/site-modules-articles-category).
-* [Модули: Статьи - Последние](jdocmanual?article=help/modules/site-modules-articles-latest).
-* [Модули: Статьи - Самые читаемые](jdocmanual?article=help/modules/site-modules-articles-most-read).
-* [Модули: Статьи - Новостная лента](jdocmanual?article=help/modules/site-modules-articles-newsflash).
+* [Модули: Статьи - Архив](jdocmanual?article=help/modules-site/site-modules-articles-archived).
+* [Модули: Статьи - Категория](jdocmanual?article=help/modules-site/site-modules-articles-category).
+* [Модули: Статьи - Последние](jdocmanual?article=help/modules-site/site-modules-articles-latest).
+* [Модули: Статьи - Самые читаемые](jdocmanual?article=help/modules-site/site-modules-articles-most-read).
+* [Модули: Статьи - Новостная лента](jdocmanual?article=help/modules-site/site-modules-articles-newsflash).
 
 Настройки модуля **Статьи** конфигурируются в основном через четыре вкладки:
 
