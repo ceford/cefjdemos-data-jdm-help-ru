@@ -13,7 +13,7 @@
 
 ## Снимок экрана
 
-![Вкладка категории элемента меню](../../../ru/images/menu-items-common/articles-category-blog-category-tab.png)
+![Вкладка категории элемента меню](../../../ru/images/menu-items-common/menu-item-category/01-articles-category-blog-category-tab.png)
 
 ## Поля формы
 

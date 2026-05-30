@@ -32,7 +32,7 @@
 
 ## Скриншот
 
-![Пункт меню weblinks отправить веб-ссылку](../../../ru/images/menu-items/weblinks-single-weblink-details-tab.png)
+![Пункт меню weblinks отправить веб-ссылку](../../../ru/images/menu-items/weblinks-single-weblink/01-weblinks-single-weblink-details-tab.png)
 
 Все поля ввода формы охвачены в разделе *Общие элементы*.
 

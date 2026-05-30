@@ -23,7 +23,7 @@
 
 ## Скриншот
 
-![модуль вкладки пользователей, вошедших в систему](../../../ru/images/modules-admin/modules-logged-in-users-module-tab.png)
+![модуль вкладки пользователей, вошедших в систему](../../../ru/images/modules-admin/admin-modules-logged-in-users/01-modules-logged-in-users-module-tab.png)
 
 ## Поля Формы
 

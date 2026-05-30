@@ -18,15 +18,15 @@
 
 Если ваш сайт обновлён, вы увидите этот экран:
 
-![Загрузка и обновление в актуальном состоянии](../../../en/images/joomla-update/upload-update-up-to-date.png)
+![Загрузка и обновление в актуальном состоянии](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
 
 Если доступно обновление, вы увидите этот экран:
 
-![Загрузка и обновление доступно обновление](../../../en/images/joomla-update/upload-update-available.png)
+![Загрузка и обновление доступно обновление](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
 
 Если вы обновляете крупную или небольшую версию, вы увидите экран проверки перед обновлением:
 
-![Загрузка и проверка перед обновлением](../../../en/images/joomla-update/upload-update-pre-update-check.png)
+![Загрузка и проверка перед обновлением](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
 
 Выберите каждый из трёх пунктов меню, чтобы проверить, требует ли что-либо внимания.
 
@@ -49,7 +49,7 @@
 Вы должны установить значения *upload_max_filesize* и *post_max_size* в PHP на 64 МБ,
 а ограничение памяти PHP - на 256 МБ. В противном случае обновление может не выполниться. Отличная причина для создания резервной копии!
 
-![Загрузка и обновление – загрузка и установка](../../../en/images/joomla-update/upload-update-upload-install.png)
+![Загрузка и обновление – загрузка и установка](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
 
 ## Опции обновления
 

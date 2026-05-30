@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![вкладка модуля входа](../../../ru/images/modules-site/modules-login-module-tab.png)
+![вкладка модуля входа](../../../ru/images/modules-site/site-modules-login/01-modules-login-module-tab.png)
 
 ## Поля Формы
 

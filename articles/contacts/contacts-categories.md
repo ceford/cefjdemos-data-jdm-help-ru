@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![список категорий контактов](../../../ru/images/contacts/contacts-categories-list.png)
+![список категорий контактов](../../../ru/images/contacts/contacts-categories/01-contacts-categories-list.png)
 
 *Переведено openai.com*
 

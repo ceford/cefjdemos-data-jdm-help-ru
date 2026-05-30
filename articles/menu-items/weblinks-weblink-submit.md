@@ -32,7 +32,7 @@
 
 ## Скриншот
 
-![Элемент меню weblinks отправить веб-ссылку](../../../ru/images/menu-items/weblinks-submit-a-web-link-details-tab.png)
+![Элемент меню weblinks отправить веб-ссылку](../../../ru/images/menu-items/weblinks-weblink-submit/01-weblinks-submit-a-web-link-details-tab.png)
 
 Все поля ввода формы рассмотрены в разделе *Общие элементы*.
 

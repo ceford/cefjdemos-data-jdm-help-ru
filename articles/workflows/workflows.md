@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![список рабочих процессов](../../../ru/images/workflows/workflows-list.png)
+![список рабочих процессов](../../../ru/images/workflows/workflows/01-workflows-list.png)
 
 ## Заголовки столбцов
 

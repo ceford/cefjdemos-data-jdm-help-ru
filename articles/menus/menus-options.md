@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![Опции меню](../../../ru/images/menus/menu-options-page-display-tab.png)
+![Опции меню](../../../ru/images/menus/menus-options/01-menu-options-page-display-tab.png)
 
 ## Поля формы
 

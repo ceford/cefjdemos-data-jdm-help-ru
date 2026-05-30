@@ -25,7 +25,7 @@
 
 ## Снимок экрана
 
-![панель инструментов модулей вкладка модуля](../../../ru/images/modules-admin/modules-toolbar-module-tab.png)
+![панель инструментов модулей вкладка модуля](../../../ru/images/modules-admin/admin-modules-toolbar/01-modules-toolbar-module-tab.png)
 
 ## Поля формы
 

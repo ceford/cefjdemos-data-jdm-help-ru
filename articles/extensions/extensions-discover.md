@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![Список расширений для ознакомления](../../../ru/images/extensions/discover-list.png)
+![Список расширений для ознакомления](../../../ru/images/extensions/extensions-discover/01-discover-list.png)
 
 ## Заголовки Столбцов
 

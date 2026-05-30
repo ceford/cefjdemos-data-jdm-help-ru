@@ -30,7 +30,7 @@
 
 ## Скриншот
 
-![список пользователей](../../../ru/images/users/users-list.png)
+![список пользователей](../../../ru/images/users/users/01-users-list.png)
 
 ## Заголовки колонок
 

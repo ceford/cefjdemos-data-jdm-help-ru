@@ -26,7 +26,7 @@ Plain Text или HTML, либо в обоих форматах. Если выб
 
 ## Скриншот
 
-![Список шаблонов писем](../../../ru/images/mail/mail-templates.png)
+![Список шаблонов писем](../../../ru/images/mail/mail-templates/01-mail-templates.png)
 
 ## Заголовки столбцов
 

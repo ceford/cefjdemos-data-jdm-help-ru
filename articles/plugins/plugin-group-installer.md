@@ -18,7 +18,7 @@
 
 ### Установщик - Установка из Интернета
 
-![Установите порядок вкладки установки из Интернета](../../../en/images/plugins/plugin-group-installer-install-from-web-order.png)
+![Установите порядок вкладки установки из Интернета](../../../en/images/plugins/plugin-group-installer/01-plugin-group-installer-install-from-web-order.png)
 
 - **Позиция вкладки** Установите вкладку *Установка из Интернета* первой или последней.
 

@@ -33,7 +33,7 @@
 
 ## Скриншот
 
-![Элемент меню Статьи Создать вкладку с деталями статьи](../../../ru/images/menu-items/articles-create-article-details-tab.png)
+![Элемент меню Статьи Создать вкладку с деталями статьи](../../../ru/images/menu-items/articles-create-article/01-articles-create-article-details-tab.png)
 
 ## Поля Формы
 
@@ -55,7 +55,7 @@
 
 ### Опции
 
-![Создание статьи в меню элементов – вкладка деталей](../../../ru/images/menu-items/articles-create-article-options-tab.png)
+![Создание статьи в меню элементов – вкладка деталей](../../../ru/images/menu-items/articles-create-article/02-articles-create-article-options-tab.png)
 
 - **Конкретная категория**
   - *Да* Статьи будут присвоены указанной категории. Пользователь
@@ -70,7 +70,7 @@
 
 Этот скриншот демонстрирует основной шаблон интерфейса Joomla **Cassiopeia** со всеми параметрами редактирования макета, установленными на 'Скрыть'.
 
-![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article/03-articles-create-article-frontend.png)
 
 ## Советы
 

@@ -23,7 +23,7 @@
 
 ## Скриншот
 
-![Сопоставление эталонных и целевых элементов](../../../ru/images/multilingual-associations/multilingual-associations-edit.png)
+![Сопоставление эталонных и целевых элементов](../../../ru/images/multilingual-associations/multilingual-associations-edit/01-multilingual-associations-edit.png)
 
 В этом примере элементы представлены статьями. Каждый элемент — это окно с прокруткой, под которым располагаются настройки элементов (не показаны). 
 

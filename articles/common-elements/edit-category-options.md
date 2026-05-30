@@ -16,7 +16,7 @@
 
 [ToDo] Примеры для демонстрации изменения внешнего вида с различными параметрами.
 
-![Вкладка параметров редактирования категории статей](../../../ru/images/common-elements/articles-edit-category-options-tab.png)
+![Вкладка параметров редактирования категории статей](../../../ru/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
 
 ## Вкладка "Параметры"
 

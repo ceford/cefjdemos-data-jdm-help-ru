@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![Вкладка редактирования категории контактов](../../../ru/images/contacts/contacts-edit-category-category-tab.png)
+![Вкладка редактирования категории контактов](../../../ru/images/contacts/contacts-edit-category/01-contacts-edit-category-category-tab.png)
 
 ## Поля Формы
 

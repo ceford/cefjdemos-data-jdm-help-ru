@@ -35,7 +35,7 @@
 
 ## Скриншот
 
-![интеллектуальный поиск карты контента](../../../ru/images/smart-search/smart-search-content-maps.png)
+![интеллектуальный поиск карты контента](../../../ru/images/smart-search/smart-search-content-maps/01-smart-search-content-maps.png)
 
 ## Заголовки столбцов
 

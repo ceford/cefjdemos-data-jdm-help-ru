@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![Ссылки перенаправлений](../../../ru/images/redirects/redirects-edit.png)
+![Ссылки перенаправлений](../../../ru/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
 
 ## Поля Формы
 

@@ -23,7 +23,7 @@
 
 ## Скриншот
 
-![Скриншот списка избранных статей](../../../ru/images/articles/articles-featured-list.png)
+![Скриншот списка избранных статей](../../../ru/images/articles/articles-featured/01-articles-featured-list.png)
 
 ## Советы
 

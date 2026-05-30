@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Вкладка настроек параметров установщика](../../../ru/images/extensions/installer-options-preferences-tab.png)
+![Вкладка настроек параметров установщика](../../../ru/images/extensions/installer-options/01-installer-options-preferences-tab.png)
 
 ## Поля формы
 

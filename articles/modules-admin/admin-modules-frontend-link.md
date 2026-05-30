@@ -25,7 +25,7 @@
 
 ## Снимок экрана
 
-![модули вкладка связанного модуля интерфейса](../../../ru/images/modules-admin/modules-frontend-link-module-tab.png)
+![модули вкладка связанного модуля интерфейса](../../../ru/images/modules-admin/admin-modules-frontend-link/01-modules-frontend-link-module-tab.png)
 
 ## Поля формы
 

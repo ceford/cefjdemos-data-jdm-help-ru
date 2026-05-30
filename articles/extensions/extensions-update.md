@@ -23,7 +23,7 @@
 
 ## Скриншот
 
-![Список обновлений расширений](../../../ru/images/extensions/update-list.png)
+![Список обновлений расширений](../../../ru/images/extensions/extensions-update/01-update-list.png)
 
 ## Советы
 

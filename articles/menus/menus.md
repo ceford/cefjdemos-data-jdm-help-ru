@@ -29,7 +29,7 @@
 
 ## Скриншот
 
-![список меню](../../../ru/images/menus/menus-list.png)
+![список меню](../../../ru/images/menus/menus/01-menus-list.png)
 
 ## Заголовки столбцов
 

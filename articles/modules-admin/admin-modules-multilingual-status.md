@@ -25,7 +25,7 @@
 
 ## Снимок экрана
 
-![модули вкладка статуса модуля на нескольких языках](../../../ru/images/modules-admin/modules-multilingual-status-module-tab.png)
+![модули вкладка статуса модуля на нескольких языках](../../../ru/images/modules-admin/admin-modules-multilingual-status/01-modules-multilingual-status-module-tab.png)
 
 ## Поля формы
 

@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![вкладка модуля новостной ленты статей](../../../ru/images/modules-site/modules-articles-newsflash-module-tab.png)
+![вкладка модуля новостной ленты статей](../../../ru/images/modules-site/site-modules-articles-newsflash/01-modules-articles-newsflash-module-tab.png)
 
 ## Поля Формы
 

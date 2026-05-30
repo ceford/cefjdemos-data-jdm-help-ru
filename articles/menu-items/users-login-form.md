@@ -33,13 +33,13 @@
 
 ## Скриншот
 
-![Вкладка с деталями формы входа](../../../ru/images/menu-items/users-login-form-details-tab.png)
+![Вкладка с деталями формы входа](../../../ru/images/menu-items/users-login-form/01-users-login-form-details-tab.png)
 
 ## Поля формы
 
 ### Вкладка «Опции»
 
-![Вкладка параметров формы входа](../../../ru/images/menu-items/users-login-form-options-tab.png)
+![Вкладка параметров формы входа](../../../ru/images/menu-items/users-login-form/02-users-login-form-options-tab.png)
 
 #### Панель входа
 

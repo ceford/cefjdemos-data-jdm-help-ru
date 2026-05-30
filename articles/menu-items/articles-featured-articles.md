@@ -36,7 +36,7 @@
 
 ## Скриншот
 
-![Пункт меню Статьи Подробности вкладки Избранные статьи](../../../ru/images/menu-items/articles-featured-details-tab.png)
+![Пункт меню Статьи Подробности вкладки Избранные статьи](../../../ru/images/menu-items/articles-featured-articles/01-articles-featured-details-tab.png)
 
 ## Советы
 

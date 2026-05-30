@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![согласия на обработку данных](../../../ru/images/privacy/privacy-consents.png)
+![согласия на обработку данных](../../../ru/images/privacy/privacy-consents/01-privacy-consents.png)
 
 ## Заголовки столбцов
 

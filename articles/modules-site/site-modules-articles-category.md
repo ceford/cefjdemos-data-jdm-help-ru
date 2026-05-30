@@ -29,7 +29,7 @@
 
 ## Скриншот
 
-![вкладка модуля категории статей](../../../ru/images/modules-site/modules-articles-category-module-tab.png)
+![вкладка модуля категории статей](../../../ru/images/modules-site/site-modules-articles-category/01-modules-articles-category-module-tab.png)
 
 ## Поля формы
 
@@ -55,7 +55,7 @@
 
 ### Вкладка опций фильтрации
 
-![вкладка опций фильтрации категорий статей](../../../ru/images/modules-site/modules-articles-category-filtering-options-tab.png)
+![вкладка опций фильтрации категорий статей](../../../ru/images/modules-site/site-modules-articles-category/02-modules-articles-category-filtering-options-tab.png)
 
 - **Избранные статьи** Показать, скрыть или выбрать только избранные статьи.
 - **Количество** Количество отображаемых элементов. Значение по умолчанию 0
@@ -78,7 +78,7 @@
 
 ### Вкладка опций сортировки
 
-![вкладка опций сортировки категорий статей](../../../ru/images/modules-site/modules-articles-category-ordering-options-tab.png)
+![вкладка опций сортировки категорий статей](../../../ru/images/modules-site/site-modules-articles-category/03-modules-articles-category-ordering-options-tab.png)
 
 - **Поле статьи для сортировки** Выберите поле из списка. Сортировка по
   избранному должна использоваться только, когда опция фильтрации для
@@ -87,7 +87,7 @@
 
 ### Вкладка опций группировки
 
-![вкладка опций группировки категорий статей](../../../ru/images/modules-site/modules-articles-category-grouping-options-tab.png)
+![вкладка опций группировки категорий статей](../../../ru/images/modules-site/site-modules-articles-category/04-modules-articles-category-grouping-options-tab.png)
 
 - **Группировка статей** Выберите метод группировки статей из списка.
 - **Направление группировки** Выберите направление сортировки.
@@ -95,7 +95,7 @@
 
 ### Вкладка опций отображения
 
-![вкладка опций отображения категорий статей](../../../ru/images/modules-site/modules-articles-category-display-options-tab.png)
+![вкладка опций отображения категорий статей](../../../ru/images/modules-site/site-modules-articles-category/05-modules-articles-category-display-options-tab.png)
 
 - **Связанные заголовки** Показать заголовки в виде ссылок на статьи.
 - **Дата** Показать или скрыть дату статьи.

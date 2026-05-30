@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![Список языковых переопределений](../../../ru/images/languages/languages-overrides-list.png)
+![Список языковых переопределений](../../../ru/images/languages/languages-overrides/01-languages-overrides-list.png)
 
 ## Заголовки столбцов
 

@@ -11,7 +11,7 @@
 
 ## Скриншот
 
-![домашняя панель управления](../../../ru/images/site/home-dashboard.png)
+![домашняя панель управления](../../../ru/images/site/site-control-panel/01-home-dashboard.png)
 
 ## Модули
 

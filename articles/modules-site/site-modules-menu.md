@@ -28,7 +28,7 @@
 
 ## Скриншот
 
-![вкладка модуля меню](../../../ru/images/modules-site/modules-menu-module-tab.png)
+![вкладка модуля меню](../../../ru/images/modules-site/site-modules-menu/01-modules-menu-module-tab.png)
 
 ## Поля Формы
 

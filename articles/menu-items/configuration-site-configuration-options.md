@@ -30,11 +30,11 @@
 
 ## Скриншот
 
-![Параметры конфигурации сайта типа элемента меню](../../../ru/images/menu-items/configuration-site-configuration-options-details.png)
+![Параметры конфигурации сайта типа элемента меню](../../../ru/images/menu-items/configuration-site-configuration-options/01-configuration-site-configuration-options-details.png)
 
 ## Скриншот интерфейса
 
-![Форма настройки параметров сайта на интерфейсе](../../../en/images/menu-items/configuration-site-configuration-options-frontend.png)
+![Форма настройки параметров сайта на интерфейсе](../../../en/images/menu-items/configuration-site-configuration-options/02-configuration-site-configuration-options-frontend.png)
 
 *Переведено с помощью openai.com*
 

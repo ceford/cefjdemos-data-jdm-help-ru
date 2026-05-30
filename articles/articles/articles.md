@@ -40,7 +40,7 @@
 
 ## Скриншот
 
-![Список статей](../../../ru/images/articles/articles-list.png)
+![Список статей](../../../ru/images/articles/articles/01-articles-list.png)
 
 
 ## Заголовки столбцов

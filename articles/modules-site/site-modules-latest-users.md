@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![вкладка модуля последних пользователей](../../../ru/images/modules-site/modules-latest-users-module-tab.png)
+![вкладка модуля последних пользователей](../../../ru/images/modules-site/site-modules-latest-users/01-modules-latest-users-module-tab.png)
 
 ## Поля формы
 

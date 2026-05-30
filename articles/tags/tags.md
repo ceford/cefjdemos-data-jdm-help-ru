@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![список тегов](../../../ru/images/tags/tags-list.png)
+![список тегов](../../../ru/images/tags/tags/01-tags-list.png)
 
 ## Советы
 

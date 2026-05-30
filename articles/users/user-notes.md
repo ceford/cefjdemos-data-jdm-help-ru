@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![список заметок пользователя](../../../ru/images/users/users-user-notes-list.png)
+![список заметок пользователя](../../../ru/images/users/user-notes/01-users-user-notes-list.png)
 
 ## Советы
 

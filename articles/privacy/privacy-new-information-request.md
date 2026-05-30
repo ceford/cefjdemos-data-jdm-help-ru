@@ -17,7 +17,7 @@
 
 ## Скриншот
 
-![запрос новой информации о конфиденциальности](../../../ru/images/privacy/privacy-new-information-request.png)
+![запрос новой информации о конфиденциальности](../../../ru/images/privacy/privacy-new-information-request/01-privacy-new-information-request.png)
 
 ## Поля формы
 

@@ -14,7 +14,7 @@
 
 ## Скриншот
 
-![вкладка метаданных пункта меню](../../../ru/images/menu-items-common/menu-item-metadata.png)
+![вкладка метаданных пункта меню](../../../ru/images/menu-items-common/menu-item-metadata/01-menu-item-metadata.png)
 
 ## Поля Формы
 

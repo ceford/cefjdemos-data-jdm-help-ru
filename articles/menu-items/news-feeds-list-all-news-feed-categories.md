@@ -33,13 +33,13 @@
 
 ## Скриншот
 
-![Элемент меню, отображающий все категории новостных лент, вкладка с подробностями](../../../ru/images/menu-items/news-feeds-list-all-categories-details-tab.png)
+![Элемент меню, отображающий все категории новостных лент, вкладка с подробностями](../../../ru/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
 
 ## Поля формы
 
 ### Вкладка категории
 
-![Пункт меню список всех категорий ленты новостей вкладка категорий](../../../ru/images/menu-items/news-feeds-list-all-categories-tree-categories-tab.png)
+![Пункт меню список всех категорий ленты новостей вкладка категорий](../../../ru/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
 
 - **Описание категории верхнего уровня** Показать или скрыть описание 
   категории верхнего уровня. Учтите, что это описание можно переопределить для этого 
@@ -59,7 +59,7 @@
 
 ### Вкладка параметры отображения ленты
 
-![Пункт меню список всех категорий ленты новостей вкладка категорий](../../../ru/images/menu-items/news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Пункт меню список всех категорий ленты новостей вкладка категорий](../../../ru/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
 
 - **Изображение ленты** Показать или скрыть изображение лент новостей.
 - **Описание ленты** Показать или скрыть описания лент новостей.

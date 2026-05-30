@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![вкладка модуля проверки статуса конфиденциальности](../../../ru/images/modules-admin/modules-privacy-status-check-module-tab.png)
+![вкладка модуля проверки статуса конфиденциальности](../../../ru/images/modules-admin/admin-modules-privacy-status-check/01-modules-privacy-status-check-module-tab.png)
 
 
 ## Поля Формы

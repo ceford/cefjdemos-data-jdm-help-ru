@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![вкладка модуля-оболочки](../../../ru/images/modules-site/modules-wrapper-module-tab.png)
+![вкладка модуля-оболочки](../../../ru/images/modules-site/site-modules-wrapper/01-modules-wrapper-module-tab.png)
 
 ## Поля формы
 

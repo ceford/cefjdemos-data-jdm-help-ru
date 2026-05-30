@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![вкладка пользовательского модуля](../../../ru/images/modules-site/modules-custom-module-tab.png)
+![вкладка пользовательского модуля](../../../ru/images/modules-site/site-modules-custom/01-modules-custom-module-tab.png)
 
 ## Поля формы
 

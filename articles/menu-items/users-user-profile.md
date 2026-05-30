@@ -33,7 +33,7 @@
 
 ## Скриншот
 
-![Вкладка с деталями профиля пользователя](../../../ru/images/menu-items/users-user-profile-details-tab.png)
+![Вкладка с деталями профиля пользователя](../../../ru/images/menu-items/users-user-profile/01-users-user-profile-details-tab.png)
 
 Все поля ввода формы описаны в *Общих элементах*.
 

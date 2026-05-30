@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![Редактирование тура в пошаговом руководстве](../../../ru/images/guided-tours/guided-tours-edit-tour.png)
+![Редактирование тура в пошаговом руководстве](../../../ru/images/guided-tours/guided-tours-edit-tour/01-guided-tours-edit-tour.png)
 
 ## Поля формы
 

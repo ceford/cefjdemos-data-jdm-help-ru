@@ -21,11 +21,11 @@
 
 ## Скриншот - Список установленных модулей сайта
 
-![список модулей администратора](../../../ru/images/modules-site/modules-site-list.png)
+![список модулей администратора](../../../ru/images/modules-site/site-modules-site/01-modules-site-list.png)
 
 ## Скриншот - Список доступных модулей сайта
 
-![доступные модули администратора](../../../ru/images/modules-site/modules-site-available.png)
+![доступные модули администратора](../../../ru/images/modules-site/site-modules-site/02-modules-site-available.png)
 
 ## Позиции модулей
 

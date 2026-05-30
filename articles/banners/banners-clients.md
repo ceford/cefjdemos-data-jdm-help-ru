@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![Баннеры Клиенты](../../../ru/images/banners/banners-clients-list.png)
+![Баннеры Клиенты](../../../ru/images/banners/banners-clients/01-banners-clients-list.png)
 
 ## Заголовки столбцов
 

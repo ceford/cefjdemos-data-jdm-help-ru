@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![Дополнительная вкладка параметров перенаправления](../../../ru/images/redirects/redirect-options-advanced-tab.png)
+![Дополнительная вкладка параметров перенаправления](../../../ru/images/redirects/redirect-options/01-redirect-options-advanced-tab.png)
 
 ## Поля формы
 

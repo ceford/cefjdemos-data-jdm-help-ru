@@ -6,7 +6,7 @@
 
 ## Скриншот
 
-![Расширенная вкладка модулей](../../../ru/images/modules/modules-custom-options-tab.png)
+![Расширенная вкладка модулей](../../../ru/images/modules/modules-options-tab/01-modules-custom-options-tab.png)
 
 ## Поля Формы
 

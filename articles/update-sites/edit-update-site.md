@@ -17,7 +17,7 @@
 
 ## Снимок экрана
 
-![обновить сайты редактировать сайт обновлений](../../../ru/images/update-sites/update-sites-edit-update-site.png)
+![обновить сайты редактировать сайт обновлений](../../../ru/images/update-sites/edit-update-site/01-update-sites-edit-update-site.png)
 
 ## Поля формы
 

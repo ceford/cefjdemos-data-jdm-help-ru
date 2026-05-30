@@ -30,7 +30,7 @@
 
 ## Скриншот
 
-![Вкладка подробностей заголовка пункта меню](../../../ru/images/menu-items/system-links-menu-heading-details-tab.png)
+![Вкладка подробностей заголовка пункта меню](../../../ru/images/menu-items/system-links-menu-heading/01-system-links-menu-heading-details-tab.png)
 
 Все поля ввода формы охватываются в разделе *Общие элементы*.
 

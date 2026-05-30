@@ -34,13 +34,13 @@
 
 ## Скриншот
 
-![Компактный список с вкладкой деталей отмеченных элементов](../../../ru/images/menu-items/tags-compact-list-of-tagged-items-details-tab.png)
+![Компактный список с вкладкой деталей отмеченных элементов](../../../ru/images/menu-items/tags-compact-list-of-tagged-items/01-tags-compact-list-of-tagged-items-details-tab.png)
 
 ## Поля Форм
 
 ### Вкладка Опции Тегов
 
-![Компактный список элементов с тегами вкладка опций тегов](../../../ru/images/menu-items/tags-compact-list-of-tagged-items-tag-options-tab.png)
+![Компактный список элементов с тегами вкладка опций тегов](../../../ru/images/menu-items/tags-compact-list-of-tagged-items/02-tags-compact-list-of-tagged-items-tag-options-tab.png)
 
 - **Показать имя тега** Для макета с одним тегом, показывать или скрывать имя тега.
 - **Изображение тега** Для макета с одним тегом, показывать или скрывать изображение тега.
@@ -52,7 +52,7 @@
 
 ### Вкладка Опции Выбора Элементов
 
-![Компактный список элементов с тегами вкладка деталей](../../../ru/images/menu-items/tags-compact-list-of-tagged-items-item-selection-options-tab.png)
+![Компактный список элементов с тегами вкладка деталей](../../../ru/images/menu-items/tags-compact-list-of-tagged-items/03-tags-compact-list-of-tagged-items-item-selection-options-tab.png)
 
 - **Тип соответствия** Выберите элементы с любым из тегов или со всеми тегами. Любой вернет элементы, имеющие хотя бы один из тегов.
 - **Дочерние теги** Включить или исключить дочерние теги из списка результатов.

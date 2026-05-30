@@ -31,7 +31,7 @@
 
 ## Скриншот
 
-![Вкладка с деталями профиля пользователя](../../../ru/images/menu-items/users-username-reminder-request-details-tab.png)
+![Вкладка с деталями профиля пользователя](../../../ru/images/menu-items/users-username-reminder-request/01-users-username-reminder-request-details-tab.png)
 
 Все поля ввода формы описаны в разделе *Общие элементы*.
 

@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![обновить список сайтов](../../../ru/images/update-sites/update-sites-list.png)
+![обновить список сайтов](../../../ru/images/update-sites/update-sites/01-update-sites-list.png)
 
 *Переведено openai.com*  
 

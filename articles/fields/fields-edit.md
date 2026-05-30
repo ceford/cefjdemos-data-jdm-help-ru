@@ -26,7 +26,7 @@
 
 ## Снимок экрана
 
-![Поле редактирования статей](../../../ru/images/fields/articles-edit-field.png)
+![Поле редактирования статей](../../../ru/images/fields/fields-edit/01-articles-edit-field.png)
 
 ## Поля формы
 
@@ -59,7 +59,7 @@
 
 ### Вкладка "Опции"
 
-![Вкладка опций редактирования поля статей](../../../ru/images/fields/articles-edit-field-options-tab.png)
+![Вкладка опций редактирования поля статей](../../../ru/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
 
 #### Опции формы
 

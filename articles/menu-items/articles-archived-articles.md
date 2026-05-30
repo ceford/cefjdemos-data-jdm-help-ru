@@ -36,7 +36,7 @@
 
 ## Скриншот
 
-![Алиас пункта меню](../../../ru/images/menu-items/articles-archived-articles-details-tab.png)
+![Алиас пункта меню](../../../ru/images/menu-items/articles-archived-articles/01-articles-archived-articles-details-tab.png)
 
 ## Поля формы
 
@@ -47,7 +47,7 @@
 
 ### Вкладка Архив
 
-![Меню Архивированные статьи](../../../ru/images/menu-items/articles-archived-articles-archive-tab.png)
+![Меню Архивированные статьи](../../../ru/images/menu-items/articles-archived-articles/02-articles-archived-articles-archive-tab.png)
 
 * **Порядок статей**
   * **Сначала старые** Статьи отображаются начиная с самых старых и

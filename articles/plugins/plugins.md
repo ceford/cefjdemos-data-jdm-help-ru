@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![Список плагинов](../../../en/images/plugins/plugins-list.png)
+![Список плагинов](../../../en/images/plugins/plugins/01-plugins-list.png)
 
 ## Советы
 

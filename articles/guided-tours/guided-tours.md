@@ -23,7 +23,7 @@
 
 ## Снимок экрана
 
-![Список туров](../../../ru/images/guided-tours/guided-tours-list.png)
+![Список туров](../../../ru/images/guided-tours/guided-tours/01-guided-tours-list.png)
 
 ## Советы
 

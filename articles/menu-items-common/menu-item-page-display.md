@@ -12,7 +12,7 @@
 
 ## Скриншот
 
-![отображение вкладки страницы элемента меню](../../../ru/images/menu-items-common/menu-item-page-display.png)
+![отображение вкладки страницы элемента меню](../../../ru/images/menu-items-common/menu-item-page-display/01-menu-item-page-display.png)
 
 ## Поля формы
 

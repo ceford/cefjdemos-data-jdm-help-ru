@@ -17,7 +17,7 @@
 
 ## Снимок экрана
 
-![экран сообщений после установки](../../../ru/images/post-install-messages/post-install-messages.png)
+![экран сообщений после установки](../../../ru/images/post-install-messages/post-installation-messages-for-joomla-cms/01-post-install-messages.png)
 
 ## Сообщения
 

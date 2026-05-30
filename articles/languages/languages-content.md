@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Список языков контента](../../../ru/images/languages/languages-content.png)
+![Список языков контента](../../../ru/images/languages/languages-content/01-languages-content.png)
 
 ## Заголовки столбцов
 

@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![Перенаправление ссылок](../../../ru/images/redirects/redirects-links.png)
+![Перенаправление ссылок](../../../ru/images/redirects/redirects-links/01-redirects-links.png)
 
 ## Заголовки столбцов
 

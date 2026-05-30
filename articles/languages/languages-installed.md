@@ -20,7 +20,7 @@
 
 ## Снимок экрана
 
-![Список установленных языков на сайте](../../../ru/images/languages/languages-installed-site.png)
+![Список установленных языков на сайте](../../../ru/images/languages/languages-installed/01-languages-installed-site.png)
 
 ## Фильтры списка
 

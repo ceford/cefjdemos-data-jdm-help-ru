@@ -32,7 +32,7 @@
 
 ## Скриншот
 
-![Пункт меню типа Список веб-ссылок в категории](../../../ru/images/menu-items/weblinks-list-web-links-in-a-category-details-tab.png)
+![Пункт меню типа Список веб-ссылок в категории](../../../ru/images/menu-items/weblinks-weblink-category/01-weblinks-list-web-links-in-a-category-details-tab.png)
 
 Все поля ввода формы описаны в разделе *Общие элементы*.
 

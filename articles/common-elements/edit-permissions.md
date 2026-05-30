@@ -13,14 +13,14 @@
 В этом примере пользователям группы Oddjob предоставлено глобальное
 разрешение на вход в интерфейс администратора, но не более.
 
-![Скриншот разрешений](../../../ru/images/common-elements/global-configuration-permissions-tab.png)
+![Скриншот разрешений](../../../ru/images/common-elements/edit-permissions/01-global-configuration-permissions-tab.png)
 
 ## Разрешения на конфигурирование компонента
 
 Чтобы получить доступ к определенному компоненту, необходимо установить разрешения в параметрах компонента.
 В этом примере используются параметры компонента "Медиа".
 
-![Снимок экрана Медиа](../../../ru/images/common-elements/media-options-permissions-tab.png)
+![Снимок экрана Медиа](../../../ru/images/common-elements/edit-permissions/02-media-options-permissions-tab.png)
 
 Вы заметите, что у этого компонента доступно меньше действий, и группе Oddjob разрешены минимально необходимые разрешения для выполнения работы.
 
@@ -41,11 +41,11 @@
 
 После входа в систему пользователь из группы Oddjob увидит модули Главной панели, к которым установлен **Специальный** доступ, и ссылку на компонент Медиа в меню.
 
-![Главная панель для Oddjob](../../../ru/images/common-elements/home-dashboard-for-oddjob.png)
+![Главная панель для Oddjob](../../../ru/images/common-elements/edit-permissions/03-home-dashboard-for-oddjob.png)
 
 Экран Медиа для пользователя Oddjob выглядит следующим образом:
 
-![Экран Медиа для Oddjob](../../../ru/images/common-elements/media-screen-for-oddjob.png)
+![Экран Медиа для Oddjob](../../../ru/images/common-elements/edit-permissions/04-media-screen-for-oddjob.png)
 
 *Переведено openai.com*
 

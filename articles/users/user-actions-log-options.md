@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![вкладка настроек журнала действий пользователя](../../../ru/images/users/user-actions-log-options-options-tab.png)
+![вкладка настроек журнала действий пользователя](../../../ru/images/users/user-actions-log-options/01-user-actions-log-options-options-tab.png)
 
 ## Поля формы
 

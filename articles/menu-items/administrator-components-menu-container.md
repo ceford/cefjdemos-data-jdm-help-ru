@@ -56,7 +56,7 @@
 
 ## Скриншот
 
-![Компоненты меню элемента Меню контейнера](../../../en/images/menu-items/administrator-components-menu-container.png)
+![Компоненты меню элемента Меню контейнера](../../../en/images/menu-items/administrator-components-menu-container/01-administrator-components-menu-container.png)
 
 ## Поля формы
 

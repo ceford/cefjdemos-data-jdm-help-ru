@@ -31,7 +31,7 @@
 
 ## Скриншот
 
-![базовый список рабочего процесса переходов](../../../ru/images/workflows/transitions-basic-workflow-list.png)
+![базовый список рабочего процесса переходов](../../../ru/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)
 
 *Переведено с помощью openai.com*
 

@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![Установить языки расширений](../../../ru/images/extensions/languages-install.png)
+![Установить языки расширений](../../../ru/images/extensions/extensions-languages/01-languages-install.png)
 
 ## Заголовки столбцов
 

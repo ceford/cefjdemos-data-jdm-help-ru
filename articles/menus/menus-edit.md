@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![меню редактировать вкладку деталей](../../../ru/images/menus/menus-edit-menu-details-tab.png)
+![меню редактировать вкладку деталей](../../../ru/images/menus/menus-edit/01-menus-edit-menu-details-tab.png)
 
 ## Поля формы
 

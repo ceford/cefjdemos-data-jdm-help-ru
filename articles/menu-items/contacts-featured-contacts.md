@@ -34,13 +34,13 @@
 
 ## Скриншот
 
-![Подробности избранных контактов в меню](../../../ru/images/menu-items/contacts-featured-contacts-details-tab.png)
+![Подробности избранных контактов в меню](../../../ru/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
 
 ## Поля формы
 
 ### Вкладка формы
 
-![Вкладка формы избранных контактов элемента меню](../../../ru/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Вкладка формы избранных контактов элемента меню](../../../ru/images/menu-items/contacts-featured-contacts/02-contacts-featured-contacts-form-tab.png)
 
 - **Теги** Показать или скрыть *Теги* контакта.
 - **Информация о контакте** Показать или скрыть *Информацию о контакте*.
@@ -55,7 +55,7 @@
 
 Опции почты контакта контролируют внешний вид *формы контакта* при её включении.
 
-![Вкладка опций почты избранных контактов элемента меню](../../../ru/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Вкладка опций почты избранных контактов элемента меню](../../../ru/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-mail-options-tab.png)
 
 - **Форма контакта** Показать или скрыть *форму контакта*.
 - **Отправить копию отправителю** Показать или скрыть флажок, чтобы позволить отправителю отправить копию электронной почты себе.

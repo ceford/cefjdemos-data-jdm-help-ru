@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![список веб-ссылок](../../../ru/images/weblinks/web-links-categories-list.png)
+![список веб-ссылок](../../../ru/images/weblinks/weblinks-categories/01-web-links-categories-list.png)
 
 *Переведено с помощью openai.com*
 

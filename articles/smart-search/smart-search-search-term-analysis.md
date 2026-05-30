@@ -10,7 +10,7 @@
 
 ## Скриншот
 
-![анализ поисковых запросов умного поиска](../../../ru/images/smart-search/smart-search-search-term-analysis.png)
+![анализ поисковых запросов умного поиска](../../../ru/images/smart-search/smart-search-search-term-analysis/01-smart-search-search-term-analysis.png)
 
 ## Столбцы
 

@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![вид личных сообщений](../../../ru/images/private-messages/private-messages-view.png)
+![вид личных сообщений](../../../ru/images/private-messages/private-messages-read/01-private-messages-view.png)
 
 ## Подробности
 

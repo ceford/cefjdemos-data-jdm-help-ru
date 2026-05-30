@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![шаблоны параметры вкладка шаблонов](../../../ru/images/templates/templates-options-templates-tab.png)
+![шаблоны параметры вкладка шаблонов](../../../ru/images/templates/template-options/01-templates-options-templates-tab.png)
 
 ## Поля формы
 

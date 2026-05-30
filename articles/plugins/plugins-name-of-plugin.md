@@ -50,7 +50,7 @@
 
 ## Скриншот
 
-![Вкладка плагинов](../../../en/images/plugins/plugins-plugin-tab.png)
+![Вкладка плагинов](../../../en/images/plugins/plugins-name-of-plugin/01-plugins-plugin-tab.png)
 
 ## Поля Форм
 

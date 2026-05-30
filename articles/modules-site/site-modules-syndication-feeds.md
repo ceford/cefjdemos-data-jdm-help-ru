@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![вкладка модуля синдикации лент](../../../ru/images/modules-site/modules-syndication-feeds-module-tab.png)
+![вкладка модуля синдикации лент](../../../ru/images/modules-site/site-modules-syndication-feeds/01-modules-syndication-feeds-module-tab.png)
 
 ## Поля формы
 

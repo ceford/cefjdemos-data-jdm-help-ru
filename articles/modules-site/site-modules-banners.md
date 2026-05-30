@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![вкладка модуля баннеров](../../../ru/images/modules-site/modules-banners-module-tab.png)
+![вкладка модуля баннеров](../../../ru/images/modules-site/site-modules-banners/01-modules-banners-module-tab.png)
 
 ## Поля формы
 

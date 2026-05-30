@@ -21,11 +21,11 @@
 
 ## Скриншот - Список Установленных Модулей Администратора
 
-![список модулей администратора](../../../ru/images/modules-admin/modules-administrator-list.png)
+![список модулей администратора](../../../ru/images/modules-admin/admin-modules-administrator/01-modules-administrator-list.png)
 
 ## Скриншот - Список доступных модулей администратора
 
-![доступные модули администратора](../../../ru/images/modules-admin/modules-administrator-available.png)
+![доступные модули администратора](../../../ru/images/modules-admin/admin-modules-administrator/02-modules-administrator-available.png)
 
 ## Позиции модулей
 

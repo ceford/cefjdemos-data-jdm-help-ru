@@ -27,7 +27,7 @@
 
 ## Скриншот
 
-![значки модулей в быстрой панели модулей](../../../ru/images/modules-admin/modules-quick-icons-module-tab.png)
+![значки модулей в быстрой панели модулей](../../../ru/images/modules-admin/admin-modules-quick-icons/01-modules-quick-icons-module-tab.png)
 
 ## Поля формы
 

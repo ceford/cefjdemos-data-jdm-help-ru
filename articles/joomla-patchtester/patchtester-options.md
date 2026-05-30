@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![Форма настроек Patchtester](../../../en/images/joomla-patchtester/patchtester-options-github-repository-tab.png)
+![Форма настроек Patchtester](../../../en/images/joomla-patchtester/patchtester-options/01-patchtester-options-github-repository-tab.png)
 
 ## Поля формы
 
@@ -32,7 +32,7 @@
 
 Вам необходимы аккаунт GitHub и токен GitHub. Всё бесплатно — подробности смотрите на вкладке аутентификации GitHub.
 
-![Опции Patchtester вкладка аутентификации на GitHub](../../../en/images/joomla-patchtester/patchtester-options-github-authentication-tab.png)
+![Опции Patchtester вкладка аутентификации на GitHub](../../../en/images/joomla-patchtester/patchtester-options/02-patchtester-options-github-authentication-tab.png)
 
 - **Метод аутентификации GitHub** Выберите метод с использованием токена. Метод с использованием учётных данных не будет работать с сентября 2020 года.
 - **Токен GitHub** Вставьте токен, полученный из GitHub.
@@ -41,7 +41,7 @@
 
 Эти настройки используются для автоматического тестирования. Используйте значения по умолчанию для ручного тестирования.
 
-![Опции Patchtester вкладка настроек сервера CI GitHub](../../../en/images/joomla-patchtester/patchtester-options-ci-server-settings-tab.png)
+![Опции Patchtester вкладка настроек сервера CI GitHub](../../../en/images/joomla-patchtester/patchtester-options/03-patchtester-options-ci-server-settings-tab.png)
 
 - **Адрес сервера CI** По умолчанию: `https://ci.joomla.org`
 - **Переключить интеграцию CI** По умолчанию: Выключено

@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![Список категорий баннеров](../../../ru/images/banners/banners-categories-list.png)
+![Список категорий баннеров](../../../ru/images/banners/banners-categories/01-banners-categories-list.png)
 
 ## Советы
 

@@ -31,7 +31,7 @@
 
 ## Скриншот
 
-![список этапов базового рабочего процесса](../../../ru/images/workflows/stages-basic-workflow-list.png)
+![список этапов базового рабочего процесса](../../../ru/images/workflows/stages-basic-workflow/01-stages-basic-workflow-list.png)
 
 *Переведено openai.com*
 

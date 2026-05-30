@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Список дорожек баннеров](../../../ru/images/banners/banners-tracks-list.png)
+![Список дорожек баннеров](../../../ru/images/banners/banners-tracks/01-banners-tracks-list.png)
 
 ## Заголовки столбцов
 

@@ -27,7 +27,7 @@
 
 ## Скриншот
 
-![Список контактов](../../../ru/images/contacts/contacts-list.png)
+![Список контактов](../../../ru/images/contacts/contacts/01-contacts-list.png)
 
 *Переведено openai.com*
 

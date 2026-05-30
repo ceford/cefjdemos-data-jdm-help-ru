@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![вкладка модуля последних статей](../../../ru/images/modules-site/modules-articles-latest-module-tab.png)
+![вкладка модуля последних статей](../../../ru/images/modules-site/site-modules-articles-latest/01-modules-articles-latest-module-tab.png)
 
 ## Поля формы
 

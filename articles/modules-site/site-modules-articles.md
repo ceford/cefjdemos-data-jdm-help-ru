@@ -41,7 +41,7 @@
 
 ## Скриншот
 
-![Форма модуля статей вкладка модуля](../../../en/images/modules-site/modules-articles-module-tab.png)
+![Форма модуля статей вкладка модуля](../../../en/images/modules-site/site-modules-articles/01-modules-articles-module-tab.png)
 
 ## Поля формы
 
@@ -66,7 +66,7 @@
 
 ### Вкладка опций отображения
 
-![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/modules-articles-display-options-tab.png)
+![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/site-modules-articles/02-modules-articles-display-options-tab.png)
 
 - **Только заголовок (списки)** (*Да/Нет*). Если *Да*, список статей состоит только из заголовков статей, связанных со статьей. Все остальные опции скрыты.
 - **Макет**
@@ -102,7 +102,7 @@
 
 ### Вкладка опций фильтрации
 
-![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/modules-articles-filtering-options-tab.png)
+![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/site-modules-articles/03-modules-articles-filtering-options-tab.png)
 
 - **Избранные статьи**
   - *Показать* Позволяет избранным статьям появляться в списке.
@@ -132,7 +132,7 @@
 
 ### Вкладка опций упорядочивания
 
-![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/modules-articles-ordering-options-tab.png)
+![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/site-modules-articles/04-modules-articles-ordering-options-tab.png)
 
 - **Поле статьи для упорядочивания**
   - *Порядок статьи* Порядок, в котором статьи вручную располагаются на экране администратора *Контент > Статьи*.
@@ -146,7 +146,7 @@
 
 ### Вкладка опций группировки
 
-![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/modules-articles-grouping-options-tab.png)
+![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/site-modules-articles/05-modules-articles-grouping-options-tab.png)
 
 Поля *Поле группировки по дате* и *Формат отображения месяца и года* видны только когда выбрана группировка по дате.
 
@@ -167,19 +167,19 @@
 
 Модуль статей в правой боковой панели, показывающий только заголовки.
 
-![Скриншот сайта с модулем, показывающим только заголовки статей](../../../en/images/modules-site/modules-articles-site-titles.png)
+![Скриншот сайта с модулем, показывающим только заголовки статей](../../../en/images/modules-site/site-modules-articles/06-modules-articles-site-titles.png)
 
 Модуль статей в правой боковой панели, показывающий заголовок, автора и дату.
 
-![Скриншот сайта с модулем, показывающим заголовки статей, автора и дату](../../../en/images/modules-site/modules-articles-site-title-author-date.png)
+![Скриншот сайта с модулем, показывающим заголовки статей, автора и дату](../../../en/images/modules-site/site-modules-articles/07-modules-articles-site-title-author-date.png)
 
 Модуль статей в основном верхнем расположении, показывающий вступительный текст и изображение, а также кнопку *Читать далее*.
 
-![Скриншот сайта с модулем в верхнем расположении и кнопкой читать далее](../../../en/images/modules-site/modules-articles-site-top-text-image-readmore.png)
+![Скриншот сайта с модулем в верхнем расположении и кнопкой читать далее](../../../en/images/modules-site/site-modules-articles/08-modules-articles-site-top-text-image-readmore.png)
 
 Модуль статей в основном верхнем расположении, настроенный для горизонтальной компоновки с вступительным текстом и изображением, а также кнопкой *Читать далее*.
 
-![Скриншот сайта с модулем, показывающим вступительный текст статьи, изображение и кнопку читать далее](../../../en/images/modules-site/modules-articles-site-text-image-readmore.png)
+![Скриншот сайта с модулем, показывающим вступительный текст статьи, изображение и кнопку читать далее](../../../en/images/modules-site/site-modules-articles/09-modules-articles-site-text-image-readmore.png)
 
 ## Примеры настройки
 
@@ -198,7 +198,7 @@
 | Параметры группировки | Группировка статей           | Месяц и год        |
 | Параметры группировки | Формат отображения месяца и года | F, Y |
 
-![Сравнение архивных статей с использованием каждого метода](../../../en/images/modules-site/modules-articles-config-archived.png)
+![Сравнение архивных статей с использованием каждого метода](../../../en/images/modules-site/site-modules-articles/10-modules-articles-config-archived.png)
 
 <big>*Примечания*</big>
 
@@ -215,7 +215,7 @@
 | Модуль         | Категория           | [укажите желаемую категорию и подкатегории] |
 | Параметры отображения | Только заголовок (списки) | Да |
 
-![Сравнение статей по категориям, используя каждый метод](../../../en/images/modules-site/modules-articles-config-category.png)
+![Сравнение статей по категориям, используя каждый метод](../../../en/images/modules-site/site-modules-articles/11-modules-articles-config-category.png)
 
 ## Статьи - Последние
 
@@ -229,7 +229,7 @@
 | Параметры сортировки  | Поле статьи для сортировки  | Дата начала публикации |
 | Параметры сортировки  | Направление сортировки      | По убыванию |
 
-![Сравнение последних статей, используя каждый метод](../../../en/images/modules-site/modules-articles-config-latest.png)
+![Сравнение последних статей, используя каждый метод](../../../en/images/modules-site/site-modules-articles/12-modules-articles-config-latest.png)
 
 <big>*Заметки*</big>
 
@@ -247,7 +247,7 @@
 | Параметры сортировки | Поле статьи для сортировки | Просмотры   |
 | Параметры сортировки | Направление сортировки     | По убыванию |
 
-![Сравнение самых читаемых статей с использованием каждого метода](../../../en/images/modules-site/modules-articles-config-most-read.png)
+![Сравнение самых читаемых статей с использованием каждого метода](../../../en/images/modules-site/site-modules-articles/13-modules-articles-config-most-read.png)
 
 ## Статьи - Молния Новостей
 
@@ -264,7 +264,7 @@
 | Настройки отображения | Введение                   | Показать       |
 | Настройки отображения | Ограничение введения (символов) | 0 (для неограниченного текста) |
 
-![Сравнение статей с использованием каждого метода](../../../en/images/modules-site/modules-articles-config-news-flash.png)
+![Сравнение статей с использованием каждого метода](../../../en/images/modules-site/site-modules-articles/14-modules-articles-config-news-flash.png)
 
 *Переведено с помощью openai.com*  
 

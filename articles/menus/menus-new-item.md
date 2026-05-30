@@ -28,7 +28,7 @@
 
 ## Скриншот
 
-![вкладка деталей элемента меню](../../../ru/images/menu-items-common/menu-item-details.png)
+![вкладка деталей элемента меню](../../../ru/images/menu-items-common/menus-new-item/01-menu-item-details.png)
 
 ## Поля формы
 

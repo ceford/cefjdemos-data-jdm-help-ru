@@ -15,7 +15,7 @@ Joomla! устанавливается с набором пользовател�
 
 ## Скриншот
 
-![детали новой группы пользователей](../../../ru/images/users/users-new-group-details-tab.png)
+![детали новой группы пользователей](../../../ru/images/users/users-new-or-edit-group/01-users-new-group-details-tab.png)
 
 ## Детали группы пользователей
 

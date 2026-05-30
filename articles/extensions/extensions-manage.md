@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![Список управляемых расширений](../../../ru/images/extensions/manage-list.png)
+![Список управляемых расширений](../../../ru/images/extensions/extensions-manage/01-manage-list.png)
 
 ## Советы
 

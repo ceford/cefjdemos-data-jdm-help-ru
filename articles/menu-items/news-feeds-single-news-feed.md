@@ -32,7 +32,7 @@
 
 ## Скриншот
 
-![Меню "Элемент" Вкладка "Подробности единого новостного потока"](../../../ru/images/menu-items/news-feeds-single-news-feed-details-tab.png)
+![Меню "Элемент" Вкладка "Подробности единого новостного потока"](../../../ru/images/menu-items/news-feeds-single-news-feed/01-news-feeds-single-news-feed-details-tab.png)
 
 ## Поля формы
 
@@ -43,7 +43,7 @@
 
 ### Вкладка "Параметры отображения ленты"
 
-![Вкладка деталей пункта меню одиночной ленты новостей](../../../ru/images/menu-items/news-feeds-single-news-feed-feed-display-options-tab.png)
+![Вкладка деталей пункта меню одиночной ленты новостей](../../../ru/images/menu-items/news-feeds-single-news-feed/02-news-feeds-single-news-feed-feed-display-options-tab.png)
 
 Помимо вариантов Да/Нет или Скрыть/Показать, эти опции позволяют выбрать 
 настройку "Использовать глобальное". Это использует значение по умолчанию с экрана 

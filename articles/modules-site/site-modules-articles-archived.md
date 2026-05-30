@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![вкладка модуля архивированных статей](../../../ru/images/modules-site/modules-articles-archived-module-tab.png)
+![вкладка модуля архивированных статей](../../../ru/images/modules-site/site-modules-articles-archived/01-modules-articles-archived-module-tab.png)
 
 ## Поля Формы
 

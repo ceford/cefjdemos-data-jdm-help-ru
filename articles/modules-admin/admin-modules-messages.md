@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![вкладка модуля сообщений модулей](../../../ru/images/modules-admin/modules-messages-module-tab.png)
+![вкладка модуля сообщений модулей](../../../ru/images/modules-admin/admin-modules-messages/01-modules-messages-module-tab.png)
 
 ## Поля Формы
 

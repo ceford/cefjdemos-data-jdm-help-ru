@@ -22,7 +22,7 @@
 
 ## Снимок экрана
 
-![Список баннеров](../../../ru/images/banners/banners-list.png)
+![Список баннеров](../../../ru/images/banners/banners/01-banners-list.png)
 
 ## Заголовки столбцов
 

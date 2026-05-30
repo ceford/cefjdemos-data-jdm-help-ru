@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![список заметок пользователей](../../../ru/images/users/users-user-notes-categories-list.png)
+![список заметок пользователей](../../../ru/images/users/user-notes-categories/01-users-user-notes-categories-list.png)
 
 *Переведено openai.com*
 

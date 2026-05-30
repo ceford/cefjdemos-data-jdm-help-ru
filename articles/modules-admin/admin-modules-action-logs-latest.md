@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![последняя вкладка модуля журналов действий](../../../ru/images/modules-admin/modules-action-logs-latest-module-tab.png)
+![последняя вкладка модуля журналов действий](../../../ru/images/modules-admin/admin-modules-action-logs-latest/01-modules-action-logs-latest-module-tab.png)
 
 ## Поля формы
 

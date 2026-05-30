@@ -22,7 +22,7 @@
 
 ## Снимок экрана
 
-![вкладка редактирования категории веб-ссылок](../../../ru/images/weblinks/web-links-edit-category-category-tab.png)
+![вкладка редактирования категории веб-ссылок](../../../ru/images/weblinks/weblinks-categories-edit/01-web-links-edit-category-category-tab.png)
 
 ## Поля формы
 

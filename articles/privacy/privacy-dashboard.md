@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![панель управления конфиденциальностью](../../../ru/images/privacy/privacy-dashboard.png)
+![панель управления конфиденциальностью](../../../ru/images/privacy/privacy-dashboard/01-privacy-dashboard.png)
 
 ## Панели панели управления
 

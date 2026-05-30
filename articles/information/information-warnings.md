@@ -10,7 +10,7 @@
 
 ## Скриншот
 
-![Предупреждения информации](../../../ru/images/information/warnings.png)
+![Предупреждения информации](../../../ru/images/information/information-warnings/01-warnings.png)
 
 ## Панель инструментов
 

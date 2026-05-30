@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![вкладка модуля кто онлайн](../../../ru/images/modules-site/modules-whos-online-module-tab.png)
+![вкладка модуля кто онлайн](../../../ru/images/modules-site/site-modules-whos-online/01-modules-whos-online-module-tab.png)
 
 ## Поля Формы
 

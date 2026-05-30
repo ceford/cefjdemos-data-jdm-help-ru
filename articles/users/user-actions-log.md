@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![список журнала действий пользователя](../../../ru/images/users/user-actions-log-list.png)
+![список журнала действий пользователя](../../../ru/images/users/user-actions-log/01-user-actions-log-list.png)
 
 *Переведено на openai.com*
 

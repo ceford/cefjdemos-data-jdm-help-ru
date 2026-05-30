@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![вкладка глобальной конфигурации сайта](../../../ru/images/site/global-configuration-site-tab.png)
+![вкладка глобальной конфигурации сайта](../../../ru/images/site/site-global-configuration/01-global-configuration-site-tab.png)
 
 ## Поля формы
 
@@ -74,7 +74,7 @@
 
 ### Вкладка "Система"
 
-![вкладка системы глобальной конфигурации](../../../ru/images/site/global-configuration-system-tab.png)
+![вкладка системы глобальной конфигурации](../../../ru/images/site/site-global-configuration/02-global-configuration-system-tab.png)
 
 #### Панель отладки
 
@@ -108,7 +108,7 @@
 
 ### Вкладка "Сервер"
 
-![вкладка сервера глобальной конфигурации](../../../ru/images/site/global-configuration-server-tab.png)
+![вкладка сервера глобальной конфигурации](../../../ru/images/site/site-global-configuration/03-global-configuration-server-tab.png)
 
 #### Панель сервера
 
@@ -179,7 +179,7 @@
 
 ### Вкладка "Логирование"
 
-![вкладка логирования глобальной конфигурации](../../../ru/images/site/global-configuration-logging-tab.png)
+![вкладка логирования глобальной конфигурации](../../../ru/images/site/site-global-configuration/04-global-configuration-logging-tab.png)
 
 #### Панель логирования
 
@@ -195,7 +195,7 @@
 
 ### Вкладка "Текстовые фильтры"
 
-![вкладка текстовых фильтров глобальной конфигурации](../../../ru/images/site/global-configuration-text-filters-tab.png)
+![вкладка текстовых фильтров глобальной конфигурации](../../../ru/images/site/site-global-configuration/05-global-configuration-text-filters-tab.png)
 
 Эти настройки текстового фильтра будут применяться ко всем полям текстовых редакторов, отправленным пользователями в выбранных группах.
 

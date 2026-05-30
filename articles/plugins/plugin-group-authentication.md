@@ -6,7 +6,7 @@
 
 ## Аутентификация - Cookie
 
-![плагин аутентификации с использованием cookie](../../../en/images/plugins/plugin-group-authentication-cookie.png)
+![плагин аутентификации с использованием cookie](../../../en/images/plugins/plugin-group-authentication/01-plugin-group-authentication-cookie.png)
 
 - **Срок действия Cookie** Количество дней до истечения срока действия cookie для аутентификации. Другие факторы могут привести к более быстрому истечению срока. Длительные сроки менее безопасны.
 - **Длина ключа** Длина ключа, используемого для шифрования cookie. Более длинные ключи обеспечивают большую безопасность, но могут замедлить производительность.
@@ -19,7 +19,7 @@
 
 Этот плагин обрабатывает аутентификацию пользователей с использованием LDAP-сервера.
 
-![плагин аутентификации ldap](../../../en/images/plugins/plugin-group-authentication-ldap.png)
+![плагин аутентификации ldap](../../../en/images/plugins/plugin-group-authentication/02-plugin-group-authentication-ldap.png)
 
 - **Host** URL хоста. Например, `openldap.mycompany.org`.
 - **Port** Номер порта. По умолчанию 389.

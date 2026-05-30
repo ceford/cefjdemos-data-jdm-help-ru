@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![таб популярные статьи модуля](../../../ru/images/modules-admin/modules-popular-articles-module-tab.png)
+![таб популярные статьи модуля](../../../ru/images/modules-admin/admin-modules-popular-articles/01-modules-popular-articles-module-tab.png)
 
 ## Поля Формы
 

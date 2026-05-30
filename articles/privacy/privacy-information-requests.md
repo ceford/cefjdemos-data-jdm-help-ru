@@ -27,7 +27,7 @@
 
 ## Скриншот
 
-![запросы информации о конфиденциальности](../../../ru/images/privacy/privacy-information-requests.png)
+![запросы информации о конфиденциальности](../../../ru/images/privacy/privacy-information-requests/01-privacy-information-requests.png)
 
 ## Заголовки столбцов
 

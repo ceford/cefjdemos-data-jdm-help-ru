@@ -32,7 +32,7 @@
 
 ## Скриншот
 
-![Пункт меню Подтверждение запроса вкладка Подробности](../../../ru/images/menu-items/privacy-confirm-request-details-tab.png)
+![Пункт меню Подтверждение запроса вкладка Подробности](../../../ru/images/menu-items/privacy-confirm-request/01-privacy-confirm-request-details-tab.png)
 
 Все поля ввода формы рассматриваются в *Общих элементах*.
 

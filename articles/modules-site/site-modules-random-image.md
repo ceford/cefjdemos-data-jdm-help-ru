@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![модуль случайного изображения вкладка](../../../ru/images/modules-site/modules-random-image-module-tab.png)
+![модуль случайного изображения вкладка](../../../ru/images/modules-site/site-modules-random-image/01-modules-random-image-module-tab.png)
 
 ## Поля Формы
 

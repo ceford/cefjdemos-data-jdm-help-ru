@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![Статьи: Список категорий](../../../ru/images/articles/articles-categories-list.png)
+![Статьи: Список категорий](../../../ru/images/articles/articles-categories/01-articles-categories-list.png)
 
 ## Заголовки столбцов
 

@@ -23,7 +23,7 @@
 
 ## Снимок экрана
 
-![scheduled tasks list](../../../ru/images/maintenance/scheduled-tasks-list.png)
+![scheduled tasks list](../../../ru/images/maintenance/scheduled-tasks/01-scheduled-tasks-list.png)
 
 ## Заголовки столбцов
 
@@ -39,13 +39,13 @@
 
 Выберите кнопку на панели инструментов, чтобы увидеть список отдельных выполнений задач.
 
-![task execution history list](../../../ru/images/maintenance/scheduled-tasks-logs.png)
+![task execution history list](../../../ru/images/maintenance/scheduled-tasks/02-scheduled-tasks-logs.png)
 
 ## Доступные задачи
 
 Следующий снимок экрана показывает список доступных задач. Некоторые из них являются демонстрациями, некоторые полезны.
 
-![Scheduled Tasks Available](../../../ru/images/maintenance/scheduled-tasks-types.png)
+![Scheduled Tasks Available](../../../ru/images/maintenance/scheduled-tasks/03-scheduled-tasks-types.png)
 
 Каждая задача имеет свои параметры, связанные с задачей, которые должны быть понятны без дополнительных объяснений. Например, задача **Site Offline** имеет смысл только в том случае, если **Edit Task → Basic Fields → Execution Rule** установлено на **Manual Execution**.
 

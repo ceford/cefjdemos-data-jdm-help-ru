@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Варианты регистрации](../../../ru/images/maintenance/check-in-options.png)
+![Варианты регистрации](../../../ru/images/maintenance/check-in-options/01-check-in-options.png)
 
 ## Советы
 

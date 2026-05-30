@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![Параметры медиа](../../../ru/images/media/media-options.png)
+![Параметры медиа](../../../ru/images/media/media-options/01-media-options.png)
 
 ## Поля Формы
 

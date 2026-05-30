@@ -14,7 +14,7 @@
 
 ## Скриншот
 
-![Всплывающее окно истории версий](../../../ru/images/common-elements/articles-edit-versions.png)
+![Всплывающее окно истории версий](../../../ru/images/common-elements/edit-version-history/01-articles-edit-versions.png)
 
 ## Заголовки столбцов
 

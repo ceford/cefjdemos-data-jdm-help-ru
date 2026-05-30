@@ -6,13 +6,13 @@
 
 ### Настроить вкладку Задачи
 
-![task timeout setting](../../../ru/images/maintenance/scheduled-tasks-options-configure-tasks.png)
+![task timeout setting](../../../ru/images/maintenance/scheduled-tasks-configuration/01-scheduled-tasks-options-configure-tasks.png)
 
 - **Время ожидания задачи** По умолчанию 300 секунд.
 
 ### Вкладка «Ленивый планировщик»
 
-![lazy schedule setting](../../../ru/images/maintenance/scheduled-tasks-options-lazy-scheduler.png)
+![lazy schedule setting](../../../ru/images/maintenance/scheduled-tasks-configuration/02-scheduled-tasks-options-lazy-scheduler.png)
 
 - **Включенные** задачи запускаются посетителями сайта.
 - **Отключенные** задачи должны быть запущены внешней cron-задачей.
@@ -20,7 +20,7 @@
 
 ### Веб-кронтаблица
 
-![web cron setting](../../../ru/images/maintenance/scheduled-tasks-options-webcron.png)
+![web cron setting](../../../ru/images/maintenance/scheduled-tasks-configuration/03-scheduled-tasks-options-webcron.png)
 
 - **Web Cron** Выключен по умолчанию. Включение требует хэш для запуска задачи. Перед первым сохранением отображается сообщение о том, что необходим ключ. После сохранения появляется поле, содержащее ссылку на Webcron, которую можно скопировать.
 

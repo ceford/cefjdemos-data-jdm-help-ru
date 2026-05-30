@@ -18,7 +18,7 @@
 
 ## Снимок экрана
 
-![Шаблоны настроек вкладки редактора cassiopeia](../../../ru/images/templates/templates-customise-cassiopeia-edit-component-editor-tab.png)
+![Шаблоны настроек вкладки редактора cassiopeia](../../../ru/images/templates/templates-customise-source/01-templates-customise-cassiopeia-edit-component-editor-tab.png)
 
 ## Поля формы
 

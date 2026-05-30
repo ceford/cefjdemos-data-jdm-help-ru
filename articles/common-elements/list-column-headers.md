@@ -8,15 +8,15 @@
 
 ### Заголовки столбцов списка статей
 
-![Заголовок столбца списка статей](../../../ru/images/common-elements/articles-list-column-header.png)
+![Заголовок столбца списка статей](../../../ru/images/common-elements/list-column-headers/01-articles-list-column-header.png)
 
 ### Заголовки столбцов списка категорий
 
-![Заголовок столбца списка категорий](../../../ru/images/common-elements/categories-list-column-header.png)
+![Заголовок столбца списка категорий](../../../ru/images/common-elements/list-column-headers/02-categories-list-column-header.png)
 
 ### Заголовки столбцов списка пользователей
 
-![Заголовок столбца списка пользователей](../../../ru/images/common-elements/users-list-column-header.png)
+![Заголовок столбца списка пользователей](../../../ru/images/common-elements/list-column-headers/03-users-list-column-header.png)
 
 ## Сортировка по столбцу
 

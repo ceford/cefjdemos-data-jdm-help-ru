@@ -8,7 +8,7 @@
 
 На этом примере скриншота используется форма "Статьи: Редактировать категорию".
 
-![Редактировать категорию - вкладка "Категория"](../../../ru/images/common-elements/articles-edit-category-category-tab.png)
+![Редактировать категорию - вкладка "Категория"](../../../ru/images/common-elements/edit-category/01-articles-edit-category-category-tab.png)
 
 ## Поля формы
 

@@ -23,7 +23,7 @@
 
 ## Скриншот
 
-![Медиа](../../../ru/images/media/media.png)
+![Медиа](../../../ru/images/media/media/01-media.png)
 
 ## Область отображения изображений
 
