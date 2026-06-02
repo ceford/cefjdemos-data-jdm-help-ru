@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![шаблоны cassiopeia редактировать вкладку редактора стиля](../../../ru/images/templates/templates-edit-style/01-templates-site-edit-style-details-tab.png)
+![шаблоны cassiopeia редактировать вкладку редактора стиля](../../../ru/images/templates/templates-edit-style/01-details-tab.png)
 
 ## Поля Форм
 
@@ -30,7 +30,7 @@
 
 ### Вкладка Дополнительно
 
-![templates cassiopeia edit style editor tab](../../../ru/images/templates/templates-edit-style/02-templates-site-edit-style-advanced-tab.png)
+![templates cassiopeia edit style editor tab](../../../ru/images/templates/templates-edit-style/02-advanced-tab.png)
 
 Этот раздел может отсутствовать для некоторых стилей. Если шаблон, из которого выводится стиль, имеет настраиваемые параметры, они будут отображаться здесь. Именно эти дополнительные настраиваемые параметры позволяют вам иметь несколько различных стилей шаблонов с вариациями этих параметров. Доступные параметры будут различаться в зависимости от того, какие параметры сделал доступными разработчик шаблона.
 
@@ -50,7 +50,7 @@
 
 ### Вкладка Назначения Меню
 
-![templates cassiopeia edit style editor tab](../../../ru/images/templates/templates-edit-style/03-templates-site-edit-style-menu-assignment-tab.png)
+![templates cassiopeia edit style editor tab](../../../ru/images/templates/templates-edit-style/03-menu-assignment-tab.png)
 
 Этот раздел содержит все пункты меню, настроенные на вашем сайте Joomla!. Чтобы применить текущий стиль к веб-странице, соответствующей пункту меню, установите флажок рядом с пунктом меню. Вы можете нажать кнопку *Переключить Выбор*, чтобы инвертировать выбор пунктов меню.
 

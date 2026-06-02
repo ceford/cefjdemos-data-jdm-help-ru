@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![Редактировать категорию лент новостей, вкладка категории](../../../ru/images/news-feeds/news-feeds-new-or-edit-category/01-news-feeds-edit-category-category-tab.png)
+![Редактировать категорию лент новостей, вкладка категории](../../../ru/images/news-feeds/news-feeds-new-or-edit-category/01-category-tab.png)
 
 ## Поля формы
 
@@ -31,7 +31,7 @@
 
 ### Вкладка "Опции"
 
-![Редактирование новостных лент - вкладка параметров категории](../../../ru/images/news-feeds/news-feeds-new-or-edit-category/02-news-feeds-edit-category-options-tab.png)
+![Редактирование новостных лент - вкладка параметров категории](../../../ru/images/news-feeds/news-feeds-new-or-edit-category/02-options-tab.png)
 
 - **Макет** Выберите макет из доступных вариантов.
 - **Изображение** Выберите изображение, которое будет отображаться с этой категорией на фронтенде.

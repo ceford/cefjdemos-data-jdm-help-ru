@@ -28,7 +28,7 @@
 
 ## Скриншот
 
-![вкладка модуля категорий статей](../../../ru/images/modules-site/site-modules-articles-categories/01-modules-articles-categories-module-tab.png)
+![вкладка модуля категорий статей](../../../ru/images/modules-site/site-modules-articles-categories/01-module-tab.png)
 
 ## Поля формы
 

@@ -40,7 +40,7 @@
 
 ## Вкладка Загрузка файла пакета
 
-![Вкладка загрузки файла пакета для установки расширения](../../../ru/images/extensions/extensions-install/01-install-upload-package-file.png)
+![Вкладка загрузки файла пакета для установки расширения](../../../ru/images/extensions/extensions-install/01-upload-package-file.png)
 
 - Перетащите или перейдите к месту, где вы скачали архивный файл расширения.
 

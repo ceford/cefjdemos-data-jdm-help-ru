@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![личные сообщения](../../../ru/images/private-messages/private-messages/01-private-messages.png)
+![личные сообщения](../../../ru/images/private-messages/private-messages/01-messages-list.png)
 
 ## Советы
 

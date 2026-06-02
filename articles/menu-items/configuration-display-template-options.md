@@ -32,11 +32,11 @@
 
 ## Скриншот
 
-![Вкладка с деталями параметров шаблона отображения](../../../ru/images/menu-items/configuration-display-template-options/01-configuration-display-template-options-details.png)
+![Вкладка с деталями параметров шаблона отображения](../../../ru/images/menu-items/configuration-display-template-options/01-details-tab.png)
 
 ## Скриншот интерфейса
 
-![Параметры шаблона отображения формы интерфейса](../../../en/images/menu-items/configuration-display-template-options/02-configuration-display-template-options-frontend.png)
+![Параметры шаблона отображения формы интерфейса](../../../en/images/menu-items/configuration-display-template-options/02-frontend.png)
 
 *Переведено openai.com*
 

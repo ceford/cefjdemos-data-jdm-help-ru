@@ -37,7 +37,7 @@
 
 ## Скриншот
 
-![Категория пункта меню Блог](../../../ru/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
+![Категория пункта меню Блог](../../../ru/images/menu-items/articles-category-blog/01-details-tab.png)
 
 ## Поля формы
 

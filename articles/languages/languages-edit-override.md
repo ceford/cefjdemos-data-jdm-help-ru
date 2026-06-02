@@ -22,7 +22,7 @@
 
 ## Скриншот
 
-![Languages Edit Override](../../../ru/images/languages/languages-edit-override/01-languages-edit-override.png)
+![Languages Edit Override](../../../ru/images/languages/languages-edit-override/01-override-form.png)
 
 ## Поля формы
 

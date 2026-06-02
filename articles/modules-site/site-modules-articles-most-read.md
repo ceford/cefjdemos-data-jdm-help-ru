@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![вкладка модуля самых читаемых статей](../../../ru/images/modules-site/site-modules-articles-most-read/01-modules-articles-most-read-module-tab.png)
+![вкладка модуля самых читаемых статей](../../../ru/images/modules-site/site-modules-articles-most-read/01-module-tab.png)
 
 ## Поля формы
 

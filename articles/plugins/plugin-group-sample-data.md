@@ -4,7 +4,7 @@
 
 Эти плагины предоставляют примерные данные для модуля Sample Data, которые могут отображаться на Главной панели. Если плагин отключен, он там не появится.
 
-![Панель примерных данных на главной панели](../../../en/images/plugins/plugin-group-sample-data/01-plugin-group-sample-data.png)
+![Панель примерных данных на главной панели](../../../en/images/plugins/plugin-group-sample-data/01-sample-data-module.png)
 
 ### Примерные данные - Блог
 

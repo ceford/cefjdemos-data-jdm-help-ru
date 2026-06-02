@@ -31,7 +31,7 @@
 
 ## Скриншот
 
-![Пункт меню Конфиденциальность Создать запрос вкладка с деталями](../../../ru/images/menu-items/privacy-extend-consent/01-privacy-extend-consent-details-tab.png)
+![Пункт меню Конфиденциальность Создать запрос вкладка с деталями](../../../ru/images/menu-items/privacy-extend-consent/01-details-tab.png)
 
 Все поля ввода формы рассмотрены в разделе *Общие элементы*.
 

@@ -16,7 +16,7 @@
 
 ## Снимок экрана
 
-![пользователи массовой рассылки](../../../ru/images/users/mass-mail-users/01-mass-mail-users.png)
+![пользователи массовой рассылки](../../../ru/images/users/mass-mail-users/01-mail-form.png)
 
 ## Подробности и Сообщение
 

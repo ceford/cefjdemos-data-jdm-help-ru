@@ -23,7 +23,7 @@
 
 ## Скриншот
 
-![форма ввода данных модуля weblinks](../../../ru/images/modules-site/site-modules-weblinks/01-modules-weblinks-module-tab.png)
+![форма ввода данных модуля weblinks](../../../ru/images/modules-site/site-modules-weblinks/01-module-tab.png)
 
 ## Поля Формы
 

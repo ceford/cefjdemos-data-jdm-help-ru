@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Очистить кэш обслуживания](../../../ru/images/maintenance/maintenance-clear-cache/01-maintenance-clear-cache.png)
+![Очистить кэш обслуживания](../../../ru/images/maintenance/maintenance-clear-cache/01-cache-list.png)
 
 ## Заголовки столбцов
 

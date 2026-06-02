@@ -16,7 +16,7 @@
 
 ## Скриншот
 
-![возможности расширения конфиденциальности](../../../ru/images/privacy/privacy-extension-capabilities/01-privacy-capabilities.png)
+![возможности расширения конфиденциальности](../../../ru/images/privacy/privacy-extension-capabilities/01-information.png)
 
 На этой странице отсутствуют действия пользователя, кроме как развернуть и прочитать отдельные отчеты.
 *Переведено openai.com*

@@ -25,7 +25,7 @@
 
 ## Снимок экрана
 
-![вкладка модуля умного поиска](../../../ru/images/modules-site/site-modules-smart-search/01-modules-smart-search-module-tab.png)
+![вкладка модуля умного поиска](../../../ru/images/modules-site/site-modules-smart-search/01-module-tab.png)
 
 ## Поля формы
 

@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![список всех пунктов меню](../../../ru/images/menus/menus-items/01-menus-all-menu-items-list.png)
+![список всех пунктов меню](../../../ru/images/menus/menus-items/01-items-list.png)
 
 ## Советы
 

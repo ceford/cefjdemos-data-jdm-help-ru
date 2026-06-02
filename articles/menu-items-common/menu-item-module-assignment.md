@@ -12,7 +12,7 @@
 
 ## Скриншот
 
-![вкладка назначения модуля пункта меню](../../../ru/images/menu-items-common/menu-item-module-assignment/01-menu-item-module-assignment.png)
+![вкладка назначения модуля пункта меню](../../../ru/images/menu-items-common/menu-item-module-assignment/01-module-assignment-tab.png)
 
 ## Поля формы
 

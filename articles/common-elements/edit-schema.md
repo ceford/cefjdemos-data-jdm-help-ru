@@ -21,11 +21,11 @@
 
 ### Пример: Схема Статьи
 
-![Вкладка схемы с выбранной опцией статьи](../../../ru/images/common-elements/edit-schema/01-articles-edit-schema-tab-article.png)
+![Вкладка схемы с выбранной опцией статьи](../../../ru/images/common-elements/edit-schema/01-schema-tab-article.png)
 
 ### Пример: Схема Персоны
 
-![Вкладка схемы с выбранной опцией персоны](../../../ru/images/common-elements/edit-schema/02-articles-edit-schema-tab-person.png)
+![Вкладка схемы с выбранной опцией персоны](../../../ru/images/common-elements/edit-schema/02-schema-tab-person.png)
 
 *Переведено с помощью openai.com*
 

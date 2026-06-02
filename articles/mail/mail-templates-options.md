@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Опции шаблонов почты](../../../ru/images/mail/mail-templates-options/01-mail-templates-options-mails-tab.png)
+![Опции шаблонов почты](../../../ru/images/mail/mail-templates-options/01-mails-tab.png)
 
 ## Поля формы
 

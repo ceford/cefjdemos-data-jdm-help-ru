@@ -12,7 +12,7 @@
 
 ## Скриншот
 
-![меню элемент ссылка тип вкладка](../../../ru/images/menu-items-common/menu-item-link-type/01-menu-item-link-type.png)
+![меню элемент ссылка тип вкладка](../../../ru/images/menu-items-common/menu-item-link-type/01-link-type-tab.png)
 
 ## Поля Формы
 

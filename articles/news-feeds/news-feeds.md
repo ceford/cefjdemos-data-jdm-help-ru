@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![Список новостных лент](../../../ru/images/news-feeds/news-feeds/01-news-feeds-list.png)
+![Список новостных лент](../../../ru/images/news-feeds/news-feeds/01-feeds-list.png)
 
 *Переведено с помощью openai.com*
 

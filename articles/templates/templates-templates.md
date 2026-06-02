@@ -24,7 +24,7 @@
 
 Экраны Администратора и Шаблоны сайта используют одинаковую компоновку. Здесь представлен экран Шаблоны сайта.
 
-![Шаблоны список шаблонов сайта](../../../ru/images/templates/templates-templates/01-templates-site-templates-list.png)
+![Шаблоны список шаблонов сайта](../../../ru/images/templates/templates-templates/01-templates-list.png)
 
 ## Фильтры списка
 

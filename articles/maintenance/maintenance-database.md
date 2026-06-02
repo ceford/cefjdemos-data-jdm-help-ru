@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![База данных для обслуживания](../../../ru/images/maintenance/maintenance-database/01-maintenance-database.png)
+![База данных для обслуживания](../../../ru/images/maintenance/maintenance-database/01-items-list.png)
 
 ## Заголовки столбцов
 

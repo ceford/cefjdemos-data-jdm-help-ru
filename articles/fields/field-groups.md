@@ -27,7 +27,7 @@
 
 ## Скриншот
 
-![Список групп полей статей](../../../ru/images/fields/field-groups/01-articles-field-groups-list.png)
+![Список групп полей статей](../../../ru/images/fields/field-groups/01-field-groups-list.png)
 
 *Переведено openai.com*
 

@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![карты содержимого умного поиска](../../../ru/images/smart-search/smart-search-search-filters/01-smart-search-search-filters.png)
+![карты содержимого умного поиска](../../../ru/images/smart-search/smart-search-search-filters/01-search-filters.png)
 
 *Переведено openai.com*
 

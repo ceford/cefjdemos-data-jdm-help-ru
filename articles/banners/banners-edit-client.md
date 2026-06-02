@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Редактирование клиента баннеров](../../../ru/images/banners/banners-edit-client/01-banners-edit-client-details-tab.png)
+![Редактирование клиента баннеров](../../../ru/images/banners/banners-edit-client/01-details-tab.png)
 
 ## Поля Формы
 
@@ -49,7 +49,7 @@
 
 ### Вкладка "Метаданные"
 
-![Вкладка метаданных редактирования клиента баннеров](../../../ru/images/banners/banners-edit-client/02-banners-edit-client-metadata-tab.png)
+![Вкладка метаданных редактирования клиента баннеров](../../../ru/images/banners/banners-edit-client/02-metadata-tab.png)
 
 - **Ключевые Слова** Необязательный ввод для ключевых слов. Должны быть введены,
   разделенные запятыми (например, "кошки, собаки, питомцы") и могут

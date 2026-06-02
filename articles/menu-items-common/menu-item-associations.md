@@ -15,7 +15,7 @@
 
 ## Скриншот
 
-![вкладка ассоциаций элементов меню](../../../ru/images/menu-items-common/menu-item-associations/01-menu-item-associations.png)
+![вкладка ассоциаций элементов меню](../../../ru/images/menu-items-common/menu-item-associations/01-associations-tab.png)
 
 ## Поля формы
 

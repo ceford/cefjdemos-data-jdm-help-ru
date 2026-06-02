@@ -32,7 +32,7 @@
 
 ## Скриншот
 
-![Пункт меню Приватность Создать вкладку с деталями запроса](../../../ru/images/menu-items/privacy-create-request/01-privacy-create-request-details-tab.png)
+![Пункт меню Приватность Создать вкладку с деталями запроса](../../../ru/images/menu-items/privacy-create-request/01-details-tab.png)
 
 Все поля ввода формы описаны в *Общие элементы*.
 

@@ -23,7 +23,7 @@
 
 ## Скриншот
 
-![пользователи, просматривающие уровни доступа](../../../ru/images/users/users-viewing-access-levels/01-users-viewing-access-levels.png)
+![пользователи, просматривающие уровни доступа](../../../ru/images/users/users-viewing-access-levels/01-viewing-access-levels-list.png)
 
 ## Подсказки
 

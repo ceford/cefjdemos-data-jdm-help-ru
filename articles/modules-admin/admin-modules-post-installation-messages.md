@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![сообщения после установки модулей, вкладка модуля](../../../ru/images/modules-admin/admin-modules-post-installation-messages/01-modules-post-installation-messages-module-tab.png)
+![сообщения после установки модулей, вкладка модуля](../../../ru/images/modules-admin/admin-modules-post-installation-messages/01-module-tab.png)
 
 ## Поля формы
 

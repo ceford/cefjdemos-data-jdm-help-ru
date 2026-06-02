@@ -28,7 +28,7 @@
 
 ## Скриншот
 
-![модули статьи последняя вкладка](../../../ru/images/modules-admin/admin-modules-custom/01-modules-custom-module-tab.png)
+![модули статьи последняя вкладка](../../../ru/images/modules-admin/admin-modules-custom/01-module-tab.png)
 
 ## Поля формы
 

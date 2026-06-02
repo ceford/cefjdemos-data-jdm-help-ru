@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![вкладка модуля переключателя языка](../../../ru/images/modules-site/site-modules-language-switcher/01-modules-language-switcher-module-tab.png)
+![вкладка модуля переключателя языка](../../../ru/images/modules-site/site-modules-language-switcher/01-module-tab.png)
 
 ## Поля формы
 

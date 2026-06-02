@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![модули заголовок вкладка модуля](../../../ru/images/modules-admin/admin-modules-title/01-modules-title-module-tab.png)
+![модули заголовок вкладка модуля](../../../ru/images/modules-admin/admin-modules-title/01-module-tab.png)
 
 ## Поля Формы
 

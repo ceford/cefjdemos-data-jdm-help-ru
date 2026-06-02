@@ -17,7 +17,7 @@
 
 ## Скриншот
 
-![Вкладка с деталями редактирования языка контента](../../../ru/images/languages/languages-edit-content-language/01-languages-edit-content-language-details-tab.png)
+![Вкладка с деталями редактирования языка контента](../../../ru/images/languages/languages-edit-content-language/01-details-tab.png)
 
 ## Поля формы
 
@@ -36,7 +36,7 @@
 
 ### Вкладка "Опции"
 
-![Вкладка параметров редактирования языкового контента](../../../ru/images/languages/languages-edit-content-language/02-languages-edit-content-language-options-tab.png)
+![Вкладка параметров редактирования языкового контента](../../../ru/images/languages/languages-edit-content-language/02-options-tab.png)
 
 * **Название сайта** может отличаться на разных языках!
 * **Метаописание** должно быть различным на разных языках!

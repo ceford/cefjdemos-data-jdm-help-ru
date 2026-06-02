@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![Опции интерактивных туров](../../../en/images/guided-tours/guided-tours-options/01-guided-tours-options.png)
+![Опции интерактивных туров](../../../en/images/guided-tours/guided-tours-options/01-guided-tours-tab.png)
 
 Элементы на вкладке "Интерактивные туры" хорошо объяснены в Встроенной помощи.
 

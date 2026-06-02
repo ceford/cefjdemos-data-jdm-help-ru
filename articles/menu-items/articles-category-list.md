@@ -36,7 +36,7 @@
 
 ## Скриншот
 
-![Список категорий пунктов меню](../../../ru/images/menu-items/articles-category-list/01-articles-category-list-details-tab.png)
+![Список категорий пунктов меню](../../../ru/images/menu-items/articles-category-list/01-details-tab.png)
 
 ## Поля формы
 

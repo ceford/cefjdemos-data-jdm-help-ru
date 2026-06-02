@@ -6,7 +6,7 @@
 
 ## Скриншот
 
-![Дополнительная вкладка модулей](../../../ru/images/modules/modules-menu-assignment-tab/01-modules-custom-menu-assignment-tab.png)
+![Дополнительная вкладка модулей](../../../ru/images/modules/modules-menu-assignment-tab/01-menu-assignment-tab.png)
 
 ## Поля формы
 

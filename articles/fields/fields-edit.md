@@ -59,7 +59,7 @@
 
 ### Вкладка "Опции"
 
-![Вкладка опций редактирования поля статей](../../../ru/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
+![Вкладка опций редактирования поля статей](../../../ru/images/fields/fields-edit/02-options-tab.png)
 
 #### Опции формы
 

@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![настройки конфиденциальности](../../../ru/images/privacy/privacy-options/01-privacy-options.png)
+![настройки конфиденциальности](../../../ru/images/privacy/privacy-options/01-options-tab.png)
 
 ## Поля Форм
 

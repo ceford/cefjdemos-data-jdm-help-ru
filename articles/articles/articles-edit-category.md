@@ -34,7 +34,7 @@
 
 ## Скриншот
 
-![Скриншот редактирования категории](../../../ru/images/articles/articles-edit-category/01-articles-edit-category-category-tab.png)
+![Скриншот редактирования категории](../../../ru/images/articles/articles-edit-category/01-category-tab.png)
 
 ## Поля Формы
 

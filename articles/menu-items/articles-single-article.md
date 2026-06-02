@@ -35,7 +35,7 @@
 
 ## Скриншот
 
-![Пункт меню Статьи - вкладка сведений одной статьи](../../../ru/images/menu-items/articles-single-article/01-articles-single-article-details-tab.png)
+![Пункт меню Статьи - вкладка сведений одной статьи](../../../ru/images/menu-items/articles-single-article/01-details-tab.png)
 
 ## Поля Формы
 

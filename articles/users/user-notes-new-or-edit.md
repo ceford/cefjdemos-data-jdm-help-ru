@@ -27,7 +27,7 @@
 
 ## Скриншот
 
-![пользователи пользователь заметки новые или редактировать](../../../ru/images/users/user-notes-new-or-edit/01-users-user-notes-new-or-edit.png)
+![пользователи пользователь заметки новые или редактировать](../../../ru/images/users/user-notes-new-or-edit/01-edit-form.png)
 
 ## Поля формы
 

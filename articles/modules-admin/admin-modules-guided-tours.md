@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![вкладка модулей обучения](../../../ru/images/modules-admin/admin-modules-guided-tours/01-modules-guided-tours-module-tab.png)
+![вкладка модулей обучения](../../../ru/images/modules-admin/admin-modules-guided-tours/01-module-tab.png)
 
 ## Поля Формы
 

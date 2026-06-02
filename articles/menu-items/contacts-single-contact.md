@@ -33,7 +33,7 @@
 
 ## Скриншот
 
-![Элемент меню Вкладка с деталями контакта](../../../ru/images/menu-items/contacts-single-contact/01-contacts-single-contact-details-tab.png)
+![Элемент меню Вкладка с деталями контакта](../../../ru/images/menu-items/contacts-single-contact/01-details-tab.png)
 
 ## Поля Форм
 
@@ -46,7 +46,7 @@
 
 Опции отображения контактов управляют внешним видом макета списка.
 
-![Меню Элемента Единичный контакт вкладка опций отображения контакта](../../../ru/images/menu-items/contacts-single-contact/02-contacts-single-contact-contact-display-options-tab.png)
+![Меню Элемента Единичный контакт вкладка опций отображения контакта](../../../ru/images/menu-items/contacts-single-contact/02-contact-display-options-tab.png)
 
 - **Категория Контакта** Показать или скрыть вид отображения категории контакта.
     Доступны следующие опции.
@@ -83,7 +83,7 @@
 
 ### Опции Почты
 
-![Меню Элемента Единичный контакт вкладка опций почты](../../../ru/images/menu-items/contacts-single-contact/03-contacts-single-contact-mail-options-tab.png)
+![Меню Элемента Единичный контакт вкладка опций почты](../../../ru/images/menu-items/contacts-single-contact/03-mail-options-tab.png)
 
 - **Форма Связи** Показать или скрыть форму *связи* контакта.
 - **Отправить Копию Подавшему** Показать или скрыть флажок

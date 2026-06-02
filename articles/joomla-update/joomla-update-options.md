@@ -17,7 +17,7 @@
 
 ## Скриншот
 
-![Опции обновления Joomla](../../../ru/images/joomla-update/joomla-update-options/01-joomla-update-options.png)
+![Опции обновления Joomla](../../../ru/images/joomla-update/joomla-update-options/01-update-source.png)
 
 ## Поля Формы
 

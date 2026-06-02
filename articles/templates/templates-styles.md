@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![Список стилей сайта шаблонов](../../../ru/images/templates/templates-styles/01-templates-site-styles-list.png)
+![Список стилей сайта шаблонов](../../../ru/images/templates/templates-styles/01-styles-list.png)
 
 *Переведено openai.com*
 

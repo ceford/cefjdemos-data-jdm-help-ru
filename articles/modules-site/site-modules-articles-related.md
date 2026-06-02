@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![вкладка модуля связанных статей](../../../ru/images/modules-site/site-modules-articles-related/01-modules-articles-related-module-tab.png)
+![вкладка модуля связанных статей](../../../ru/images/modules-site/site-modules-articles-related/01-module-tab.png)
 
 ## Поля формы
 

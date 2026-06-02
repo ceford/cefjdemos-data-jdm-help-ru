@@ -31,7 +31,7 @@
 
 ## Скриншот
 
-![Редактировать вкладку деталей профиля пользователя](../../../ru/images/menu-items/users-edit-user-profile/01-users-edit-user-profile-details-tab.png)
+![Редактировать вкладку деталей профиля пользователя](../../../ru/images/menu-items/users-edit-user-profile/01-details-tab.png)
 
 Все поля ввода формы рассматриваются в разделе *Общие элементы*.
 

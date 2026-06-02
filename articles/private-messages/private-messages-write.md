@@ -17,7 +17,7 @@
 
 ## Скриншот
 
-![написать личные сообщения](../../../ru/images/private-messages/private-messages-write/01-private-messages-write.png)
+![написать личные сообщения](../../../ru/images/private-messages/private-messages-write/01-write-form.png)
 
 ## Поля Формы
 

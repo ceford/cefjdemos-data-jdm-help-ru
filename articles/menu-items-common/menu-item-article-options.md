@@ -13,7 +13,7 @@
 
 ## Скриншот
 
-![подробности пункта меню](../../../ru/images/menu-items-common/menu-item-article-options/01-articles-article-options.png)
+![подробности пункта меню](../../../ru/images/menu-items-common/menu-item-article-options/01-options-tab.png)
 
 ## Поля формы
 

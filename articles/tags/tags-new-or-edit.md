@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![редактирование тегов, вкладка с деталями тега](../../../ru/images/tags/tags-new-or-edit/01-tags-edit-tag-details-tab.png)
+![редактирование тегов, вкладка с деталями тега](../../../ru/images/tags/tags-new-or-edit/01-details-tab.png)
 
 ## Поля формы
 
@@ -43,7 +43,7 @@
 
 ### Вкладка "Опции"
 
-![вкладка опций редактирования тегов](../../../ru/images/tags/tags-new-or-edit/02-tags-edit-options-tab.png)
+![вкладка опций редактирования тегов](../../../ru/images/tags/tags-new-or-edit/02-options-tab.png)
 
 #### Панель опций
 
@@ -60,7 +60,7 @@
 
 ### Вкладка "Публикация"
 
-![вкладка публикации редактирования тегов](../../../ru/images/tags/tags-new-or-edit/03-tags-edit-publishing-tab.png)
+![вкладка публикации редактирования тегов](../../../ru/images/tags/tags-new-or-edit/03-publishing-tab.png)
 
 #### Панель публикации
 

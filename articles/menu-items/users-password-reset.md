@@ -33,7 +33,7 @@
 
 ## Скриншот
 
-![Вкладка сведений о сбросе пароля](../../../ru/images/menu-items/users-password-reset/01-users-password-reset-details-tab.png)
+![Вкладка сведений о сбросе пароля](../../../ru/images/menu-items/users-password-reset/01-details-tab.png)
 
 Все поля ввода формы рассматриваются в разделе *Общие элементы*.
 

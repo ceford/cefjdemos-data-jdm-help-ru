@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![вкладка модуля нижнего колонтитула](../../../ru/images/modules-site/site-modules-footer/01-modules-footer-module-tab.png)
+![вкладка модуля нижнего колонтитула](../../../ru/images/modules-site/site-modules-footer/01-module-tab.png)
 
 ## Поля формы
 

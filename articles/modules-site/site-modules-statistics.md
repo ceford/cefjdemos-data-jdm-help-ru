@@ -24,7 +24,7 @@
 
 ## Снимок экрана
 
-![вкладка модуля статистики](../../../ru/images/modules-site/site-modules-statistics/01-modules-statistics-module-tab.png)
+![вкладка модуля статистики](../../../ru/images/modules-site/site-modules-statistics/01-module-tab.png)
 
 ## Поля формы
 

@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![умный поиск изменить фильтр](../../../ru/images/smart-search/smart-search-new-or-edit-filter/01-smart-search-edit-filter.png)
+![умный поиск изменить фильтр](../../../ru/images/smart-search/smart-search-new-or-edit-filter/01-edit-filter.png)
 
 ## Поля формы
 
@@ -45,7 +45,7 @@
 
 ## Вкладка "Опции"
 
-![вкладка с опциями редактирования умного поиска](../../../ru/images/smart-search/smart-search-new-or-edit-filter/02-smart-search-edit-filter-options-tab.png)
+![вкладка с опциями редактирования умного поиска](../../../ru/images/smart-search/smart-search-new-or-edit-filter/02-options-tab.png)
 
 ### Панель публикации
 

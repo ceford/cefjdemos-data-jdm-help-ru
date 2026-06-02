@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![модули joomla версия вкладка модуля](../../../ru/images/modules-admin/admin-modules-joomla-version-information/01-modules-joomla-version-module-tab.png)  
+![модули joomla версия вкладка модуля](../../../ru/images/modules-admin/admin-modules-joomla-version-information/01-module-tab.png)  
 
 ## Поля формы
 

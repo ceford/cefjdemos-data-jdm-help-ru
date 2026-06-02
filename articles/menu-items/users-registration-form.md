@@ -33,7 +33,7 @@
 
 ## Снимок экрана
 
-![Вкладка с деталями формы регистрации](../../../ru/images/menu-items/users-registration-form/01-users-registration-form-details-tab.png)
+![Вкладка с деталями формы регистрации](../../../ru/images/menu-items/users-registration-form/01-details-tab.png)
 
 Все поля ввода формы освещены в разделе *Общие элементы*.
 

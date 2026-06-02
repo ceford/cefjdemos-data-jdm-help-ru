@@ -34,13 +34,13 @@
 
 ## Скриншот
 
-![Тип пункта меню - Список всех категорий веб-ссылок](../../../ru/images/menu-items/weblinks-weblink-categories/01-weblinks-list-all-web-link-categories-details-tab.png)
+![Тип пункта меню - Список всех категорий веб-ссылок](../../../ru/images/menu-items/weblinks-weblink-categories/01-details-tab.png)
 
 ## Поля формы
 
 ### Вкладка "Категории"
 
-![Тип пункта меню Список всех категорий веб-ссылок](../../../ru/images/menu-items/weblinks-weblink-categories/02-weblinks-list-all-web-link-categories-categories-tab.png)
+![Тип пункта меню Список всех категорий веб-ссылок](../../../ru/images/menu-items/weblinks-weblink-categories/02-categories-tab.png)
 
 - **Описание категории верхнего уровня** Показать или скрыть описание 
   категории верхнего уровня. Обратите внимание, что это описание может быть 

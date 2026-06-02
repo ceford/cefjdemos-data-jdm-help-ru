@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![вкладка модуля популярных тегов](../../../ru/images/modules-site/site-modules-tags-popular/01-modules-tags-popular-module-tab.png)
+![вкладка модуля популярных тегов](../../../ru/images/modules-site/site-modules-tags-popular/01-module-tab.png)
 
 ## Поля формы
 

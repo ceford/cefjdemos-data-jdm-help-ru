@@ -13,7 +13,7 @@
 
 ## Скриншот
 
-![вкладка интеграции элемента меню](../../../ru/images/menu-items-common/menu-item-integration/01-menu-item-category-blog-integration.png)
+![вкладка интеграции элемента меню](../../../ru/images/menu-items-common/menu-item-integration/01-integration-tab.png)
 
 ## Поля форм
 

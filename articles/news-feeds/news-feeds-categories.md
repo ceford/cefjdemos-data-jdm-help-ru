@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![Список новостных лент](../../../ru/images/news-feeds/news-feeds-categories/01-news-feeds-categories.png)
+![Список новостных лент](../../../ru/images/news-feeds/news-feeds-categories/01-categories-list.png)
 
 *Переведено openai.com*
 

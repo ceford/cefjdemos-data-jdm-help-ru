@@ -4,7 +4,7 @@
 
 Плагины editors-xtd добавляют кнопки в выпадающий список CMS Content в редакторе TinyMCE.
 
-![Пример отображения кнопок в TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-plugin-group-editors-extended.png)
+![Пример отображения кнопок в TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-cms-content-buttons.png)
 
 ### Кнопка - Статья
 

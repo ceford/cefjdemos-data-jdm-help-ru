@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![Редактирование шага в интерактивном туре](../../../ru/images/guided-tours/guided-tours-edit-step/01-guided-tours-edit-step.png)
+![Редактирование шага в интерактивном туре](../../../ru/images/guided-tours/guided-tours-edit-step/01-edit-step-tab.png)
 
 
 ## Поля формы
@@ -79,7 +79,7 @@
 
 ### Вкладка опций
 
-![Опции редактирования шага для руководства](../../../ru/images/guided-tours/guided-tours-edit-step/02-guided-tours-edit-step-options-tab.png)
+![Опции редактирования шага для руководства](../../../ru/images/guided-tours/guided-tours-edit-step/02-options-tab.png)
 
 ## Советы
 

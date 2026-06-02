@@ -8,7 +8,7 @@
 
 Добавьте действия по выделению в переходы рабочего процесса для ваших элементов.
 
-![Форма выделения в рабочем процессе](../../../en/images/plugins/plugin-group-workflow/01-plugin-group-workflow-featuring.png)
+![Форма выделения в рабочем процессе](../../../en/images/plugins/plugin-group-workflow/01-workflow-featuring.png)
 
 - **Белый список расширений**
 - **Чёрный список расширений**

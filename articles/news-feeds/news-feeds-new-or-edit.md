@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![Вкладка редактирования новостных лент](../../../ru/images/news-feeds/news-feeds-new-or-edit/01-news-feeds-edit-tab.png)
+![Вкладка редактирования новостных лент](../../../ru/images/news-feeds/news-feeds-new-or-edit/01-edit-tab.png)
 
 ## Поля Формы
 
@@ -36,7 +36,7 @@
 
 ### Вкладка Параметров
 
-![Вкладка опций новостных лент](../../../ru/images/news-feeds/news-feeds-new-or-edit/02-news-feeds-options-tab.png)
+![Вкладка опций новостных лент](../../../ru/images/news-feeds/news-feeds-new-or-edit/02-options-tab.png)
 
 #### Панель Изображений
 

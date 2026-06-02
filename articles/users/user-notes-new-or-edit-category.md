@@ -22,7 +22,7 @@
 
 ## Скриншот
 
-![список пользовательских заметок](../../../ru/images/users/user-notes-new-or-edit-category/01-users-user-notes-edit-category.png)
+![список пользовательских заметок](../../../ru/images/users/user-notes-new-or-edit-category/01-category-tab.png)
 
 ## Поля формы
 

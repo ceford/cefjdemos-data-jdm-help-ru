@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![модули администраторской панели управления меню модуля вкладка](../../../ru/images/modules-admin/admin-modules-administrator-dashboard-menu/01-modules-administrator-dashboard-menu-module-tab.png)
+![модули администраторской панели управления меню модуля вкладка](../../../ru/images/modules-admin/admin-modules-administrator-dashboard-menu/01-module-tab.png)
 
 ## Поля формы
 

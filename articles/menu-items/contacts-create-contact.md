@@ -32,7 +32,7 @@
 
 ## Скриншот
 
-![Создать контакт в элементе меню](../../../ru/images/menu-items/contacts-create-contact/01-contacts-create-contact-details-tab.png)
+![Создать контакт в элементе меню](../../../ru/images/menu-items/contacts-create-contact/01-details-tab.png)
 
 ## Поля формы
 

@@ -21,7 +21,7 @@
 
 ## Скриншот
 
-![Список шагов по экскурсиям](../../../ru/images/guided-tours/guided-tours-steps/01-guided-tours-steps-list.png)
+![Список шагов по экскурсиям](../../../ru/images/guided-tours/guided-tours-steps/01-steps-list.png)
 
 
 ## Советы

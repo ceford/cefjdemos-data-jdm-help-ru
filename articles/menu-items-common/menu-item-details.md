@@ -11,7 +11,7 @@
 
 ## Скриншот
 
-![информация о пункте меню](../../../ru/images/menu-items-common/menu-item-details/01-menu-item-details.png)
+![информация о пункте меню](../../../ru/images/menu-items-common/menu-item-details/01-details-tab.png)
 
 Скриншоты на страницах справки для каждого типа пункта отличаются в деталях от
 этого скриншота.

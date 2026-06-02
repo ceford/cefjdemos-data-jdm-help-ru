@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![варианты веб-ссылок](../../../ru/images/weblinks/weblinks-options/01-weblinks-options-web-link-tab.png)
+![варианты веб-ссылок](../../../ru/images/weblinks/weblinks-options/01-web-link-tab.png)
 
 ### Вкладка "Веб-ссылка"
 

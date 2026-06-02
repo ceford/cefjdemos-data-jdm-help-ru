@@ -27,7 +27,7 @@
 
 Этот пример — страница *Статьи: Редактировать группу полей*. *Контакты: Редактировать группу полей* и *Пользователи: Редактировать группу полей* аналогичны.
 
-![articles edit field group](../../../ru/images/fields/field-groups-edit/01-articles-edit-field-group.png)
+![articles edit field group](../../../ru/images/fields/field-groups-edit/01-edit-field-group.png)
 
 ## Поля формы
 

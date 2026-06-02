@@ -12,7 +12,7 @@
 
 ## Скриншот
 
-![Вкладка макета блога элемента меню](../../../ru/images/menu-items-common/menu-item-blog-layout/01-articles-category-blog-blog-layout-tab.png)
+![Вкладка макета блога элемента меню](../../../ru/images/menu-items-common/menu-item-blog-layout/01-blog-layout-tab.png)
 
 ## Поля Формы
 

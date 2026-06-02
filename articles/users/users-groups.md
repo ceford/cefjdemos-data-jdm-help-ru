@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![пользователи группы](../../../ru/images/users/users-groups/01-users-groups-list.png)
+![пользователи группы](../../../ru/images/users/users-groups/01-groups-list.png)
 
 ## Советы
 

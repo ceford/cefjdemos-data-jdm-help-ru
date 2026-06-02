@@ -8,7 +8,7 @@
 
 Редактор CodeMirror – это редактор кода, который предоставляет более подходящий инструмент для работы с исходным кодом. Он поддерживает подсветку синтаксиса кода для многих языков программирования. Он может показывать некорректные теги и также помогает поддерживать консистентное отступление кода.
 
-![Форма опций Code mirror](../../../en/images/plugins/plugin-group-editors-txt/01-plugin-group-editor-codemirror.png)
+![Форма опций Code mirror](../../../en/images/plugins/plugin-group-editors-txt/01-editor-codemirror-plugin-tab.png)
 
 - **Номера строк** Отображать номера строк в редакторе.
 - **Сворачивание кода** Позволяет блокам кода сворачиваться.
@@ -23,7 +23,7 @@
 - **Переключение полноэкранного режима** Выберите клавишу, которую использовать для включения полноэкранного режима.
 - **Использование модификаторов** Выберите любые клавиши-модификаторы для использования с клавишей переключения полноэкранного режима.
 
-![Форма расширенных опций Code mirror](../../../en/images/plugins/plugin-group-editors-txt/02-plugin-group-editor-codemirror-advanced.png)
+![Форма расширенных опций Code mirror](../../../en/images/plugins/plugin-group-editors-txt/02-codemirror-appearance-options-tab.png)
 
 - **Тема** Устанавливает цвета для редактора.
 - **Цвет активной строки** Цвет для подсветки активной строки. Будет отображен с непрозрачностью 50%.
@@ -42,7 +42,7 @@
 
 Редактор TinyMCE – это WYSIWYG-редактор и является редактором по умолчанию для ввода HTML в Joomla!.
 
-![Форма опций плагина TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/03-plugin-group-editor-tinymce.png)
+![Форма опций плагина TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/03-editor-tinymce-plugin-tab.png)
 
 - **Установить вкладки выбора** Выберите функциональность *Set 2*, *Set 1* или *Set 0*. С выбранной функцией *Set 2* вы видите редактор для использования *Public*. *Set 1* выбран по умолчанию для Managers и Registered, *Set 0* выбран по умолчанию для Administrators, Editors и Super Users.
 
@@ -77,7 +77,7 @@
 
 #### Расширенная вкладка TinyMCE
 
-![Форма расширенных опций TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/04-plugin-group-editor-tinymce-advanced.png)
+![Форма расширенных опций TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/04-tinymce-advanced-tab.png)
 
 - **Количества наборов** Количество наборов, которые можно создать. Минимум 3.
 - **Высота HTML** Высота, в пикселях, всплывающего окна режима HTML.

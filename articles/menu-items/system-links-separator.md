@@ -31,7 +31,7 @@
 
 ## Скриншот
 
-![Псевдоним пункта меню](../../../ru/images/menu-items/system-links-separator/01-system-links-separator-details-tab.png)
+![Псевдоним пункта меню](../../../ru/images/menu-items/system-links-separator/01-details-tab.png)
 
 Все поля ввода формы описаны в *Общих элементах*.
 

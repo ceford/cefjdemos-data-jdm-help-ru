@@ -28,7 +28,7 @@
 
 ## Скриншот
 
-![Список многоязычных ассоциаций](../../../ru/images/multilingual-associations/multilingual-associations/01-multilingual-associations-list.png)
+![Список многоязычных ассоциаций](../../../ru/images/multilingual-associations/multilingual-associations/01-associations-list.png)
 
 На этом скриншоте статья связана со статьей на другом языке. Список содержит только те элементы, для которых установлен язык. Любые статьи с языком, установленным на *Все*, будут отсутствовать.
 

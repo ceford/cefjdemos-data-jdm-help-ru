@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![умный поиск индексированного контента](../../../ru/images/smart-search/smart-search-indexed-content/01-smart-search-indexed-content.png)
+![умный поиск индексированного контента](../../../ru/images/smart-search/smart-search-indexed-content/01-indexed-content.png)
 
 ## Создание индекса
 

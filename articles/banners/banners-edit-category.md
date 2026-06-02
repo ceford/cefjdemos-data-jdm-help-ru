@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![Редактирование категории баннеров](../../../ru/images/banners/banners-edit-category/01-banners-edit-category-category-tab.png)
+![Редактирование категории баннеров](../../../ru/images/banners/banners-edit-category/01-category-tab.png)
 
 Смотрите Общие Элементы для дополнительной информации.
 *Переведено openai.com*

@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![модули отображения ленты вкладки модуля](../../../ru/images/modules-admin/admin-modules-feed-display/01-modules-feed-display-module-tab.png)
+![модули отображения ленты вкладки модуля](../../../ru/images/modules-admin/admin-modules-feed-display/01-module-tab.png)
 
 ## Поля Формы
 

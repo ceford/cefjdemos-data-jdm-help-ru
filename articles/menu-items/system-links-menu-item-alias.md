@@ -32,7 +32,7 @@
 
 ## Скриншот
 
-![Алиас пункта меню](../../../ru/images/menu-items/system-links-menu-item-alias/01-system-links-menu-item-alias-details-tab.png)
+![Алиас пункта меню](../../../ru/images/menu-items/system-links-menu-item-alias/01-details-tab.png)
 
 Все поля ввода формы рассматриваются в разделе *Общие элементы*.
 

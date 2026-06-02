@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![вкладка модуля панели конфиденциальности модулей](../../../ru/images/modules-admin/admin-modules-privacy-dashboard/01-modules-privacy-dashboard-module-tab.png)
+![вкладка модуля панели конфиденциальности модулей](../../../ru/images/modules-admin/admin-modules-privacy-dashboard/01-module-tab.png)
 
 ## Поля формы
 

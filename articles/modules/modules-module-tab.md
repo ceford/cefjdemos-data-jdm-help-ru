@@ -6,7 +6,7 @@
 
 ## Скриншот
 
-![журнал действий вкладка последнего модуля](../../../ru/images/modules/modules-module-tab/01-modules-custom-module-tab.png)
+![журнал действий вкладка последнего модуля](../../../ru/images/modules/modules-module-tab/01-module-tab.png)
 
 ## Поля формы
 

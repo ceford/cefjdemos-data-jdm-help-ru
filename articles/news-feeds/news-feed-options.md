@@ -19,7 +19,7 @@
 
 ## Скриншот
 
-![Опции новостных лент вкладка новостной ленты](../../../ru/images/news-feeds/news-feed-options/01-news-feeds-options-news-feed-tab.png)
+![Опции новостных лент вкладка новостной ленты](../../../ru/images/news-feeds/news-feed-options/01-news-feed-tab.png)
 
 ## Поля формы
 
@@ -51,7 +51,7 @@
 
 ### Вкладка категории
 
-![Опции категорий новостных лент](../../../ru/images/news-feeds/news-feed-options/02-news-feeds-options-category-tab.png)
+![Опции категорий новостных лент](../../../ru/images/news-feeds/news-feed-options/02-category-tab.png)
 
 - **Выбрать макет** Выберите Блог, Список или пользовательский макет для
   отображения по умолчанию при выборе ссылки на категорию.
@@ -70,7 +70,7 @@
 
 ### Вкладка категорий
 
-![Опции категорий новостных лент](../../../ru/images/news-feeds/news-feed-options/03-news-feeds-options-categories-tab.png)
+![Опции категорий новостных лент](../../../ru/images/news-feeds/news-feed-options/03-categories-tab.png)
 
 - **Описание категории верхнего уровня** Показать или скрыть описание
   категории верхнего уровня.
@@ -83,7 +83,7 @@
 
 ### Вкладка макетов списка
 
-![Опции макетов списков новостных лент](../../../ru/images/news-feeds/news-feed-options/04-news-feeds-options-list-layouts-tab.png)
+![Опции макетов списков новостных лент](../../../ru/images/news-feeds/news-feed-options/04-list-layouts-tab.png)
 
 - **Поле фильтрации** Поле фильтрации создает текстовое поле, в которое
   пользователь может ввести текст для фильтрации отображаемых статей в списке.
@@ -106,7 +106,7 @@
 
 ### Вкладка интеграции
 
-![Опции интеграции новостных лент](../../../ru/images/news-feeds/news-feed-options/05-news-feeds-options-integration-tab.png)
+![Опции интеграции новостных лент](../../../ru/images/news-feeds/news-feed-options/05-integration-tab.png)
 
 - **Удалить ID из URL** Показывать или скрывать идентификатор базы данных
   новостной ленты в ссылке.

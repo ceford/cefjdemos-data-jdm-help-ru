@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![вкладка модуля навигационной цепочки](../../../ru/images/modules-site/site-modules-breadcrumbs/01-modules-breadcrumbs-module-tab.png)
+![вкладка модуля навигационной цепочки](../../../ru/images/modules-site/site-modules-breadcrumbs/01-module-tab.png)
 
 ## Поля формы
 

@@ -26,7 +26,7 @@
 
 ## Скриншот
 
-![вкладка модуля отображения фида](../../../ru/images/modules-site/site-modules-feed-display/01-modules-feed-display-module-tab.png)
+![вкладка модуля отображения фида](../../../ru/images/modules-site/site-modules-feed-display/01-module-tab.png)
 
 ## Поля Формы
 

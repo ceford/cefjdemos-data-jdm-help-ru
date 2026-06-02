@@ -28,7 +28,7 @@
 
 ## Скриншот
 
-![вкладка модуля похожих тегов](../../../ru/images/modules-site/site-modules-tags-similar/01-modules-tags-similar-module-tab.png)
+![вкладка модуля похожих тегов](../../../ru/images/modules-site/site-modules-tags-similar/01-module-tab.png)
 
 ## Поля Формы
 

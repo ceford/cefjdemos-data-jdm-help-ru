@@ -20,7 +20,7 @@
 
 ## Скриншот
 
-![глобальная проверка обслуживания](../../../ru/images/maintenance/maintenance-global-check-in/01-maintenance-global-check-in.png)
+![глобальная проверка обслуживания](../../../ru/images/maintenance/maintenance-global-check-in/01-check-in-list.png)
 
 ## Советы
 

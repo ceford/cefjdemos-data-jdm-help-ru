@@ -14,7 +14,7 @@
 
 Экраны администратора и шаблонов сайта используют одинаковую раскладку. Здесь показан экран шаблонов сайта.
 
-![кастомизация шаблонов, вкладка редактора Cassiopeia](../../../ru/images/templates/templates-customise/01-templates-customise-cassiopeia-editor-tab.png)
+![кастомизация шаблонов, вкладка редактора Cassiopeia](../../../ru/images/templates/templates-customise/01-editor-tab.png)
 
 ## Поля Формы
 
@@ -24,13 +24,13 @@
 
 ### Вкладка Создания Переопределений
 
-![шаблоны настройки cassiopeia вкладка создания переопределений](../../../ru/images/templates/templates-customise/02-templates-customise-cassiopeia-create-overrides-tab.png)
+![шаблоны настройки cassiopeia вкладка создания переопределений](../../../ru/images/templates/templates-customise/02-create-overrides-tab.png)
 
 - Выберите элемент для переопределения. Элементы, отмеченные значком сплошного файла, открываются для отображения списка элементов. Элементы, отмеченные наложенными значками открытой и заполненной страницы, создают переопределение сразу, без подтверждения. Переопределение размещается в соответствующем месте. Появляется сообщение с подтверждением, например: *Переопределение создано в /templates/cassiopeia/html/mod_whosonline*.
 
 ### Вкладка Обновленных Файлов
 
-![шаблоны настройки cassiopeia вкладка обновленных файлов](../../../ru/images/templates/templates-customise/03-templates-customise-cassiopeia-updated-files-tab.png)
+![шаблоны настройки cassiopeia вкладка обновленных файлов](../../../ru/images/templates/templates-customise/03-updated-files-tab.png)
 
 Если после создания переопределений в шаблоне не было обновлений, эта вкладка будет содержать простое сообщение:
 
@@ -42,7 +42,7 @@
 
 ### Вкладка Описания Шаблона
 
-![шаблоны настройки cassiopeia вкладка описания шаблона](../../../ru/images/templates/templates-customise/04-templates-customise-cassiopeia-template-description-tab.png)
+![шаблоны настройки cassiopeia вкладка описания шаблона](../../../ru/images/templates/templates-customise/04-template-description-tab.png)
 
 - **Миниатюра и Описание** Информация об этом шаблоне.
 

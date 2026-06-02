@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![модули поддержки входа информация модуль вкладка](../../../ru/images/modules-admin/admin-modules-login-support-information/01-modules-login-support-information-module-tab.png)
+![модули поддержки входа информация модуль вкладка](../../../ru/images/modules-admin/admin-modules-login-support-information/01-module-tab.png)
 
 ## Поля формы
 

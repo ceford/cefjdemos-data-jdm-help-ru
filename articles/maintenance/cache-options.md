@@ -18,7 +18,7 @@
 
 ## Скриншот
 
-![Параметры кэша](../../../ru/images/maintenance/cache-options/01-cache-options.png)
+![Параметры кэша](../../../ru/images/maintenance/cache-options/01-permissions-tab.png)
 
 ## Советы
 

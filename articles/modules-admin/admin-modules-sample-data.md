@@ -24,7 +24,7 @@
 
 ## Скриншот
 
-![модули пример данных модуль вкладка](../../../ru/images/modules-admin/admin-modules-sample-data/01-modules-sample-data-module-tab.png)
+![модули пример данных модуль вкладка](../../../ru/images/modules-admin/admin-modules-sample-data/01-module-tab.png)
 
 ## Поля формы
 

@@ -32,13 +32,13 @@
 
 ## Скриншот
 
-![Вкладка деталей обертки Iframe](../../../ru/images/menu-items/wrapper-iframe-wrapper/01-wrapper-iframe-wrapper-details-tab.png)
+![Вкладка деталей обертки Iframe](../../../ru/images/menu-items/wrapper-iframe-wrapper/01-details-tab.png)
 
 ## Поля формы
 
 ### Вкладка параметров полосы прокрутки
 
-![Вкладка параметров полосы прокрутки обертки Iframe](../../../ru/images/menu-items/wrapper-iframe-wrapper/02-wrapper-scroll-bar-parameters-tab.png)
+![Вкладка параметров полосы прокрутки обертки Iframe](../../../ru/images/menu-items/wrapper-iframe-wrapper/02-scroll-bar-parameters-tab.png)
 
 - **Ширина** Ширина окна IFrame. Введите количество пикселей или
   процент. Например, *550* означает 550 пикселей; *75%* означает 75% от
@@ -49,7 +49,7 @@
 
 ### Расширенная вкладка
 
-![Расширенная вкладка обертки Iframe](../../../ru/images/menu-items/wrapper-iframe-wrapper/03-wrapper-advanced-tab.png)
+![Расширенная вкладка обертки Iframe](../../../ru/images/menu-items/wrapper-iframe-wrapper/03-advanced-tab.png)
 
 - **Авто высота** Автоматически устанавливать высоту на высоту внешней страницы.
   *Примечание* - это сработает только если внешняя страница находится в **том же

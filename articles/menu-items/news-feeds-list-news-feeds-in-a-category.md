@@ -34,13 +34,13 @@
 
 ## Снимок экрана
 
-![Список новостей в категории на вкладке с деталями](../../../ru/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-news-feeds-list-newsfeeds-in-a-category-details-tab.png)
+![Список новостей в категории на вкладке с деталями](../../../ru/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-details-tab.png)
 
 ## Поля Формы
 
 ### Вкладка Параметры Отображения Ленты
 
-![Вкладка деталей элементов меню, список новостных лент в категории](../../../ru/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
+![Вкладка деталей элементов меню, список новостных лент в категории](../../../ru/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-feed-display-options-tab.png)
 
 - **Изображение ленты** Показать или скрыть изображение новостных лент.
 - **Описание ленты** Показать или скрыть описание новостной ленты.

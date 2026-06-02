@@ -6,7 +6,7 @@
 
 ## Скриншот
 
-![Вкладка "Дополнительно" для модулей](../../../ru/images/modules/modules-advanced-tab/01-modules-custom-advanced-tab.png)
+![Вкладка "Дополнительно" для модулей](../../../ru/images/modules/modules-advanced-tab/01-advanced-tab.png)
 
 ## Поля формы
 
