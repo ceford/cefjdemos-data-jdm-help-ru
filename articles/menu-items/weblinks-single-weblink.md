@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Single_Weblink / Display title: Одно веб-ссылка -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Single_Weblink",
+  "title": "Одно веб-ссылка ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

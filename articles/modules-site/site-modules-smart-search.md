@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Smart_Search / Display title: Модули: Умный поиск  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Smart_Search",
+  "title": "Модули: Умный поиск  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

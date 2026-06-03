@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Component:_Field_Groups / Display title: Компонент: Группы полей -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Component:_Field_Groups",
+  "title": "Компонент: Группы полей ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

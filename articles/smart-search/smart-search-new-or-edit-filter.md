@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_New_or_Edit_Filter / Display title: Умный поиск: новый или редактировать фильтр   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_New_or_Edit_Filter",
+  "title": "Умный поиск: новый или редактировать фильтр   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

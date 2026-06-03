@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_Categories / Display title: Перечислить все категории -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories",
+  "title": "Перечислить все категории ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

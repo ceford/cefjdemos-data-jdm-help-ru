@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Global_Check-in / Display title: Техническое обслуживание: Всемирная регистрация -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
+  "title": "Техническое обслуживание: Всемирная регистрация ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

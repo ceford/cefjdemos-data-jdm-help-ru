@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Single_Article / Display title: Одна статья  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article",
+  "title": "Одна статья  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

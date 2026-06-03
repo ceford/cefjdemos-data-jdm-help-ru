@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds:_Categories / Display title: Новостные ленты: Категории  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds:_Categories",
+  "title": "Новостные ленты: Категории  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Clear_Cache / Display title: Обслуживание: Очистка кэша   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Clear_Cache",
+  "title": "Обслуживание: Очистка кэша   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

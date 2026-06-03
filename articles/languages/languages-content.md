@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Content / Display title: Языки: Содержание  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Content",
+  "title": "Языки: Содержание  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_Edit / Display title: Баннеры: Редактировать   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_Edit",
+  "title": "Баннеры: Редактировать   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:List_Column_Headers / Display title: Заголовки столбцов списка -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:List_Column_Headers",
+  "title": "Заголовки столбцов списка ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Цель
 

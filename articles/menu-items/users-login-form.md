@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Login_Form / Display title: Форма входа  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Login_Form",
+  "title": "Форма входа  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

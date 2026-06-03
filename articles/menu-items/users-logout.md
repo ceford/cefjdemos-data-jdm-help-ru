@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Logout / Display title: Выйти из системы  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Logout",
+  "title": "Выйти из системы  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

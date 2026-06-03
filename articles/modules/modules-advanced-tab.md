@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Advanced_Tab / Display title: Модули: Вкладка «Дополнительно»   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Advanced_Tab",
+  "title": "Модули: Вкладка «Дополнительно»   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

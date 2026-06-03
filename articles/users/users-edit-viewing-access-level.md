@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Edit_Viewing_Access_Level / Display title: Пользователи: Изменить уровень доступа к просмотру -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level",
+  "title": "Пользователи: Изменить уровень доступа к просмотру ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

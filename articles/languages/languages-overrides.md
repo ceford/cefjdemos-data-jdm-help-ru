@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Overrides / Display title: Языки: переопределения -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Overrides",
+  "title": "Языки: переопределения ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

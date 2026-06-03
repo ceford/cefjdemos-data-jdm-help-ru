@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Associations / Display title: Связи пунктов меню  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Associations",
+  "title": "Связи пунктов меню  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

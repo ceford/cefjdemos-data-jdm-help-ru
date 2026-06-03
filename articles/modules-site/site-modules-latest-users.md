@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Latest_Users / Display title: Модули: Последние пользователи  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Latest_Users",
+  "title": "Модули: Последние пользователи  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

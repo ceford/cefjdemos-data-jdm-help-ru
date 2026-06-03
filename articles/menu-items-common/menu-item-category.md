@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Category / Display title: Категория пункта меню -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Category",
+  "title": "Категория пункта меню ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

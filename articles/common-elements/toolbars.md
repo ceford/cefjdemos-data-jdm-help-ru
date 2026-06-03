@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Toolbars / Display title: Панели инструментов -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Toolbars",
+  "title": "Панели инструментов ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Цель
 

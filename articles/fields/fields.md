@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Component:_Fields / Display title: Компонент: Поля  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Component:_Fields",
+  "title": "Компонент: Поля  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

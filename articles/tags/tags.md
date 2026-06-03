@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags / Display title: Теги  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags",
+  "title": "Теги  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

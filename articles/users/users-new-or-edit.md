@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Edit_Profile / Display title: Пользователи: новый или редактирование  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Profile",
+  "title": "Пользователи: новый или редактирование  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

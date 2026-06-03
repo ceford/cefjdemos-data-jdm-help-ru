@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Weblinks:_Options / Display title: Параметры веб-ссылок  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Weblinks:_Options",
+  "title": "Параметры веб-ссылок  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

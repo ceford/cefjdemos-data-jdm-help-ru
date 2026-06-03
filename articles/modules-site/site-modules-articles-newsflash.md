@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Newsflash / Display title: Модули: Статьи - Краткие новости -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Newsflash",
+  "title": "Модули: Статьи - Краткие новости ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

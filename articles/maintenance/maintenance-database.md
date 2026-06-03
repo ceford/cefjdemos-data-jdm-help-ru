@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Information:_Database / Display title: Техническое обслуживание: База данных  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Information:_Database",
+  "title": "Техническое обслуживание: База данных  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Options / Display title: Конфиденциальность: Опции  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Options",
+  "title": "Конфиденциальность: Опции  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

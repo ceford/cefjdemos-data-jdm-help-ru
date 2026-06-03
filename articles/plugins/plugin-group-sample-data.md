@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group / Display title: Пример группы данных  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group",
+  "title": "Пример группы данных  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание группы
 

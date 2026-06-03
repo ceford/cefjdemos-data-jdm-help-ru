@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Weblink_Submit / Display title: Отправить веб-ссылку -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Submit",
+  "title": "Отправить веб-ссылку ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

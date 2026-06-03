@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Single_News_Feed / Display title: Единая новостная лента  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Single_News_Feed",
+  "title": "Единая новостная лента  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

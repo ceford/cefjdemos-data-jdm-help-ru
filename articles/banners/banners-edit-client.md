@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_New_or_Edit_Client / Display title: Баннеры: Редактировать клиента  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client",
+  "title": "Баннеры: Редактировать клиента  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

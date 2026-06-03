@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Media:_Options / Display title: Средства массовой информации: Варианты -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Media:_Options",
+  "title": "Средства массовой информации: Варианты ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

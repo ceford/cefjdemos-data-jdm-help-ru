@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions_Module_Manager_Weblinks / Display title: Модули: Веб-ссылки   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Weblinks",
+  "title": "Модули: Веб-ссылки   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

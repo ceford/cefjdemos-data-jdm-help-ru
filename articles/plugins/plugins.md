@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Plugins / Display title: Плагины -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Plugins",
+  "title": "Плагины ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

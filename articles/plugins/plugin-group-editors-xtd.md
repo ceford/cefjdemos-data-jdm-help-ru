@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group / Display title: Группа кнопок Editors Xtd  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group",
+  "title": "Группа кнопок Editors Xtd  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание группы
 

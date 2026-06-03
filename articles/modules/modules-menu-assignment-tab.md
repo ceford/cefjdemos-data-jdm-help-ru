@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Menu_Assignment_Tab / Display title: Модули: Вкладка Назначение Меню  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Menu_Assignment_Tab",
+  "title": "Модули: Вкладка Назначение Меню  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

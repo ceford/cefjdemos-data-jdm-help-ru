@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Install / Display title: Расширения: Установка -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Install",
+  "title": "Расширения: Установка ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

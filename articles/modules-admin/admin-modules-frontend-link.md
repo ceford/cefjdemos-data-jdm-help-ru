@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Frontend_Link / Display title: Модули: Ссылка на фронтенд -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Frontend_Link",
+  "title": "Модули: Ссылка на фронтенд ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirect:_Options / Display title: Перенаправление: Опции   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirect:_Options",
+  "title": "Перенаправление: Опции   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Plugin:_Options / Display title: Плагин: Опции  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Plugin:_Options",
+  "title": "Плагин: Опции  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

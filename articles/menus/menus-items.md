@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus:_Items / Display title: Меню: Пункты  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus:_Items",
+  "title": "Меню: Пункты  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

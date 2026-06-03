@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Components_Menu_Container / Display title: Пункт меню: Компоненты контейнера меню  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Components_Menu_Container",
+  "title": "Пункт меню: Компоненты контейнера меню  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

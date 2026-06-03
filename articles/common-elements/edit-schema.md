@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Schema / Display title: Изменить схему -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Schema",
+  "title": "Изменить схему ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Цель
 

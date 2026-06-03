@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Post-installation_Messages_for_Joomla_CMS / Display title: Сообщения после установки для Joomla CMS   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Post-installation_Messages_for_Joomla_CMS",
+  "title": "Сообщения после установки для Joomla CMS   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

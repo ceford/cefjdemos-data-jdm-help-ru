@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Control_Panel / Display title: Домашняя панель мониторинга   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Control_Panel",
+  "title": "Домашняя панель мониторинга   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Category_Blog / Display title: Категория Блог -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog",
+  "title": "Категория Блог ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

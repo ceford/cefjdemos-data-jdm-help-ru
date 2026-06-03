@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Who%27s_Online / Display title: Модули: Кто в сети -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Who%27s_Online",
+  "title": "Модули: Кто в сети ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

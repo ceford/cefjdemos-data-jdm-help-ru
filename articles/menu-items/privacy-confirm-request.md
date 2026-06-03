@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Confirm_Request / Display title: Пункт меню: Подтвердить запрос -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Confirm_Request",
+  "title": "Пункт меню: Подтвердить запрос ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

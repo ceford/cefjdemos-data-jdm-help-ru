@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Request / Display title: Пункт меню: Создать запрос  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Request",
+  "title": "Пункт меню: Создать запрос  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

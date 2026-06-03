@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Update_Site / Display title: Изменить сайт обновления -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Update_Site",
+  "title": "Изменить сайт обновления ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

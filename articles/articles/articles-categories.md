@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Categories / Display title: Статьи: Категории -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Categories",
+  "title": "Статьи: Категории ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

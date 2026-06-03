@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Private_Messages:_Read / Display title: Личные сообщения: Просмотр  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Private_Messages:_Read",
+  "title": "Личные сообщения: Просмотр  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

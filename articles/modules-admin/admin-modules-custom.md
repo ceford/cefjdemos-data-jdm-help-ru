@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Custom / Display title: Модули: Пользовательские  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Custom",
+  "title": "Модули: Пользовательские  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

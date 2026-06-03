@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Metadata / Display title: Метаданные элемента меню -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Metadata",
+  "title": "Метаданные элемента меню ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

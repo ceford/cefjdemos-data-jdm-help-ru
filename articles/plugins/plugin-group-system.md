@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_System_Group / Display title: Системная группа   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_System_Group",
+  "title": "Системная группа   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание группы
 

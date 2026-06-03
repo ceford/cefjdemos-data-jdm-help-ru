@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_Contact_Categories / Display title: Перечислить все категории контактов -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Contact_Categories",
+  "title": "Перечислить все категории контактов ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

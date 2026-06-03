@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Information_Requests / Display title: Конфиденциальность: Запросы информации  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Information_Requests",
+  "title": "Конфиденциальность: Запросы информации  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

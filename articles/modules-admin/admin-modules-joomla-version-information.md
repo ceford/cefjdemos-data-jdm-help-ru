@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Joomla_Version_Information / Display title: Модули: Информация о версии Joomla -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Joomla_Version_Information",
+  "title": "Модули: Информация о версии Joomla ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

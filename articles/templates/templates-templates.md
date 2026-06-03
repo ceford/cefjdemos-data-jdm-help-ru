@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Templates / Display title: Шаблоны: Шаблоны   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Templates",
+  "title": "Шаблоны: Шаблоны   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

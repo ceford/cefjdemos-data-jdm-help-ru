@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group / Display title: Группа Файндер -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group",
+  "title": "Группа Файндер ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание группы
 

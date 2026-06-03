@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Weblinks_Links_Edit / Display title: Веб-ссылка: Редактировать   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Links_Edit",
+  "title": "Веб-ссылка: Редактировать   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

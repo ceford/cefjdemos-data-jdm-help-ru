@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Help_screens_styleguide / Display title: Руководство по стилю экранов помощи -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
+  "title": "Руководство по стилю экранов помощи ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Это руководство по стилю для установки Joomla MediaWiki (docs.joomla.org).

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Check-in:_Options / Display title: Регистрация: Варианты -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Check-in:_Options",
+  "title": "Регистрация: Варианты ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

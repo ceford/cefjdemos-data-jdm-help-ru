@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group / Display title: Журнал действий группы  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group",
+  "title": "Журнал действий группы  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание группы
 

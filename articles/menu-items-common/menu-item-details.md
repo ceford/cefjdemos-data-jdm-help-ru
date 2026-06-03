@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Details / Display title: Детали Пункта Меню -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Details",
+  "title": "Детали Пункта Меню ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

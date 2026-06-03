@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Weblinks_Categories_Edit / Display title: Веб-ссылки: Редактировать категорию  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Categories_Edit",
+  "title": "Веб-ссылки: Редактировать категорию  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Content_Maps / Display title: Умный поиск: Карты контента   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Content_Maps",
+  "title": "Умный поиск: Карты контента   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Component:_New_or_Edit_Field_Group / Display title: Компонент: Группа редактирования полей  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Component:_New_or_Edit_Field_Group",
+  "title": "Компонент: Группа редактирования полей  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

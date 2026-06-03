@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Login_Support_Information / Display title: Модули: Информация по Поддержке Входа в Систему -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Login_Support_Information",
+  "title": "Модули: Информация по Поддержке Входа в Систему ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

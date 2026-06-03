@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Extend_Consent / Display title: Пункт меню: Продлить согласие -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Extend_Consent",
+  "title": "Пункт меню: Продлить согласие ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

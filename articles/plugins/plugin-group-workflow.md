@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group / Display title: Группа рабочего процесса  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group",
+  "title": "Группа рабочего процесса  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание группы
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Featured / Display title: Статьи: Рекомендуемые -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Featured",
+  "title": "Статьи: Рекомендуемые ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

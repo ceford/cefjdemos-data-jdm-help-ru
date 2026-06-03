@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Separator / Display title: Разделитель  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Separator",
+  "title": "Разделитель  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

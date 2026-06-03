@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Options / Display title: Пользователи: Настройки  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Options",
+  "title": "Пользователи: Настройки  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours / Display title: Экскурсии с гидом -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours",
+  "title": "Экскурсии с гидом ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

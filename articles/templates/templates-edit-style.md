@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Edit_Style / Display title: Шаблоны: Редактировать стиль  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Edit_Style",
+  "title": "Шаблоны: Редактировать стиль  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

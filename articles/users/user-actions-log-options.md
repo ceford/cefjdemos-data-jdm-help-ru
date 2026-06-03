@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Actions_Log:_Options / Display title: Журнал действий пользователя: Параметры  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Actions_Log:_Options",
+  "title": "Журнал действий пользователя: Параметры  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

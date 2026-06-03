@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Logged-in_Users / Display title: Модули: Авторизованные пользователи  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Logged-in_Users",
+  "title": "Модули: Авторизованные пользователи  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

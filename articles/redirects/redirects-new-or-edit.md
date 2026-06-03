@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirects:_New_or_Edit / Display title: Перенаправления: Создать или Изменить  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirects:_New_or_Edit",
+  "title": "Перенаправления: Создать или Изменить  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

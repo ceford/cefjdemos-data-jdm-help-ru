@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit / Display title: Заметки пользователя: Создать или изменить  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit",
+  "title": "Заметки пользователя: Создать или изменить  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

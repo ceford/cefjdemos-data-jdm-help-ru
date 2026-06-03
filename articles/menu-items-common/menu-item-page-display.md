@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Page_Display / Display title: Отображение страницы элемента меню  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Page_Display",
+  "title": "Отображение страницы элемента меню  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

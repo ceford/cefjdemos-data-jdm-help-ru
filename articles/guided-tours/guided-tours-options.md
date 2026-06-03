@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours:_Options / Display title: Экскурсии: Варианты -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_Options",
+  "title": "Экскурсии: Варианты ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

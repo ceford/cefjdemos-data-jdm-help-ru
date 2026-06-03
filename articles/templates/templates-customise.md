@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise / Display title: Шаблоны: Настройка   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise",
+  "title": "Шаблоны: Настройка   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

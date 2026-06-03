@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Privacy_Status_Check / Display title: Модули: Проверка статуса конфиденциальности   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Status_Check",
+  "title": "Модули: Проверка статуса конфиденциальности   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

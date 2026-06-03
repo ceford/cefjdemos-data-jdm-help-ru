@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Fields:_Edit / Display title: Компонент: Поле редактирования  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
+  "title": "Компонент: Поле редактирования  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

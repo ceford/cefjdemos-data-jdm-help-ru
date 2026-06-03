@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_Tags / Display title: Список всех тегов   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Tags",
+  "title": "Список всех тегов   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

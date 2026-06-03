@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Stages_List:_Basic_Workflow / Display title: Этапы: Базовый рабочий процесс -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Stages_List:_Basic_Workflow",
+  "title": "Этапы: Базовый рабочий процесс ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

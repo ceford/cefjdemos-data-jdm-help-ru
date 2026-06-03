@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Alias / Display title: Псевдоним Пункта Меню  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Alias",
+  "title": "Псевдоним Пункта Меню  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

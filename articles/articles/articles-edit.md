@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Edit / Display title: Статьи: Редактирование -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Edit",
+  "title": "Статьи: Редактирование ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy_Dashboard / Display title: Панель конфиденциальности  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy_Dashboard",
+  "title": "Панель конфиденциальности  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

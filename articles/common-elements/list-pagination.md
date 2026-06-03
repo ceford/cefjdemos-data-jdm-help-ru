@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Pagination / Display title: Разбиение списка на страницы -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Pagination",
+  "title": "Разбиение списка на страницы ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Цель¶
 

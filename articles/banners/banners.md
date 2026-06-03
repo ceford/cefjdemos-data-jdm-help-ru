@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners / Display title: Баннеры -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners",
+  "title": "Баннеры ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

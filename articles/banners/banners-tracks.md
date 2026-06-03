@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_Tracks / Display title: Баннеры: Треки -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_Tracks",
+  "title": "Баннеры: Треки ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Tags_-_Similar / Display title: Модули: Теги - Похожие -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Tags_-_Similar",
+  "title": "Модули: Теги - Похожие ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Post-installation_Messages:_Options / Display title: Сообщения после установки: Опции -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Post-installation_Messages:_Options",
+  "title": "Сообщения после установки: Опции ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

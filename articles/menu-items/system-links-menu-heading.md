@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Heading / Display title: Заголовок меню -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
+  "title": "Заголовок меню ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

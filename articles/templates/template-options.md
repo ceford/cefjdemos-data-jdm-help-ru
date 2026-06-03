@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Template:_Options / Display title: Шаблон: Опции -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Template:_Options",
+  "title": "Шаблон: Опции ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

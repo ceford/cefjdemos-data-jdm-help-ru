@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_List_Layouts / Display title: Раскладки списка пунктов меню  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_List_Layouts",
+  "title": "Раскладки списка пунктов меню  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

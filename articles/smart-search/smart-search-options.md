@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Options / Display title: Умный поиск: Опции -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Options",
+  "title": "Умный поиск: Опции ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

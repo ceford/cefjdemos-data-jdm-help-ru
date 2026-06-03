@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Ordering / Display title: Порядок в списке  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Ordering",
+  "title": "Порядок в списке  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Когда Порядок Важен
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Breadcrumbs / Display title: Модули: Хлебные крошки   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs",
+  "title": "Модули: Хлебные крошки   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

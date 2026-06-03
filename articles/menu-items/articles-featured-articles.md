@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Featured_Articles / Display title: Рекомендуемые статьи -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles",
+  "title": "Рекомендуемые статьи ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

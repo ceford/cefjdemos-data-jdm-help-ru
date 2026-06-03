@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Tags_-_Popular / Display title: Модули: Теги - Популярные  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Tags_-_Popular",
+  "title": "Модули: Теги - Популярные  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

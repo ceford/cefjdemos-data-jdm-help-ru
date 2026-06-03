@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus:_Edit / Display title: Меню: Редактировать -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus:_Edit",
+  "title": "Меню: Редактировать ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

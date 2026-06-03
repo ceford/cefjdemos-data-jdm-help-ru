@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Module_Tab / Display title: Модули: Вкладка Модули  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Module_Tab",
+  "title": "Модули: Вкладка Модули  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise_Source / Display title: Шаблоны: Настройка источника -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
+  "title": "Шаблоны: Настройка источника ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Эта страница отображается в списке страниц Справки, но не используется через кнопку Справки.

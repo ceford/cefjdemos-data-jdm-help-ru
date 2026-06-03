@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags:_Options / Display title: Теги: Опции -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags:_Options",
+  "title": "Теги: Опции ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

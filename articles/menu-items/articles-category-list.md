@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Category_List / Display title: Список категорий  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Category_List",
+  "title": "Список категорий  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

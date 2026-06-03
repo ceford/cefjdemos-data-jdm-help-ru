@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Discover / Display title: Расширения: Обзор   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Discover",
+  "title": "Расширения: Обзор   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

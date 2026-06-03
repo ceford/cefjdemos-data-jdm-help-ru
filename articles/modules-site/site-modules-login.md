@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Login / Display title: Модули: Вход в систему -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Login",
+  "title": "Модули: Вход в систему ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

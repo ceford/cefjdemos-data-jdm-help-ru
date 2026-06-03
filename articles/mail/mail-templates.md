@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mail_Templates / Display title: Шаблоны писем -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mail_Templates",
+  "title": "Шаблоны писем ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Languages / Display title: Расширения: Языки -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Languages",
+  "title": "Расширения: Языки ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

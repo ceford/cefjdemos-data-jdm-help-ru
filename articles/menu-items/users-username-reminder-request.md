@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Username_Reminder_Request / Display title: Запрос на Напоминание Имени Пользователя  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Username_Reminder_Request",
+  "title": "Запрос на Напоминание Имени Пользователя  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

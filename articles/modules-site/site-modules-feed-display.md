@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Feed_Display / Display title: Модули: Отображение Ленты -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Feed_Display",
+  "title": "Модули: Отображение Ленты ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

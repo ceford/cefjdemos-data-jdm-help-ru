@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Weblink_Category / Display title: Перечислить веб-ссылки в категории  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Category",
+  "title": "Перечислить веб-ссылки в категории  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

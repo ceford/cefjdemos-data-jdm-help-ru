@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Wrapper / Display title: Модули: Оболочка  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Wrapper",
+  "title": "Модули: Оболочка  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

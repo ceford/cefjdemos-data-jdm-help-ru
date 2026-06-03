@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Integration / Display title: Интеграция пунктов меню  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Integration",
+  "title": "Интеграция пунктов меню  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Options_Tab / Display title: Модули: Вкладка «Параметры»   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Options_Tab",
+  "title": "Модули: Вкладка «Параметры»   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

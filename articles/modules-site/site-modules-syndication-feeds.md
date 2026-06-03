@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Syndication_Feeds / Display title: Модули: Ленты синдикации -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Syndication_Feeds",
+  "title": "Модули: Ленты синдикации ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group / Display title: Группа файловой системы -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group",
+  "title": "Группа файловой системы ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание группы
 

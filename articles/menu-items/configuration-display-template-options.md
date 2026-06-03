@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Display_Template_Options / Display title: Параметры отображения шаблона   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Display_Template_Options",
+  "title": "Параметры отображения шаблона   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

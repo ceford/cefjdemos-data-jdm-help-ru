@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mass_Mail_Users / Display title: Массовая рассылка пользователям  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
+  "title": "Массовая рассылка пользователям  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Registration_Form / Display title: Форма регистрации -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Registration_Form",
+  "title": "Форма регистрации ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

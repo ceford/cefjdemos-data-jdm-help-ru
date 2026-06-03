@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Options / Display title: Языки: Варианты   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Options",
+  "title": "Языки: Варианты   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

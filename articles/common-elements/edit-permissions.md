@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Permissions / Display title: Разрешения на редактирование  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Permissions",
+  "title": "Разрешения на редактирование  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Назначение
 

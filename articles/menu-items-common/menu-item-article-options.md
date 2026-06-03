@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Article_Options / Display title: Параметры статьи элемента меню  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Article_Options",
+  "title": "Параметры статьи элемента меню  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

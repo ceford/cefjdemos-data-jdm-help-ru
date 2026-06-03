@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Search_Term_Analysis / Display title: Умный Поиск: Анализ Поисковых Запросов  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Term_Analysis",
+  "title": "Умный Поиск: Анализ Поисковых Запросов  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

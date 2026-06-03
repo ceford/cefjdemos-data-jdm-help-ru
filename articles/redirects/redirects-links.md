@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirects:_Links / Display title: Перенаправления: Ссылки -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirects:_Links",
+  "title": "Перенаправления: Ссылки ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

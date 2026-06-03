@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Edit_Category / Display title: Редактировать категорию   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Edit_Category",
+  "title": "Редактировать категорию   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Назначение
 

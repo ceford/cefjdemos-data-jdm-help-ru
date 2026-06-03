@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds:_New_or_Edit / Display title: Ленты новостей: Редактировать -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds:_New_or_Edit",
+  "title": "Ленты новостей: Редактировать ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

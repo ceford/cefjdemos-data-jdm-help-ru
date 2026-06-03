@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Search_Filters / Display title: Умный поиск: фильтры поиска  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters",
+  "title": "Умный поиск: фильтры поиска  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Privacy_Dashboard / Display title: Модули: Панель конфиденциальности  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Dashboard",
+  "title": "Модули: Панель конфиденциальности  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

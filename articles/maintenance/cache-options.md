@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Cache:_Options / Display title: Кэш: Опции -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Cache:_Options",
+  "title": "Кэш: Опции ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

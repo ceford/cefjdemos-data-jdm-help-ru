@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Batch_Process / Display title: Список пакетной обработки -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Batch_Process",
+  "title": "Список пакетной обработки ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Назначение
 

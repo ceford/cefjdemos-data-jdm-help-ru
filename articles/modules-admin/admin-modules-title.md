@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Title / Display title: Модули: Заголовок  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Title",
+  "title": "Модули: Заголовок  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

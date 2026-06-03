@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks / Display title: Планировщик задач -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks",
+  "title": "Планировщик задач ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

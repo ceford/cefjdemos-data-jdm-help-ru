@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group / Display title: Группа аутентификации -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group",
+  "title": "Группа аутентификации ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание группы
 

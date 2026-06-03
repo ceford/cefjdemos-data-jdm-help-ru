@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Workflows_List / Display title: Рабочие процессы   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Workflows_List",
+  "title": "Рабочие процессы   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

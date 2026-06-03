@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Installer:_Options / Display title: Установщик: Параметры -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Installer:_Options",
+  "title": "Установщик: Параметры ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_News_Feed_Categories / Display title: Перечислить все категории новостной ленты -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_News_Feed_Categories",
+  "title": "Перечислить все категории новостной ленты ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

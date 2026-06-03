@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Login_Form / Display title: Модули: Форма входа -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Login_Form",
+  "title": "Модули: Форма входа ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 

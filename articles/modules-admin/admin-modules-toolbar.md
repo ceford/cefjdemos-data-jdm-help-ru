@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Toolbar / Display title: Модули: Панель инструментов  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Toolbar",
+  "title": "Модули: Панель инструментов  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Описание
 
