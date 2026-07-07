@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy_Dashboard",
-  "title": "Панель конфиденциальности  ",
+  "title": "Панель конфиденциальности ",
   "description": "", 
   "author": ""
 }

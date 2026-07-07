@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Contacts:_Categories",
-  "title": "Контакты: Категории ",
+  "title": "Контакты: Категории",
   "description": "", 
   "author": ""
 }

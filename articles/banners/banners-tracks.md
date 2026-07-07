@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_Tracks",
-  "title": "Баннеры: Треки ",
+  "title": "Баннеры: Треки",
   "description": "", 
   "author": ""
 }

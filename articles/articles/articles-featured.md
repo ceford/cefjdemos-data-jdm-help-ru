@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Articles:_Featured",
-  "title": "Статьи: Рекомендуемые ",
+  "title": "Статьи: Рекомендуемые",
   "description": "", 
   "author": ""
 }

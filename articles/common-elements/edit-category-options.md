@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Edit_Category_Options",
-  "title": "Изменить параметры категории ",
+  "title": "Изменить параметры категории",
   "description": "", 
   "author": ""
 }

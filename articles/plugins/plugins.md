@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Plugins",
-  "title": "Плагины ",
+  "title": "Плагины: Введение",
   "description": "", 
   "author": ""
 }

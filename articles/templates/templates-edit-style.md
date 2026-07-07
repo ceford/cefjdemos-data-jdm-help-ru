@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Edit_Style",
-  "title": "Шаблоны: Редактировать стиль  ",
+  "title": "Шаблоны: Редактировать стиль ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
-  "title": "Шаблоны: Настройка источника ",
+  "title": "Шаблоны: Настройка источника",
   "description": "", 
   "author": ""
 }

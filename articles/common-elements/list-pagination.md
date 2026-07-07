@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Pagination",
-  "title": "Разбиение списка на страницы ",
+  "title": "Разбиение списка на страницы",
   "description": "", 
   "author": ""
 }

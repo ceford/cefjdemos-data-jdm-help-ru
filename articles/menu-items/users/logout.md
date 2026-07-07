@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Logout",
-  "title": "Выйти из системы  ",
+  "title": "Выйти из системы ",
   "description": "", 
   "author": ""
 }

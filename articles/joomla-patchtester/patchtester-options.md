@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Patch_Tester_Options",
-  "title": "Опции тестировщика патчей  ",
+  "title": "Опции тестировщика патчей ",
   "description": "", 
   "author": ""
 }

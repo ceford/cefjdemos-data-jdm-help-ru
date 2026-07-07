@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Update_Sites",
-  "title": "Обновление сайтов  ",
+  "title": "Обновление сайтов: Введение",
   "description": "", 
   "author": ""
 }

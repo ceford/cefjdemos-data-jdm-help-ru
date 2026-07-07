@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Weblinks:_Options",
-  "title": "Параметры веб-ссылок  ",
+  "title": "Параметры веб-ссылок ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Templates",
-  "title": "Шаблоны: Шаблоны   ",
+  "title": "Шаблоны: Шаблоны  ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options",
-  "title": "Многоязычные ассоциации: Варианты   ",
+  "title": "Многоязычные ассоциации: Варианты  ",
   "description": "", 
   "author": ""
 }

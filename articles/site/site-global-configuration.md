@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Global_Configuration",
-  "title": "Глобальная конфигурация  ",
+  "title": "Глобальная конфигурация ",
   "description": "", 
   "author": ""
 }

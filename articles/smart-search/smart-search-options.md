@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Options",
-  "title": "Умный поиск: Опции ",
+  "title": "Умный поиск: Опции",
   "description": "", 
   "author": ""
 }

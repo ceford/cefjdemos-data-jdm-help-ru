@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations",
-  "title": "Многоязычные ассоциации  ",
+  "title": "Многоязычные ассоциации: Введение",
   "description": "", 
   "author": ""
 }

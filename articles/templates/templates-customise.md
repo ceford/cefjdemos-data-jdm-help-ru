@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Customise",
-  "title": "Шаблоны: Настройка   ",
+  "title": "Шаблоны: Настройка  ",
   "description": "", 
   "author": ""
 }

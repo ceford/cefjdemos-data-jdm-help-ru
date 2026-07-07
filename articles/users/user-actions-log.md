@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Actions_Log",
-  "title": "Журнал действий пользователей   ",
+  "title": "Журнал действий пользователей  ",
   "description": "", 
   "author": ""
 }

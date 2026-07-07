@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_New_or_Edit_Step",
-  "title": "Экскурсии с гидом: Редактировать шаг ",
+  "title": "Экскурсии с гидом: Редактировать шаг",
   "description": "", 
   "author": ""
 }

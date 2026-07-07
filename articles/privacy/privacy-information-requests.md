@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Information_Requests",
-  "title": "Конфиденциальность: Запросы информации  ",
+  "title": "Конфиденциальность: Запросы информации ",
   "description": "", 
   "author": ""
 }

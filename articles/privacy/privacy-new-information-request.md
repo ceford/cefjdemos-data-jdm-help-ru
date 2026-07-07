@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_New_Information_Request",
-  "title": "Конфиденциальность: Новый запрос информации  ",
+  "title": "Конфиденциальность: Новый запрос информации ",
   "description": "", 
   "author": ""
 }

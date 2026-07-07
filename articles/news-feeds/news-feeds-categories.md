@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds:_Categories",
-  "title": "Новостные ленты: Категории  ",
+  "title": "Новостные ленты: Категории ",
   "description": "", 
   "author": ""
 }

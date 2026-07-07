@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Tags:_New_or_Edit",
-  "title": "Теги: Новый или Редактировать ",
+  "title": "Теги: Новый или Редактировать",
   "description": "", 
   "author": ""
 }

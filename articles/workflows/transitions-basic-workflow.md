@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Transitions_List:_Basic_Workflow",
-  "title": "Переходы: Основной рабочий процесс  ",
+  "title": "Переходы: Основной рабочий процесс ",
   "description": "", 
   "author": ""
 }

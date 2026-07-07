@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus:_Items",
-  "title": "Меню: Пункты  ",
+  "title": "Меню: Пункты ",
   "description": "", 
   "author": ""
 }

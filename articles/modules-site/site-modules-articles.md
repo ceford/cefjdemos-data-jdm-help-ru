@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Site_Modules:_Articles",
-  "title": "Модули: Статьи   ",
+  "title": "Модули: Статьи  ",
   "description": "", 
   "author": ""
 }

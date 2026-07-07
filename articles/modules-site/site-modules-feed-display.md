@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Feed_Display",
-  "title": "Модули: Отображение Ленты ",
+  "title": "Модули: Отображение Ленты",
   "description": "", 
   "author": ""
 }

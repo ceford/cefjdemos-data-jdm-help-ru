@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Joomla_Update:_Options",
-  "title": "Обновление Joomla: Параметры ",
+  "title": "Обновление Joomla: Параметры",
   "description": "", 
   "author": ""
 }

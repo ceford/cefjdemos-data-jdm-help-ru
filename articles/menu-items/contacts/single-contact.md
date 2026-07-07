@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Single_Contact",
-  "title": "Один контакт ",
+  "title": "Один контакт",
   "description": "", 
   "author": ""
 }

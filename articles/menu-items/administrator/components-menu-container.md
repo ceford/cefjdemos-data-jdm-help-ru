@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Components_Menu_Container",
-  "title": "Пункт меню: Компоненты контейнера меню  ",
+  "title": "Пункт меню: Компоненты контейнера меню ",
   "description": "", 
   "author": ""
 }

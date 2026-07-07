@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Password_Reset",
-  "title": "Сброс пароля  ",
+  "title": "Сброс пароля ",
   "description": "", 
   "author": ""
 }

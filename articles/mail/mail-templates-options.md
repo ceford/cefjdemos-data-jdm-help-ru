@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mail_Templates:_Options",
-  "title": "Шаблоны писем: Опции ",
+  "title": "Шаблоны писем: Опции",
   "description": "", 
   "author": ""
 }

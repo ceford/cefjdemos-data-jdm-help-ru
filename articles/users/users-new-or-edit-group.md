@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group",
-  "title": "Пользователи: создать или изменить группу ",
+  "title": "Пользователи: создать или изменить группу",
   "description": "", 
   "author": ""
 }

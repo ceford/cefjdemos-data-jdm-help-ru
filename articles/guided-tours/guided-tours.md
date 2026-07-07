@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours",
-  "title": "Экскурсии с гидом ",
+  "title": "Экскурсии с гидом: Введение",
   "description": "", 
   "author": ""
 }

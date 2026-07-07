@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Categories_Edit",
-  "title": "Веб-ссылки: Редактировать категорию  ",
+  "title": "Веб-ссылки: Редактировать категорию ",
   "description": "", 
   "author": ""
 }

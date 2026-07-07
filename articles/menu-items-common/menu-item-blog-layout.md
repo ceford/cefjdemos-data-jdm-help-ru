@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
-  "title": "Макет блога элемента меню ",
+  "title": "Макет блога элемента меню",
   "description": "", 
   "author": ""
 }

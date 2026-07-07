@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client",
-  "title": "Баннеры: Редактировать клиента  ",
+  "title": "Баннеры: Редактировать клиента ",
   "description": "", 
   "author": ""
 }

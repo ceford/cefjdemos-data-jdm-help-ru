@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions_Modules_Administrator",
-  "title": "Модули (Администратор)  ",
+  "title": "Модули (Администратор) ",
   "description": "", 
   "author": ""
 }

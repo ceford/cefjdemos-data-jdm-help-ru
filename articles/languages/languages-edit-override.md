@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Override",
-  "title": "Языки: Изменить Переопределение ",
+  "title": "Языки: Изменить Переопределение",
   "description": "", 
   "author": ""
 }

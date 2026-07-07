@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group",
-  "title": "Группа установщиков ",
+  "title": "Группа установщиков",
   "description": "", 
   "author": ""
 }

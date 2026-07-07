@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Articles:_Categories",
-  "title": "Статьи: Категории ",
+  "title": "Статьи: Категории",
   "description": "", 
   "author": ""
 }

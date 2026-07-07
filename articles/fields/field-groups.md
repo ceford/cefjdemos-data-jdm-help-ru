@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Component:_Field_Groups",
-  "title": "Компонент: Группы полей ",
+  "title": "Компонент: Группы полей",
   "description": "", 
   "author": ""
 }

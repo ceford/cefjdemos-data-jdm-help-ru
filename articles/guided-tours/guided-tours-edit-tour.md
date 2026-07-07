@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_New_or_Edit_Tour",
-  "title": "Экскурсии: Редактировать тур ",
+  "title": "Экскурсии: Редактировать тур",
   "description": "", 
   "author": ""
 }

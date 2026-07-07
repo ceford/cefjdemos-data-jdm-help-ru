@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Edit_User_Profile",
-  "title": "Редактировать профиль пользователя   ",
+  "title": "Редактировать профиль пользователя  ",
   "description": "", 
   "author": ""
 }

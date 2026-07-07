@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Login",
-  "title": "Модули: Вход в систему ",
+  "title": "Модули: Вход в систему",
   "description": "", 
   "author": ""
 }

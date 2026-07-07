@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Manage",
-  "title": "Расширения: Управление   ",
+  "title": "Расширения: Управление  ",
   "description": "", 
   "author": ""
 }

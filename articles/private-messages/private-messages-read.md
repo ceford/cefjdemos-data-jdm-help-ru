@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Private_Messages:_Read",
-  "title": "Личные сообщения: Просмотр  ",
+  "title": "Личные сообщения: Просмотр ",
   "description": "", 
   "author": ""
 }

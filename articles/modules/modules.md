@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules",
-  "title": "Модули   ",
+  "title": "Модули: Введение",
   "description": "", 
   "author": ""
 }

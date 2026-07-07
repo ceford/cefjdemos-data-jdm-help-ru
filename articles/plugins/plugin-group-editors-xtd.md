@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group",
-  "title": "Группа кнопок Editors Xtd  ",
+  "title": "Группа кнопок Editors Xtd ",
   "description": "", 
   "author": ""
 }

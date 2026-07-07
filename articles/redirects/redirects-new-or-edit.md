@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirects:_New_or_Edit",
-  "title": "Перенаправления: Создать или Изменить  ",
+  "title": "Перенаправления: Создать или Изменить ",
   "description": "", 
   "author": ""
 }

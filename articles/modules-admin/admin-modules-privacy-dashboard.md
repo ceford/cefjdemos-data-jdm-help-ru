@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Dashboard",
-  "title": "Модули: Панель конфиденциальности  ",
+  "title": "Модули: Панель конфиденциальности ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Alias",
-  "title": "Псевдоним Пункта Меню  ",
+  "title": "Псевдоним Пункта Меню ",
   "description": "", 
   "author": ""
 }

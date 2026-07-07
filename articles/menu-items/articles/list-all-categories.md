@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories",
-  "title": "Перечислить все категории ",
+  "title": "Перечислить все категории",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit",
-  "title": "Многоязычные ассоциации: Редактировать  ",
+  "title": "Многоязычные ассоциации: Редактировать ",
   "description": "", 
   "author": ""
 }

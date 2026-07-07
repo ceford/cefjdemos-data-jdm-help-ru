@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_User_Group",
-  "title": "Группа пользователей ",
+  "title": "Группа пользователей",
   "description": "", 
   "author": ""
 }

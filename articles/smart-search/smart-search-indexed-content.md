@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Indexed_Content",
-  "title": "Умный Поиск: Индексированный Контент   ",
+  "title": "Умный Поиск: Индексированный Контент  ",
   "description": "", 
   "author": ""
 }

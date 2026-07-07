@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Options",
-  "title": "Конфиденциальность: Опции  ",
+  "title": "Конфиденциальность: Опции ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Contacts:_Options",
-  "title": "Контакты: Опции ",
+  "title": "Контакты: Опции",
   "description": "", 
   "author": ""
 }

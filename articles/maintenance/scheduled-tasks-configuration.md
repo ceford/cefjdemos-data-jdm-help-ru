@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Options",
-  "title": "Планировщик задач: Настройки ",
+  "title": "Планировщик задач: Настройки",
   "description": "", 
   "author": ""
 }

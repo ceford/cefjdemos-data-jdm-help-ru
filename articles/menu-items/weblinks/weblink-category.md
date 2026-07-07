@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Category",
-  "title": "Перечислить веб-ссылки в категории  ",
+  "title": "Перечислить веб-ссылки в категории ",
   "description": "", 
   "author": ""
 }

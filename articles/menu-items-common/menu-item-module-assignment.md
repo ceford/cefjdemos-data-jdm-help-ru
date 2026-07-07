@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Module_Assignment",
-  "title": "Назначение модуля пункта меню  ",
+  "title": "Назначение модуля пункта меню ",
   "description": "", 
   "author": ""
 }

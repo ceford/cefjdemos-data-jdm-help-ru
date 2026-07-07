@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Actions_Log:_Options",
-  "title": "Журнал действий пользователя: Параметры  ",
+  "title": "Журнал действий пользователя: Параметры ",
   "description": "", 
   "author": ""
 }

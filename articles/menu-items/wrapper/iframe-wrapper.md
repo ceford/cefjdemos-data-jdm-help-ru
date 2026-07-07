@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Iframe_Wrapper",
-  "title": "Обёртка для Iframe ",
+  "title": "Обёртка для Iframe",
   "description": "", 
   "author": ""
 }

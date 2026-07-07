@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Contacts:_New_or_Edit",
-  "title": "Контакты: Редактировать ",
+  "title": "Контакты: Редактировать",
   "description": "", 
   "author": ""
 }

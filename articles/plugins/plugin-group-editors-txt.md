@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group",
-  "title": "Группа редакторов   ",
+  "title": "Группа редакторов  ",
   "description": "", 
   "author": ""
 }

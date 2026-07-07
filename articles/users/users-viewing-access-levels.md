@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels",
-  "title": "Пользователи: Уровни доступа для просмотра  ",
+  "title": "Пользователи: Уровни доступа для просмотра ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Profile",
-  "title": "Пользователи: новый или редактирование  ",
+  "title": "Пользователи: новый или редактирование ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Edit",
-  "title": "Изменить задачу ",
+  "title": "Изменить задачу",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Term_Analysis",
-  "title": "Умный Поиск: Анализ Поисковых Запросов  ",
+  "title": "Умный Поиск: Анализ Поисковых Запросов ",
   "description": "", 
   "author": ""
 }

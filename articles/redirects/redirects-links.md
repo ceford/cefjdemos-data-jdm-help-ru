@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirects:_Links",
-  "title": "Перенаправления: Ссылки ",
+  "title": "Перенаправления: Ссылки",
   "description": "", 
   "author": ""
 }

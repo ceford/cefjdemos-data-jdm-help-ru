@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Media:_Options",
-  "title": "Средства массовой информации: Варианты ",
+  "title": "Средства массовой информации: Варианты",
   "description": "", 
   "author": ""
 }

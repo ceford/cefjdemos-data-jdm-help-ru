@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Quick_Icons",
-  "title": "Модули: Быстрые значки ",
+  "title": "Модули: Быстрые значки",
   "description": "", 
   "author": ""
 }

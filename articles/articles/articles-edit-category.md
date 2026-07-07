@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Articles:_New_or_Edit_Category",
-  "title": "Статьи: Изменить категорию  ",
+  "title": "Статьи: Изменить категорию ",
   "description": "", 
   "author": ""
 }

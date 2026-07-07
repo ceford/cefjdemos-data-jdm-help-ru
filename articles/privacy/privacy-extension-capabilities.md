@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Extension_Capabilities",
-  "title": "Конфиденциальность: Возможности расширения  ",
+  "title": "Конфиденциальность: Возможности расширения ",
   "description": "", 
   "author": ""
 }

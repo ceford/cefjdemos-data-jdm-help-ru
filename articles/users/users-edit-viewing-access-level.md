@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level",
-  "title": "Пользователи: Изменить уровень доступа к просмотру ",
+  "title": "Пользователи: Изменить уровень доступа к просмотру",
   "description": "", 
   "author": ""
 }

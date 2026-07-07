@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Weblinks",
-  "title": "Модули: Веб-ссылки   ",
+  "title": "Модули: Веб-ссылки  ",
   "description": "", 
   "author": ""
 }

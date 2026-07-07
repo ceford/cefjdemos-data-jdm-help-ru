@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Private_Messages",
-  "title": "Личные сообщения  ",
+  "title": "Личные сообщения: Введение",
   "description": "", 
   "author": ""
 }
