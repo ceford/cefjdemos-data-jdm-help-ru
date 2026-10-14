@@ -48,7 +48,7 @@
 
 ## Скриншот
 
-![Форма модуля статей вкладка модуля](../../../en/images/modules-site/site-modules-articles/01-module-tab.png)
+![Форма модуля статей вкладка модуля](../../../ru/images/modules-site/site-modules-articles/01-module-tab.png)
 
 ## Поля формы
 
@@ -73,7 +73,7 @@
 
 ### Вкладка опций отображения
 
-![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/site-modules-articles/02-display-options-tab.png)
+![Форма модуля статей, вкладка модуля](../../../ru/images/modules-site/site-modules-articles/02-display-options-tab.png)
 
 - **Только заголовок (списки)** (*Да/Нет*). Если *Да*, список статей состоит только из заголовков статей, связанных со статьей. Все остальные опции скрыты.
 - **Макет**
@@ -109,7 +109,7 @@
 
 ### Вкладка опций фильтрации
 
-![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/site-modules-articles/03-filtering-options-tab.png)
+![Форма модуля статей, вкладка модуля](../../../ru/images/modules-site/site-modules-articles/03-filtering-options-tab.png)
 
 - **Избранные статьи**
   - *Показать* Позволяет избранным статьям появляться в списке.
@@ -139,7 +139,7 @@
 
 ### Вкладка опций упорядочивания
 
-![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/site-modules-articles/04-ordering-options-tab.png)
+![Форма модуля статей, вкладка модуля](../../../ru/images/modules-site/site-modules-articles/04-ordering-options-tab.png)
 
 - **Поле статьи для упорядочивания**
   - *Порядок статьи* Порядок, в котором статьи вручную располагаются на экране администратора *Контент > Статьи*.
@@ -153,7 +153,7 @@
 
 ### Вкладка опций группировки
 
-![Форма модуля статей, вкладка модуля](../../../en/images/modules-site/site-modules-articles/05-grouping-options-tab.png)
+![Форма модуля статей, вкладка модуля](../../../ru/images/modules-site/site-modules-articles/05-grouping-options-tab.png)
 
 Поля *Поле группировки по дате* и *Формат отображения месяца и года* видны только когда выбрана группировка по дате.
 

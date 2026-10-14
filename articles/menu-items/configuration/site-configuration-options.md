@@ -41,7 +41,6 @@
 
 ## Скриншот интерфейса
 
-![Форма настройки параметров сайта на интерфейсе](../../../../en/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
+![Форма настройки параметров сайта на интерфейсе](../../../../ru/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
 
 *Переведено с помощью openai.com*
-

@@ -43,7 +43,6 @@
 
 ## Скриншот интерфейса
 
-![Параметры шаблона отображения формы интерфейса](../../../../en/images/menu-items/configuration/display-template-options/02-frontend.png)
+![Параметры шаблона отображения формы интерфейса](../../../../ru/images/menu-items/configuration/display-template-options/02-frontend.png)
 
 *Переведено openai.com*
-
